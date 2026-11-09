@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="kyobo-master" data-pptx-master-name="KYOBO Report" data-pptx-layout="03j_content_compare" data-pptx-layout-name="Option Compare">
+  <!-- KYOBO — 03j Criteria × options with recommended column + verdict strip -->
+
+  <rect id="master-bg" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+  <line id="layout-rule-navy" x1="320" y1="92" x2="1236" y2="92" stroke="#003975" stroke-width="8" stroke-linecap="round" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <line id="layout-rule-green" x1="0" y1="92" x2="332" y2="92" stroke="#4DB848" stroke-width="8" stroke-linecap="butt" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <image id="layout-mark" href="../images/kyobo-mark.png" x="1152" y="24" width="88" height="44" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <rect id="layout-verdict-band" x="40" y="568" width="1200" height="80" fill="none" stroke="#003975" stroke-width="2" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-placeholder-bounds="40 24 1080 56">
+    <text id="title-carrier" data-pptx-placeholder-carrier="true" x="40" y="64" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" letter-spacing="-1" fill="#141450">{{PAGE_TITLE}}</text>
+  </g>
+  <g id="key-message-slot" data-pptx-placeholder="body" data-pptx-placeholder-idx="1" data-pptx-placeholder-bounds="40 116 1200 56">
+    <text id="key-message-carrier" data-pptx-placeholder-carrier="true" x="640" y="154" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="28" font-weight="700" letter-spacing="-0.8" text-anchor="middle" fill="#141450">“ {{KEY_MESSAGE}} ”</text>
+  </g>
+  <g id="source-slot" data-pptx-placeholder="footer" data-pptx-placeholder-idx="2" data-pptx-placeholder-bounds="40 676 960 24">
+    <text id="source-carrier" data-pptx-placeholder-carrier="true" x="40" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" fill="#141450">{{SOURCE}}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-placeholder-idx="3" data-pptx-placeholder-bounds="1140 676 100 24">
+    <text id="page-number-carrier" data-pptx-placeholder-carrier="true" x="1240" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" text-anchor="end" fill="#141450">{{PAGE_NUM}}</text>
+  </g>
+  <g id="criteria-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="10" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="40 252 240 288">
+    <rect x="40" y="252" width="240" height="288" fill="#F2F2F2"/>
+    <text x="160" y="296" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#141450">투자비</text>
+    <line x1="40" y1="324" x2="1240" y2="324" stroke="#C8C8C8" stroke-width="1"/>
+    <text x="160" y="368" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#141450">구축 기간</text>
+    <line x1="40" y1="396" x2="1240" y2="396" stroke="#C8C8C8" stroke-width="1"/>
+    <text x="160" y="440" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#141450">Capa 증가</text>
+    <line x1="40" y1="468" x2="1240" y2="468" stroke="#C8C8C8" stroke-width="1"/>
+    <text x="160" y="512" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#141450">운영 리스크</text>
+    <line x1="40" y1="540" x2="1240" y2="540" stroke="#C8C8C8" stroke-width="1"/>
+  </g>
+  <g id="option-a-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="11" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="304 196 448 344">
+    <rect x="304" y="196" width="448" height="56" fill="#D9D9D9"/>
+    <text x="528" y="232" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#141450">A안  신규 분류기 도입</text>
+    <text x="528" y="296" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" text-anchor="middle" fill="#141450">32억</text>
+    <text x="528" y="368" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" text-anchor="middle" fill="#141450">9개월</text>
+    <text x="528" y="440" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" text-anchor="middle" fill="#141450">+35%</text>
+    <text x="528" y="512" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" text-anchor="middle" fill="#141450">중</text>
+  </g>
+  <g id="option-b-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="12" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="776 196 448 344">
+    <rect x="776" y="196" width="448" height="56" fill="#003975"/>
+    <text x="1000" y="232" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#FFFFFF">B안  기존 설비 이전 + 보강</text>
+    <text x="1000" y="296" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#141450">14억</text>
+    <text x="1000" y="368" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#141450">5개월</text>
+    <text x="1000" y="440" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#141450">+20%</text>
+    <text x="1000" y="512" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#141450">하</text>
+    <rect x="776" y="196" width="448" height="344" fill="none" stroke="#003975" stroke-width="2" stroke-dasharray="4,4"/>
+  </g>
+  <g id="verdict-slot" data-pptx-placeholder="body" data-pptx-placeholder-idx="13" data-pptx-placeholder-bounds="40 568 1200 80">
+    <text id="verdict-carrier" data-pptx-placeholder-carrier="true" x="64" y="616" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.5" fill="#003975">권고  |  {{VERDICT}}</text>
+  </g>
+</svg>

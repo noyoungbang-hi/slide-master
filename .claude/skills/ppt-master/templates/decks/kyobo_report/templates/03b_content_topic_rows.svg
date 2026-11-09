@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="kyobo-master" data-pptx-master-name="KYOBO Report" data-pptx-layout="03b_content_topic_rows" data-pptx-layout-name="Topic Rows">
+  <!-- KYOBO — 03b Topic label + bullet rows (source p.3) -->
+
+  <rect id="master-bg" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+  <line id="layout-rule-navy" x1="320" y1="92" x2="1236" y2="92" stroke="#003975" stroke-width="8" stroke-linecap="round" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <line id="layout-rule-green" x1="0" y1="92" x2="332" y2="92" stroke="#4DB848" stroke-width="8" stroke-linecap="butt" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <image id="layout-mark" href="../images/kyobo-mark.png" x="1152" y="24" width="88" height="44" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-placeholder-bounds="40 24 1080 56">
+    <text id="title-carrier" data-pptx-placeholder-carrier="true" x="40" y="64" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" letter-spacing="-1" fill="#141450">{{PAGE_TITLE}}</text>
+  </g>
+  <g id="key-message-slot" data-pptx-placeholder="body" data-pptx-placeholder-idx="1" data-pptx-placeholder-bounds="40 116 1200 56">
+    <text id="key-message-carrier" data-pptx-placeholder-carrier="true" x="640" y="154" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="28" font-weight="700" letter-spacing="-0.8" text-anchor="middle" fill="#141450">“ {{KEY_MESSAGE}} ”</text>
+  </g>
+  <g id="source-slot" data-pptx-placeholder="footer" data-pptx-placeholder-idx="2" data-pptx-placeholder-bounds="40 676 960 24">
+    <text id="source-carrier" data-pptx-placeholder-carrier="true" x="40" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" fill="#141450">{{SOURCE}}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-placeholder-idx="3" data-pptx-placeholder-bounds="1140 676 100 24">
+    <text id="page-number-carrier" data-pptx-placeholder-carrier="true" x="1240" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" text-anchor="end" fill="#141450">{{PAGE_NUM}}</text>
+  </g>
+  <g id="topic-1-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="10" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="40 200 1200 96">
+    <rect x="40" y="200" width="300" height="96" fill="#F2F2F2"/>
+    <text x="190" y="255" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.6" text-anchor="middle" fill="#141450">통합 운영모델 완성</text>
+    <rect x="372" y="229" width="6" height="6" fill="#141450"/>
+    <text x="388" y="238" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">[운영] 현장 운영이슈 적기 대응체계 구축으로 운영모델 완성도 ↑</text>
+    <rect x="372" y="261" width="6" height="6" fill="#141450"/>
+    <text x="388" y="270" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">[프로세스] 채널별 특화된 고효율 프로세스 구현</text>
+  </g>
+  <g id="topic-2-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="11" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="40 314 1200 96">
+    <rect x="40" y="314" width="300" height="96" fill="#F2F2F2"/>
+    <text x="190" y="369" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.6" text-anchor="middle" fill="#141450">인프라 최적화 / Capa 확충</text>
+    <rect x="372" y="343" width="6" height="6" fill="#141450"/>
+    <text x="388" y="352" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">분류설비 노후화 대응 / Capa 향상을 위한 설비 보강</text>
+    <rect x="372" y="375" width="6" height="6" fill="#141450"/>
+    <text x="388" y="384" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">입하 · 출하 공간 확보 및 재배치로 활용도 ↑</text>
+  </g>
+  <g id="topic-3-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="12" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="40 428 1200 96">
+    <rect x="40" y="428" width="300" height="96" fill="#F2F2F2"/>
+    <text x="190" y="483" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.6" text-anchor="middle" fill="#141450">영업채널 지원 극대화</text>
+    <rect x="372" y="457" width="6" height="6" fill="#141450"/>
+    <text x="388" y="466" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">영업채널 니즈 반영한 지원체계 로드맵 수립 / 시행</text>
+    <rect x="372" y="489" width="6" height="6" fill="#141450"/>
+    <text x="388" y="498" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">판매 · 재고 · 수요 데이터 기반 유통 운영 체계 수립</text>
+  </g>
+  <g id="topic-4-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="13" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="40 542 1200 96">
+    <rect x="40" y="542" width="300" height="96" fill="#F2F2F2"/>
+    <text x="190" y="597" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.6" text-anchor="middle" fill="#141450">선제적 리스크 방어</text>
+    <rect x="372" y="571" width="6" height="6" fill="#141450"/>
+    <text x="388" y="580" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">소방 · 산업안전 통합컨설팅 기반 위험 사전 차단</text>
+    <rect x="372" y="603" width="6" height="6" fill="#141450"/>
+    <text x="388" y="612" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">법규 준수 체계 확립을 통한 상시 무재해 사업장 구축</text>
+  </g>
+</svg>

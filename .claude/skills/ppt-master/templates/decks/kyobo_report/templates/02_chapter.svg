@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="kyobo-master" data-pptx-master-name="KYOBO Report" data-pptx-layout="02_chapter" data-pptx-layout-name="Chapter">
+  <!-- KYOBO — 02 Chapter divider (large number + two-tone rule) -->
+
+  <rect id="master-bg" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+  <image id="layout-mark" href="../images/kyobo-mark.png" x="1152" y="24" width="88" height="44" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <line id="layout-chapter-rule-navy" x1="200" y1="392" x2="1080" y2="392" stroke="#003975" stroke-width="8" stroke-linecap="round" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <line id="layout-chapter-rule-green" x1="0" y1="392" x2="212" y2="392" stroke="#4DB848" stroke-width="8" stroke-linecap="butt" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="chapter-num-slot" data-pptx-placeholder="body" data-pptx-placeholder-idx="1" data-pptx-placeholder-bounds="120 236 400 120">
+    <text id="chapter-num-carrier" data-pptx-placeholder-carrier="true" x="120" y="340" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="104" font-weight="800" letter-spacing="-3" fill="#003975">{{CHAPTER_NUM}}</text>
+  </g>
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-placeholder-bounds="120 420 1000 60">
+    <text id="title-carrier" data-pptx-placeholder-carrier="true" x="120" y="464" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="40" font-weight="800" letter-spacing="-1" fill="#141450">{{CHAPTER_TITLE}}</text>
+  </g>
+  <g id="chapter-desc-slot" data-pptx-placeholder="body" data-pptx-placeholder-idx="2" data-pptx-placeholder-bounds="120 488 1000 32">
+    <text id="chapter-desc-carrier" data-pptx-placeholder-carrier="true" x="120" y="512" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#444462">{{CHAPTER_DESC}}</text>
+  </g>
+</svg>

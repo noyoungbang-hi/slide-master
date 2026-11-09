@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="kyobo-master" data-pptx-master-name="KYOBO Report" data-pptx-layout="03k_content_org_rnr" data-pptx-layout-name="Organization / R&amp;R">
+  <!-- KYOBO — 03k Org chart (lead → 4 teams) with R&R boxes -->
+
+  <rect id="master-bg" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+  <line id="layout-rule-navy" x1="320" y1="92" x2="1236" y2="92" stroke="#003975" stroke-width="8" stroke-linecap="round" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <line id="layout-rule-green" x1="0" y1="92" x2="332" y2="92" stroke="#4DB848" stroke-width="8" stroke-linecap="butt" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <image id="layout-mark" href="../images/kyobo-mark.png" x="1152" y="24" width="88" height="44" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-placeholder-bounds="40 24 1080 56">
+    <text id="title-carrier" data-pptx-placeholder-carrier="true" x="40" y="64" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" letter-spacing="-1" fill="#141450">{{PAGE_TITLE}}</text>
+  </g>
+  <g id="key-message-slot" data-pptx-placeholder="body" data-pptx-placeholder-idx="1" data-pptx-placeholder-bounds="40 116 1200 56">
+    <text id="key-message-carrier" data-pptx-placeholder-carrier="true" x="640" y="154" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="28" font-weight="700" letter-spacing="-0.8" text-anchor="middle" fill="#141450">“ {{KEY_MESSAGE}} ”</text>
+  </g>
+  <g id="source-slot" data-pptx-placeholder="footer" data-pptx-placeholder-idx="2" data-pptx-placeholder-bounds="40 676 960 24">
+    <text id="source-carrier" data-pptx-placeholder-carrier="true" x="40" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" fill="#141450">{{SOURCE}}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-placeholder-idx="3" data-pptx-placeholder-bounds="1140 676 100 24">
+    <text id="page-number-carrier" data-pptx-placeholder-carrier="true" x="1240" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" text-anchor="end" fill="#141450">{{PAGE_NUM}}</text>
+  </g>
+  <g id="org-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="10" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="40 196 1200 452">
+    <rect x="520" y="196" width="240" height="64" fill="#003975"/>
+    <text x="640" y="236" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#FFFFFF">유통지원단장</text>
+    <line x1="640" y1="260" x2="640" y2="292" stroke="#444462" stroke-width="2"/>
+    <line x1="212" y1="292" x2="1068" y2="292" stroke="#444462" stroke-width="2"/>
+    <line x1="212" y1="292" x2="212" y2="320" stroke="#444462" stroke-width="2"/>
+    <rect x="80" y="320" width="264" height="56" fill="#D9D9D9"/>
+    <text x="212" y="355" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#141450">운영팀</text>
+    <rect x="80" y="392" width="264" height="256" fill="none" stroke="#444462" stroke-width="1" stroke-dasharray="4,4"/>
+    <rect x="100" y="427" width="6" height="6" fill="#141450"/>
+    <text x="116" y="436" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" letter-spacing="-0.5" fill="#141450">입출고 · 재고 운영</text>
+    <rect x="100" y="467" width="6" height="6" fill="#141450"/>
+    <text x="116" y="476" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" letter-spacing="-0.5" fill="#141450">현장 이슈 대응</text>
+    <rect x="100" y="507" width="6" height="6" fill="#141450"/>
+    <text x="116" y="516" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" letter-spacing="-0.5" fill="#141450">표준작업지침</text>
+    <line x1="497" y1="292" x2="497" y2="320" stroke="#444462" stroke-width="2"/>
+    <rect x="365" y="320" width="264" height="56" fill="#D9D9D9"/>
+    <text x="497" y="355" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#141450">설비 · 인프라팀</text>
+    <rect x="365" y="392" width="264" height="256" fill="none" stroke="#444462" stroke-width="1" stroke-dasharray="4,4"/>
+    <rect x="385" y="427" width="6" height="6" fill="#141450"/>
+    <text x="401" y="436" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" letter-spacing="-0.5" fill="#141450">분류설비 보강</text>
+    <rect x="385" y="467" width="6" height="6" fill="#141450"/>
+    <text x="401" y="476" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" letter-spacing="-0.5" fill="#141450">보관공간 확충</text>
+    <rect x="385" y="507" width="6" height="6" fill="#141450"/>
+    <text x="401" y="516" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" letter-spacing="-0.5" fill="#141450">Capa 관리</text>
+    <line x1="783" y1="292" x2="783" y2="320" stroke="#444462" stroke-width="2"/>
+    <rect x="651" y="320" width="264" height="56" fill="#D9D9D9"/>
+    <text x="783" y="355" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#141450">기획 · 데이터팀</text>
+    <rect x="651" y="392" width="264" height="256" fill="none" stroke="#444462" stroke-width="1" stroke-dasharray="4,4"/>
+    <rect x="671" y="427" width="6" height="6" fill="#141450"/>
+    <text x="687" y="436" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" letter-spacing="-0.5" fill="#141450">물류비 지표 개발</text>
+    <rect x="671" y="467" width="6" height="6" fill="#141450"/>
+    <text x="687" y="476" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" letter-spacing="-0.5" fill="#141450">채널 지원 로드맵</text>
+    <rect x="671" y="507" width="6" height="6" fill="#141450"/>
+    <text x="687" y="516" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" letter-spacing="-0.5" fill="#141450">수요 데이터 분석</text>
+    <line x1="1068" y1="292" x2="1068" y2="320" stroke="#444462" stroke-width="2"/>
+    <rect x="936" y="320" width="264" height="56" fill="#D9D9D9"/>
+    <text x="1068" y="355" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#141450">안전팀</text>
+    <rect x="936" y="392" width="264" height="256" fill="none" stroke="#444462" stroke-width="1" stroke-dasharray="4,4"/>
+    <rect x="956" y="427" width="6" height="6" fill="#141450"/>
+    <text x="972" y="436" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" letter-spacing="-0.5" fill="#141450">소방 · 산업안전</text>
+    <rect x="956" y="467" width="6" height="6" fill="#141450"/>
+    <text x="972" y="476" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" letter-spacing="-0.5" fill="#141450">중대재해 대응</text>
+    <rect x="956" y="507" width="6" height="6" fill="#141450"/>
+    <text x="972" y="516" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" letter-spacing="-0.5" fill="#141450">방재 로드맵</text>
+  </g>
+</svg>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="kyobo-master" data-pptx-master-name="KYOBO Report" data-pptx-layout="03c_content_exec_summary" data-pptx-layout-name="Executive Summary">
+  <!-- KYOBO — 03c Executive summary (conclusion band + 3 evidence + request) -->
+
+  <rect id="master-bg" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+  <line id="layout-rule-navy" x1="320" y1="92" x2="1236" y2="92" stroke="#003975" stroke-width="8" stroke-linecap="round" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <line id="layout-rule-green" x1="0" y1="92" x2="332" y2="92" stroke="#4DB848" stroke-width="8" stroke-linecap="butt" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <image id="layout-mark" href="../images/kyobo-mark.png" x="1152" y="24" width="88" height="44" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-placeholder-bounds="40 24 1080 56">
+    <text id="title-carrier" data-pptx-placeholder-carrier="true" x="40" y="64" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" letter-spacing="-1" fill="#141450">{{PAGE_TITLE}}</text>
+  </g>
+  <g id="key-message-slot" data-pptx-placeholder="body" data-pptx-placeholder-idx="1" data-pptx-placeholder-bounds="40 116 1200 56">
+    <text id="key-message-carrier" data-pptx-placeholder-carrier="true" x="640" y="154" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="28" font-weight="700" letter-spacing="-0.8" text-anchor="middle" fill="#141450">“ {{KEY_MESSAGE}} ”</text>
+  </g>
+  <g id="source-slot" data-pptx-placeholder="footer" data-pptx-placeholder-idx="2" data-pptx-placeholder-bounds="40 676 960 24">
+    <text id="source-carrier" data-pptx-placeholder-carrier="true" x="40" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" fill="#141450">{{SOURCE}}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-placeholder-idx="3" data-pptx-placeholder-bounds="1140 676 100 24">
+    <text id="page-number-carrier" data-pptx-placeholder-carrier="true" x="1240" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" text-anchor="end" fill="#141450">{{PAGE_NUM}}</text>
+  </g>
+  <g id="conclusion-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="10" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="40 196 1200 84">
+    <rect x="40" y="196" width="1200" height="84" fill="#003975"/>
+    <text x="72" y="232" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">결론</text>
+    <text x="72" y="262" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="22" font-weight="700" letter-spacing="-0.6" fill="#FFFFFF">부곡리 Hub 센터 중심 통합 운영모델을 ’27년까지 완성</text>
+  </g>
+  <g id="evidence-1-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="11" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="40 300 384 220">
+    <rect x="40" y="300" width="384" height="48" fill="#D9D9D9"/>
+    <text x="60" y="332" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#141450">근거 1  |  운영</text>
+    <rect x="40" y="348" width="384" height="172" fill="none" stroke="#C8C8C8" stroke-width="1"/>
+    <rect x="60" y="383" width="6" height="6" fill="#141450"/>
+    <text x="76" y="392" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">Hub 센터 통합으로 거점 일원화</text>
+    <rect x="60" y="419" width="6" height="6" fill="#141450"/>
+    <text x="76" y="428" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">재고 운영 단일화 완료</text>
+  </g>
+  <g id="evidence-2-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="12" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="448 300 384 220">
+    <rect x="448" y="300" width="384" height="48" fill="#D9D9D9"/>
+    <text x="468" y="332" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#141450">근거 2  |  비용</text>
+    <rect x="448" y="348" width="384" height="172" fill="none" stroke="#C8C8C8" stroke-width="1"/>
+    <rect x="468" y="383" width="6" height="6" fill="#141450"/>
+    <text x="484" y="392" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">채널별 물류비 지표 도입</text>
+    <rect x="468" y="419" width="6" height="6" fill="#141450"/>
+    <text x="484" y="428" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">공정별 원가 모니터링 시작</text>
+  </g>
+  <g id="evidence-3-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="13" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="856 300 384 220">
+    <rect x="856" y="300" width="384" height="48" fill="#D9D9D9"/>
+    <text x="876" y="332" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#141450">근거 3  |  안전</text>
+    <rect x="856" y="348" width="384" height="172" fill="none" stroke="#C8C8C8" stroke-width="1"/>
+    <rect x="876" y="383" width="6" height="6" fill="#141450"/>
+    <text x="892" y="392" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">중대재해 필수요건 충족</text>
+    <rect x="876" y="419" width="6" height="6" fill="#141450"/>
+    <text x="892" y="428" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">상시 무재해 사업장 유지</text>
+  </g>
+  <g id="request-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="14" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="40 540 1200 108">
+    <rect x="40" y="540" width="1200" height="108" fill="#F2F2F2"/>
+    <text x="72" y="578" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#003975">요청사항</text>
+    <text x="72" y="612" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.6" fill="#141450">- 분류설비 보강 예산 승인 (’27년 상반기)</text>
+    <text x="72" y="638" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.6" fill="#141450">- 메자닌 증설 공사 일정 확정</text>
+  </g>
+</svg>

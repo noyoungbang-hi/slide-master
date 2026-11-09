@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="kyobo-master" data-pptx-master-name="KYOBO Report" data-pptx-layout="03f_content_chart_insight" data-pptx-layout-name="Chart + Insight">
+  <!-- KYOBO — 03f Chart (left 60%) + insight box (right) -->
+
+  <rect id="master-bg" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+  <line id="layout-rule-navy" x1="320" y1="92" x2="1236" y2="92" stroke="#003975" stroke-width="8" stroke-linecap="round" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <line id="layout-rule-green" x1="0" y1="92" x2="332" y2="92" stroke="#4DB848" stroke-width="8" stroke-linecap="butt" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <image id="layout-mark" href="../images/kyobo-mark.png" x="1152" y="24" width="88" height="44" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-placeholder-bounds="40 24 1080 56">
+    <text id="title-carrier" data-pptx-placeholder-carrier="true" x="40" y="64" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" letter-spacing="-1" fill="#141450">{{PAGE_TITLE}}</text>
+  </g>
+  <g id="key-message-slot" data-pptx-placeholder="body" data-pptx-placeholder-idx="1" data-pptx-placeholder-bounds="40 116 1200 56">
+    <text id="key-message-carrier" data-pptx-placeholder-carrier="true" x="640" y="154" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="28" font-weight="700" letter-spacing="-0.8" text-anchor="middle" fill="#141450">“ {{KEY_MESSAGE}} ”</text>
+  </g>
+  <g id="source-slot" data-pptx-placeholder="footer" data-pptx-placeholder-idx="2" data-pptx-placeholder-bounds="40 676 960 24">
+    <text id="source-carrier" data-pptx-placeholder-carrier="true" x="40" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" fill="#141450">{{SOURCE}}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-placeholder-idx="3" data-pptx-placeholder-bounds="1140 676 100 24">
+    <text id="page-number-carrier" data-pptx-placeholder-carrier="true" x="1240" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" text-anchor="end" fill="#141450">{{PAGE_NUM}}</text>
+  </g>
+  <g id="chart-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="10" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="40 196 720 452">
+    <text x="40" y="214" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" fill="#141450">연도별 물동량 (단위: 만 권)</text>
+    <line x1="72" y1="600" x2="740" y2="600" stroke="#444462" stroke-width="1"/>
+    <rect x="104" y="418" width="64" height="182" fill="#D9D9D9"/>
+    <text x="136" y="407.6" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#141450">980</text>
+    <text x="136" y="624" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="14" text-anchor="middle" fill="#141450">’22</text>
+    <rect x="232" y="379" width="64" height="221" fill="#D9D9D9"/>
+    <text x="264" y="369.20000000000005" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#141450">1,060</text>
+    <text x="264" y="624" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="14" text-anchor="middle" fill="#141450">’23</text>
+    <rect x="360" y="350" width="64" height="250" fill="#D9D9D9"/>
+    <text x="392" y="340.4" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#141450">1,120</text>
+    <text x="392" y="624" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="14" text-anchor="middle" fill="#141450">’24</text>
+    <rect x="488" y="310" width="64" height="290" fill="#D9D9D9"/>
+    <text x="520" y="299.6" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#141450">1,205</text>
+    <text x="520" y="624" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="14" text-anchor="middle" fill="#141450">’25</text>
+    <rect x="616" y="272" width="64" height="328" fill="#003975"/>
+    <text x="648" y="261.68" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#003975">1,284</text>
+    <text x="648" y="624" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="14" text-anchor="middle" fill="#141450">’26</text>
+  </g>
+  <g id="insight-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="11" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="792 196 448 452">
+    <rect x="792" y="196" width="448" height="48" fill="#003975"/>
+    <text x="816" y="228" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">시사점</text>
+    <rect x="792" y="244" width="448" height="404" fill="none" stroke="#003975" stroke-width="2" stroke-dasharray="4,4"/>
+    <rect x="816" y="283" width="6" height="6" fill="#141450"/>
+    <text x="832" y="292" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">5년간 연평균 7% 성장</text>
+    <rect x="816" y="323" width="6" height="6" fill="#141450"/>
+    <text x="832" y="332" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">온라인 채널 비중 확대가 주 요인</text>
+    <rect x="816" y="363" width="6" height="6" fill="#141450"/>
+    <text x="832" y="372" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">’27년 Capa 한계 도달 예상</text>
+    <rect x="816" y="403" width="6" height="6" fill="#141450"/>
+    <text x="832" y="412" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">→ 설비 보강 선제 투자 필요</text>
+  </g>
+</svg>

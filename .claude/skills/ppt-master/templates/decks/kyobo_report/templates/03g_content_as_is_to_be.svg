@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="kyobo-master" data-pptx-master-name="KYOBO Report" data-pptx-layout="03g_content_as_is_to_be" data-pptx-layout-name="As-Is / To-Be">
+  <!-- KYOBO — 03g As-Is (gray) → To-Be (navy) with center chevron -->
+
+  <rect id="master-bg" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+  <line id="layout-rule-navy" x1="320" y1="92" x2="1236" y2="92" stroke="#003975" stroke-width="8" stroke-linecap="round" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <line id="layout-rule-green" x1="0" y1="92" x2="332" y2="92" stroke="#4DB848" stroke-width="8" stroke-linecap="butt" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <image id="layout-mark" href="../images/kyobo-mark.png" x="1152" y="24" width="88" height="44" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <polygon id="layout-chevron" points="584,380 640,380 680,422.0 640,464 584,464" fill="#003975" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-placeholder-bounds="40 24 1080 56">
+    <text id="title-carrier" data-pptx-placeholder-carrier="true" x="40" y="64" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" letter-spacing="-1" fill="#141450">{{PAGE_TITLE}}</text>
+  </g>
+  <g id="key-message-slot" data-pptx-placeholder="body" data-pptx-placeholder-idx="1" data-pptx-placeholder-bounds="40 116 1200 56">
+    <text id="key-message-carrier" data-pptx-placeholder-carrier="true" x="640" y="154" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="28" font-weight="700" letter-spacing="-0.8" text-anchor="middle" fill="#141450">“ {{KEY_MESSAGE}} ”</text>
+  </g>
+  <g id="source-slot" data-pptx-placeholder="footer" data-pptx-placeholder-idx="2" data-pptx-placeholder-bounds="40 676 960 24">
+    <text id="source-carrier" data-pptx-placeholder-carrier="true" x="40" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" fill="#141450">{{SOURCE}}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-placeholder-idx="3" data-pptx-placeholder-bounds="1140 676 100 24">
+    <text id="page-number-carrier" data-pptx-placeholder-carrier="true" x="1240" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" text-anchor="end" fill="#141450">{{PAGE_NUM}}</text>
+  </g>
+  <g id="as-is-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="10" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="40 196 520 452">
+    <rect x="40" y="196" width="520" height="56" fill="#D9D9D9"/>
+    <text x="300" y="232" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#141450">현황 (As-Is)</text>
+    <rect x="40" y="252" width="520" height="396" fill="none" stroke="#444462" stroke-width="1" stroke-dasharray="4,4"/>
+    <text x="64" y="300" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">○ 이원화된 물류 거점</text>
+    <text x="64" y="330" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" fill="#444462">- 북시티 · 부곡리 재고 분산</text>
+    <text x="64" y="388" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">○ 수기 중심 지표 관리</text>
+    <text x="64" y="418" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" fill="#444462">- 월 단위 사후 집계</text>
+    <text x="64" y="476" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">○ 개별 안전 점검</text>
+    <text x="64" y="506" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" fill="#444462">- 사업장별 상이한 기준</text>
+  </g>
+  <g id="to-be-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="11" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="720 196 520 452">
+    <rect x="720" y="196" width="520" height="56" fill="#003975"/>
+    <text x="980" y="232" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#FFFFFF">개선 방향 (To-Be)</text>
+    <rect x="720" y="252" width="520" height="396" fill="none" stroke="#003975" stroke-width="2" stroke-dasharray="4,4"/>
+    <text x="744" y="300" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">○ 부곡리 단일 Hub 운영</text>
+    <text x="744" y="330" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" fill="#444462">- 재고 · 운영 일원화</text>
+    <text x="744" y="388" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">○ 데이터 기반 실시간 지표</text>
+    <text x="744" y="418" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" fill="#444462">- 채널 · 공정별 원가 모니터링</text>
+    <text x="744" y="476" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">○ 통합 안전 관리 체계</text>
+    <text x="744" y="506" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" fill="#444462">- 상시 무재해 사업장</text>
+  </g>
+</svg>

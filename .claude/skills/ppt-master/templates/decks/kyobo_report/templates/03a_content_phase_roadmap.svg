@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="kyobo-master" data-pptx-master-name="KYOBO Report" data-pptx-layout="03a_content_phase_roadmap" data-pptx-layout-name="Phase Roadmap">
+  <!-- KYOBO — 03a Phase roadmap (source p.2; current phase = navy) -->
+
+  <rect id="master-bg" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+  <line id="layout-rule-navy" x1="320" y1="92" x2="1236" y2="92" stroke="#003975" stroke-width="8" stroke-linecap="round" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <line id="layout-rule-green" x1="0" y1="92" x2="332" y2="92" stroke="#4DB848" stroke-width="8" stroke-linecap="butt" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <image id="layout-mark" href="../images/kyobo-mark.png" x="1152" y="24" width="88" height="44" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-placeholder-bounds="40 24 1080 56">
+    <text id="title-carrier" data-pptx-placeholder-carrier="true" x="40" y="64" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" letter-spacing="-1" fill="#141450">{{PAGE_TITLE}}</text>
+  </g>
+  <g id="key-message-slot" data-pptx-placeholder="body" data-pptx-placeholder-idx="1" data-pptx-placeholder-bounds="40 116 1200 56">
+    <text id="key-message-carrier" data-pptx-placeholder-carrier="true" x="640" y="154" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="28" font-weight="700" letter-spacing="-0.8" text-anchor="middle" fill="#141450">“ {{KEY_MESSAGE}} ”</text>
+  </g>
+  <g id="source-slot" data-pptx-placeholder="footer" data-pptx-placeholder-idx="2" data-pptx-placeholder-bounds="40 676 960 24">
+    <text id="source-carrier" data-pptx-placeholder-carrier="true" x="40" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" fill="#141450">{{SOURCE}}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-placeholder-idx="3" data-pptx-placeholder-bounds="1140 676 100 24">
+    <text id="page-number-carrier" data-pptx-placeholder-carrier="true" x="1240" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" text-anchor="end" fill="#141450">{{PAGE_NUM}}</text>
+  </g>
+  <g id="phase-1-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="10" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="40 196 392 452">
+    <text x="44" y="214" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#141450">[Phase 1] 2009~2022</text>
+    <polygon id="phase-1-arrow" points="40,228 400,228 432,256.0 400,284 40,284" fill="#D9D9D9"/>
+    <text x="220" y="264" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.6" text-anchor="middle" fill="#141450">인프라 구축과 확장</text>
+    <rect x="40" y="304" width="356" height="344" fill="none" stroke="#444462" stroke-width="1" stroke-dasharray="4,4"/>
+    <text x="56" y="340" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" letter-spacing="-0.6" fill="#141450">○ 물류 인프라 구축 / 확장 전환</text>
+    <text x="56" y="372" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.6" fill="#141450">- ’09년 북시티센터 오픈</text>
+    <text x="56" y="404" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.6" fill="#141450">- ’14년 부곡리센터 오픈</text>
+  </g>
+  <g id="phase-2-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="11" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="444 196 392 452">
+    <text x="448" y="214" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#141450">[Phase 2] 2023~2027</text>
+    <polygon id="phase-2-arrow" points="444,228 804,228 836,256.0 804,284 444,284" fill="#003975"/>
+    <text x="624" y="264" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.6" text-anchor="middle" fill="#FFFFFF">경쟁력 강화 / Hub 센터 완성</text>
+    <rect x="444" y="304" width="356" height="344" fill="none" stroke="#003975" stroke-width="2" stroke-dasharray="4,4"/>
+    <text x="460" y="340" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" letter-spacing="-0.6" fill="#141450">○ 서비스 확대 기반 경쟁력 강화</text>
+    <text x="460" y="372" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.6" fill="#141450">- 일요배송 / 새벽배송(’23년)</text>
+    <text x="460" y="404" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.6" fill="#141450">- 통합 운영모델의 완성(’27년)</text>
+  </g>
+  <g id="phase-3-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="12" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="848 196 392 452">
+    <text x="852" y="214" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#141450">[Phase 3] 2028~2030</text>
+    <polygon id="phase-3-arrow" points="848,228 1208,228 1240,256.0 1208,284 848,284" fill="#D9D9D9"/>
+    <text x="1028" y="264" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.6" text-anchor="middle" fill="#141450">지능화 전환</text>
+    <rect x="848" y="304" width="356" height="344" fill="none" stroke="#444462" stroke-width="1" stroke-dasharray="4,4"/>
+    <text x="864" y="340" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" letter-spacing="-0.6" fill="#141450">○ 데이터 기반 지능형 물류 전환</text>
+    <text x="864" y="372" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.6" fill="#141450">- AI를 활용한 지능형 물류체계</text>
+  </g>
+</svg>

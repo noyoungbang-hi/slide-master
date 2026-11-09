@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="kyobo-master" data-pptx-master-name="KYOBO Report" data-pptx-layout="04_ending" data-pptx-layout-name="Ending">
+  <!-- KYOBO — 04 Ending (wave + closing line + signature) -->
+
+  <rect id="master-bg" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+  <image id="layout-ending-wave" href="../images/kyobo-cover-wave.png" x="0" y="-40" width="1280" height="886" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <image id="layout-ending-signature" href="../images/kyobo-bookstore-logo.jpg" x="576" y="620" width="128" height="60" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="thanks-slot" data-pptx-placeholder="title" data-pptx-placeholder-bounds="120 176 1040 72">
+    <text id="thanks-carrier" data-pptx-placeholder-carrier="true" x="640" y="228" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="44" font-weight="800" letter-spacing="-1" text-anchor="middle" fill="#141450">{{THANK_YOU}}</text>
+  </g>
+  <g id="contact-slot" data-pptx-placeholder="body" data-pptx-placeholder-idx="1" data-pptx-placeholder-bounds="120 256 1040 32">
+    <text id="contact-carrier" data-pptx-placeholder-carrier="true" x="640" y="280" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" text-anchor="middle" fill="#444462">{{CONTACT_INFO}}</text>
+  </g>
+</svg>

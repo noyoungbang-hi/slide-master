@@ -21,6 +21,17 @@
       "delivery_purpose": "balanced"
     }
   },
+  "kyobo_report": {
+    "summary": "교보문고 사내 보고서 — 사업계획, 운영방향, 실적 보고, 현안 보고, 추진 일정 보고 (navy-green 개조식 보고서)",
+    "canvas_format": "ppt169",
+    "page_count": 16,
+    "primary_color": "#003975",
+    "defaults": {
+      "mode": "briefing",
+      "visual_style": "swiss-minimal",
+      "delivery_purpose": "text"
+    }
+  },
   "mckinsey": {
     "summary": "McKinsey consulting-style strategy decks — 전략 보고서, 시장/산업 분석, 경영진 브리핑, 실행 로드맵",
     "canvas_format": "ppt169",
