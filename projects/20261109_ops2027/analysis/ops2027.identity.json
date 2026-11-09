@@ -1,0 +1,132 @@
+{
+  "source": "/home/user/slide-master/projects/20261109_ops2027/sources/ops2027.pptx",
+  "slide_count": 3,
+  "canvas": {
+    "width_px": 1058,
+    "height_px": 720,
+    "aspect": 1.4699
+  },
+  "theme": {
+    "palette": {
+      "background": "#FFFFFF",
+      "background_alt": "#C8C8C8",
+      "text": "#141450",
+      "text_alt": "#7823DC",
+      "hyperlink": "#0000FF",
+      "accent1": "#32B432",
+      "accent2": "#3264C8",
+      "accent3": "#141450",
+      "accent4": "#C8C8C8",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "primary": "#32B432"
+    },
+    "fonts": {
+      "title": {
+        "latin": "Century Gothic",
+        "ea": "나눔고딕"
+      },
+      "body": {
+        "latin": "Century Gothic",
+        "ea": "나눔고딕"
+      }
+    },
+    "sizes": {
+      "title": 21.23,
+      "body": 14.48,
+      "body_levels": [
+        14.48,
+        11.58,
+        11.58,
+        11.58,
+        11.58,
+        19.3,
+        19.3,
+        19.3,
+        19.3
+      ]
+    }
+  },
+  "observed": {
+    "fonts": {
+      "latin": [
+        {
+          "value": "나눔고딕",
+          "count": 35
+        }
+      ],
+      "ea": [
+        {
+          "value": "나눔고딕",
+          "count": 35
+        }
+      ]
+    },
+    "sizes_pt": [
+      {
+        "value": 12.0,
+        "count": 82
+      },
+      {
+        "value": 13.0,
+        "count": 71
+      },
+      {
+        "value": 9.0,
+        "count": 18
+      },
+      {
+        "value": 16.0,
+        "count": 18
+      },
+      {
+        "value": 24.0,
+        "count": 14
+      },
+      {
+        "value": 14.0,
+        "count": 11
+      },
+      {
+        "value": 13.51,
+        "count": 2
+      },
+      {
+        "value": 34.74,
+        "count": 2
+      }
+    ],
+    "colors": [
+      {
+        "value": "#003975",
+        "count": 2
+      },
+      {
+        "value": "#141450",
+        "count": 2
+      },
+      {
+        "value": "#444462",
+        "count": 2
+      }
+    ]
+  },
+  "layout_sizes_pt": [
+    {
+      "value": 6.76,
+      "count": 1
+    },
+    {
+      "value": 10.0,
+      "count": 1
+    },
+    {
+      "value": 17.37,
+      "count": 1
+    },
+    {
+      "value": 21.23,
+      "count": 1
+    }
+  ]
+}

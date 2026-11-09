@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="header">
+    <text x="72" y="96" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" letter-spacing="2" fill="#1F8A3E">2027년 가장 중요한 과제</text>
+    <text x="72" y="170" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="64" font-weight="700" fill="#0B1F4B">통합 운영모델 완성</text>
+    <text x="72" y="216" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" fill="#5B6577">부곡리 Hub센터 안정화 기반</text>
+  </g>
+  <g id="connectors">
+    <path d="M292 336 L540 400" fill="none" stroke="#6C86B8" stroke-width="3" stroke-dasharray="6 8"/>
+    <path d="M988 336 L740 400" fill="none" stroke="#6C86B8" stroke-width="3" stroke-dasharray="6 8"/>
+    <path d="M292 516 L540 452" fill="none" stroke="#6C86B8" stroke-width="3" stroke-dasharray="6 8"/>
+    <path d="M988 516 L740 452" fill="none" stroke="#6C86B8" stroke-width="3" stroke-dasharray="6 8"/>
+  </g>
+  <g id="hub-building">
+    <rect x="540" y="370" width="200" height="110" rx="10" fill="#0B1F4B"/>
+    <rect x="530" y="346" width="220" height="28" rx="10" fill="#1F8A3E"/>
+    <rect x="574" y="412" width="36" height="68" rx="5" fill="#F2F5FA"/>
+    <rect x="622" y="412" width="36" height="68" rx="5" fill="#F2F5FA"/>
+    <rect x="670" y="412" width="36" height="68" rx="5" fill="#F2F5FA"/>
+    <line x1="640" y1="346" x2="640" y2="298" stroke="#0B1F4B" stroke-width="5" stroke-linecap="round"/>
+    <polygon points="642,300 686,314 642,328" fill="#1F8A3E"/>
+    <rect x="520" y="480" width="240" height="8" rx="4" fill="#D9DEE7"/>
+  </g>
+  <g id="sat-ops">
+    <circle cx="250" cy="320" r="44" fill="#DDF1E3"/>
+    <use data-icon="tabler-outline/settings" x="228" y="298" width="44" height="44" fill="#0B1F4B"/>
+    <text x="250" y="408" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">운영</text>
+    <text x="250" y="442" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">현장 이슈 적기 대응</text>
+  </g>
+  <g id="sat-process">
+    <circle cx="1030" cy="320" r="44" fill="#DDF1E3"/>
+    <use data-icon="tabler-outline/route" x="1008" y="298" width="44" height="44" fill="#0B1F4B"/>
+    <text x="1030" y="408" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">프로세스</text>
+    <text x="1030" y="442" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">채널별 고효율 구현</text>
+  </g>
+  <g id="sat-manual">
+    <circle cx="250" cy="520" r="44" fill="#DDF1E3"/>
+    <use data-icon="tabler-outline/file-text" x="228" y="498" width="44" height="44" fill="#0B1F4B"/>
+    <text x="250" y="608" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">매뉴얼</text>
+    <text x="250" y="642" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">단일 표준작업지침</text>
+  </g>
+  <g id="sat-policy">
+    <circle cx="1030" cy="520" r="44" fill="#DDF1E3"/>
+    <use data-icon="tabler-outline/gavel" x="1008" y="498" width="44" height="44" fill="#0B1F4B"/>
+    <text x="1030" y="608" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">정책</text>
+    <text x="1030" y="642" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">Hub센터 중심 개편</text>
+  </g>
+</svg>
