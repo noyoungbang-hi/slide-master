@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="kyobo-master" data-pptx-master-name="KYOBO Report" data-pptx-layout="02_toc" data-pptx-layout-name="Contents">
+  <!-- KYOBO — 02 Table of contents (numbered rows, first row = current) -->
+
+  <rect id="master-bg" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+  <line id="layout-rule-navy" x1="320" y1="92" x2="1236" y2="92" stroke="#003975" stroke-width="8" stroke-linecap="round" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <line id="layout-rule-green" x1="0" y1="92" x2="332" y2="92" stroke="#4DB848" stroke-width="8" stroke-linecap="butt" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <image id="layout-mark" href="../images/kyobo-mark.png" x="1152" y="24" width="88" height="44" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-placeholder-bounds="40 24 1080 56">
+    <text id="title-carrier" data-pptx-placeholder-carrier="true" x="40" y="64" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" letter-spacing="-1" fill="#141450">{{PAGE_TITLE}}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-placeholder-idx="3" data-pptx-placeholder-bounds="1140 676 100 24">
+    <text id="page-number-carrier" data-pptx-placeholder-carrier="true" x="1240" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" text-anchor="end" fill="#141450">{{PAGE_NUM}}</text>
+  </g>
+  <g id="toc-item-1">
+    <rect x="120" y="168" width="64" height="64" fill="#003975"/>
+    <text x="152" y="210" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="800" text-anchor="middle" fill="#FFFFFF">01</text>
+    <text x="212" y="198" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="22" font-weight="700" fill="#141450">{{TOC_ITEM_1_TITLE}}</text>
+    <text x="212" y="224" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" fill="#444462">{{TOC_ITEM_1_DESC}}</text>
+    <line x1="212" y1="248" x2="1160" y2="248" stroke="#C8C8C8" stroke-width="1"/>
+  </g>
+  <g id="toc-item-2">
+    <rect x="120" y="260" width="64" height="64" fill="#D9D9D9"/>
+    <text x="152" y="302" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="800" text-anchor="middle" fill="#141450">02</text>
+    <text x="212" y="290" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="22" font-weight="700" fill="#141450">{{TOC_ITEM_2_TITLE}}</text>
+    <text x="212" y="316" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" fill="#444462">{{TOC_ITEM_2_DESC}}</text>
+    <line x1="212" y1="340" x2="1160" y2="340" stroke="#C8C8C8" stroke-width="1"/>
+  </g>
+  <g id="toc-item-3">
+    <rect x="120" y="352" width="64" height="64" fill="#D9D9D9"/>
+    <text x="152" y="394" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="800" text-anchor="middle" fill="#141450">03</text>
+    <text x="212" y="382" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="22" font-weight="700" fill="#141450">{{TOC_ITEM_3_TITLE}}</text>
+    <text x="212" y="408" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" fill="#444462">{{TOC_ITEM_3_DESC}}</text>
+    <line x1="212" y1="432" x2="1160" y2="432" stroke="#C8C8C8" stroke-width="1"/>
+  </g>
+  <g id="toc-item-4">
+    <rect x="120" y="444" width="64" height="64" fill="#D9D9D9"/>
+    <text x="152" y="486" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="800" text-anchor="middle" fill="#141450">04</text>
+    <text x="212" y="474" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="22" font-weight="700" fill="#141450">{{TOC_ITEM_4_TITLE}}</text>
+    <text x="212" y="500" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" fill="#444462">{{TOC_ITEM_4_DESC}}</text>
+    <line x1="212" y1="524" x2="1160" y2="524" stroke="#C8C8C8" stroke-width="1"/>
+  </g>
+  <g id="toc-item-5">
+    <rect x="120" y="536" width="64" height="64" fill="#D9D9D9"/>
+    <text x="152" y="578" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="800" text-anchor="middle" fill="#141450">05</text>
+    <text x="212" y="566" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="22" font-weight="700" fill="#141450">{{TOC_ITEM_5_TITLE}}</text>
+    <text x="212" y="592" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" fill="#444462">{{TOC_ITEM_5_DESC}}</text>
+    <line x1="212" y1="616" x2="1160" y2="616" stroke="#C8C8C8" stroke-width="1"/>
+  </g>
+</svg>

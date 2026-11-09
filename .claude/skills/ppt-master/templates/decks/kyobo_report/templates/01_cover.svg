@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="kyobo-master" data-pptx-master-name="KYOBO Report" data-pptx-layout="01_cover" data-pptx-layout-name="Cover">
+  <!-- KYOBO — 01 Cover (wave cover, centered title, bookstore signature) -->
+
+  <rect id="master-bg" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+  <image id="layout-cover-wave" href="../images/kyobo-cover-wave.png" x="0" y="-40" width="1280" height="886" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <image id="layout-cover-signature" href="../images/kyobo-bookstore-logo.jpg" x="1096" y="636" width="128" height="60" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-placeholder-bounds="120 196 1040 72">
+    <text id="title-carrier" data-pptx-placeholder-carrier="true" x="640" y="248" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="46" font-weight="800" letter-spacing="-1" text-anchor="middle" fill="#141450">{{TITLE}}</text>
+  </g>
+  <g id="subtitle-slot" data-pptx-placeholder="subtitle" data-pptx-placeholder-idx="1" data-pptx-placeholder-bounds="120 276 1040 32">
+    <text id="subtitle-carrier" data-pptx-placeholder-carrier="true" x="640" y="300" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="20" text-anchor="middle" fill="#444462">{{SUBTITLE}}</text>
+  </g>
+  <g id="date-slot" data-pptx-placeholder="date" data-pptx-placeholder-idx="2" data-pptx-placeholder-bounds="900 556 340 28">
+    <text id="date-carrier" data-pptx-placeholder-carrier="true" x="1240" y="576" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" text-anchor="end" fill="#141450">{{DATE}}</text>
+  </g>
+  <g id="author-slot" data-pptx-placeholder="body" data-pptx-placeholder-idx="3" data-pptx-placeholder-bounds="900 586 340 28">
+    <text id="author-carrier" data-pptx-placeholder-carrier="true" x="1240" y="606" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" text-anchor="end" fill="#141450">{{AUTHOR}}</text>
+  </g>
+</svg>

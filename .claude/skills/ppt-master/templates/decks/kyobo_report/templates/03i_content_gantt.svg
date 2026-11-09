@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="kyobo-master" data-pptx-master-name="KYOBO Report" data-pptx-layout="03i_content_gantt" data-pptx-layout-name="Schedule (Gantt)">
+  <!-- KYOBO — 03i Monthly Gantt (navy = focus task, green diamond = milestone) -->
+
+  <rect id="master-bg" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+  <line id="layout-rule-navy" x1="320" y1="92" x2="1236" y2="92" stroke="#003975" stroke-width="8" stroke-linecap="round" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <line id="layout-rule-green" x1="0" y1="92" x2="332" y2="92" stroke="#4DB848" stroke-width="8" stroke-linecap="butt" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <image id="layout-mark" href="../images/kyobo-mark.png" x="1152" y="24" width="88" height="44" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-placeholder-bounds="40 24 1080 56">
+    <text id="title-carrier" data-pptx-placeholder-carrier="true" x="40" y="64" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" letter-spacing="-1" fill="#141450">{{PAGE_TITLE}}</text>
+  </g>
+  <g id="key-message-slot" data-pptx-placeholder="body" data-pptx-placeholder-idx="1" data-pptx-placeholder-bounds="40 116 1200 56">
+    <text id="key-message-carrier" data-pptx-placeholder-carrier="true" x="640" y="154" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="28" font-weight="700" letter-spacing="-0.8" text-anchor="middle" fill="#141450">“ {{KEY_MESSAGE}} ”</text>
+  </g>
+  <g id="source-slot" data-pptx-placeholder="footer" data-pptx-placeholder-idx="2" data-pptx-placeholder-bounds="40 676 960 24">
+    <text id="source-carrier" data-pptx-placeholder-carrier="true" x="40" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" fill="#141450">{{SOURCE}}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-placeholder-idx="3" data-pptx-placeholder-bounds="1140 676 100 24">
+    <text id="page-number-carrier" data-pptx-placeholder-carrier="true" x="1240" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" text-anchor="end" fill="#141450">{{PAGE_NUM}}</text>
+  </g>
+  <g id="gantt-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="10" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="40 196 1200 424">
+    <rect x="40" y="196" width="1200" height="40" fill="#003975"/>
+    <text x="60" y="222" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">과제</text>
+    <text x="377.5" y="222" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#FFFFFF">1월</text>
+    <text x="452.5" y="222" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#FFFFFF">2월</text>
+    <text x="527.5" y="222" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#FFFFFF">3월</text>
+    <text x="602.5" y="222" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#FFFFFF">4월</text>
+    <text x="677.5" y="222" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#FFFFFF">5월</text>
+    <text x="752.5" y="222" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#FFFFFF">6월</text>
+    <text x="827.5" y="222" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#FFFFFF">7월</text>
+    <text x="902.5" y="222" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#FFFFFF">8월</text>
+    <text x="977.5" y="222" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#FFFFFF">9월</text>
+    <text x="1052.5" y="222" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#FFFFFF">10월</text>
+    <text x="1127.5" y="222" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#FFFFFF">11월</text>
+    <text x="1202.5" y="222" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#FFFFFF">12월</text>
+    <rect x="40" y="236" width="300" height="64" fill="#F2F2F2"/>
+    <text x="60" y="275" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">분류설비 보강</text>
+    <rect x="344" y="256" width="442" height="24" fill="#D9D9D9"/>
+    <line x1="40" y1="300" x2="1240" y2="300" stroke="#C8C8C8" stroke-width="1"/>
+    <rect x="40" y="300" width="300" height="64" fill="#F2F2F2"/>
+    <text x="60" y="339" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">메자닌 증설</text>
+    <rect x="494" y="320" width="442" height="24" fill="#D9D9D9"/>
+    <line x1="40" y1="364" x2="1240" y2="364" stroke="#C8C8C8" stroke-width="1"/>
+    <rect x="40" y="364" width="300" height="64" fill="#F2F2F2"/>
+    <text x="60" y="403" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">통합 운영모델 적용</text>
+    <rect x="719" y="384" width="517" height="24" fill="#003975"/>
+    <line x1="40" y1="428" x2="1240" y2="428" stroke="#C8C8C8" stroke-width="1"/>
+    <rect x="40" y="428" width="300" height="64" fill="#F2F2F2"/>
+    <text x="60" y="467" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">물류비 지표 개발</text>
+    <rect x="569" y="448" width="442" height="24" fill="#D9D9D9"/>
+    <line x1="40" y1="492" x2="1240" y2="492" stroke="#C8C8C8" stroke-width="1"/>
+    <rect x="40" y="492" width="300" height="64" fill="#F2F2F2"/>
+    <text x="60" y="531" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">안전 · 방재 로드맵</text>
+    <rect x="344" y="512" width="892" height="24" fill="#D9D9D9"/>
+    <line x1="40" y1="556" x2="1240" y2="556" stroke="#C8C8C8" stroke-width="1"/>
+    <rect x="40" y="556" width="300" height="64" fill="#F2F2F2"/>
+    <text x="60" y="595" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">표준작업지침 제정</text>
+    <rect x="944" y="576" width="217" height="24" fill="#D9D9D9"/>
+    <line x1="40" y1="620" x2="1240" y2="620" stroke="#C8C8C8" stroke-width="1"/>
+    <line x1="415" y1="236" x2="415" y2="620" stroke="#C8C8C8" stroke-width="1" stroke-dasharray="2,2"/>
+    <line x1="490" y1="236" x2="490" y2="620" stroke="#C8C8C8" stroke-width="1" stroke-dasharray="2,2"/>
+    <line x1="565" y1="236" x2="565" y2="620" stroke="#C8C8C8" stroke-width="1" stroke-dasharray="2,2"/>
+    <line x1="640" y1="236" x2="640" y2="620" stroke="#C8C8C8" stroke-width="1" stroke-dasharray="2,2"/>
+    <line x1="715" y1="236" x2="715" y2="620" stroke="#C8C8C8" stroke-width="1" stroke-dasharray="2,2"/>
+    <line x1="790" y1="236" x2="790" y2="620" stroke="#C8C8C8" stroke-width="1" stroke-dasharray="2,2"/>
+    <line x1="865" y1="236" x2="865" y2="620" stroke="#C8C8C8" stroke-width="1" stroke-dasharray="2,2"/>
+    <line x1="940" y1="236" x2="940" y2="620" stroke="#C8C8C8" stroke-width="1" stroke-dasharray="2,2"/>
+    <line x1="1015" y1="236" x2="1015" y2="620" stroke="#C8C8C8" stroke-width="1" stroke-dasharray="2,2"/>
+    <line x1="1090" y1="236" x2="1090" y2="620" stroke="#C8C8C8" stroke-width="1" stroke-dasharray="2,2"/>
+    <line x1="1165" y1="236" x2="1165" y2="620" stroke="#C8C8C8" stroke-width="1" stroke-dasharray="2,2"/>
+    <polygon points="790,384 802,396 790,408 778,396" fill="#4DB848"/>
+    <text x="808" y="378" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="13" font-weight="700" fill="#141450">중간점검</text>
+  </g>
+</svg>

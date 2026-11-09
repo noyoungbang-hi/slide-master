@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="kyobo-master" data-pptx-master-name="KYOBO Report" data-pptx-layout="03h_content_issue_action" data-pptx-layout-name="Issue / Cause / Action">
+  <!-- KYOBO — 03h Three-column issue → cause → action rows -->
+
+  <rect id="master-bg" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+  <line id="layout-rule-navy" x1="320" y1="92" x2="1236" y2="92" stroke="#003975" stroke-width="8" stroke-linecap="round" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <line id="layout-rule-green" x1="0" y1="92" x2="332" y2="92" stroke="#4DB848" stroke-width="8" stroke-linecap="butt" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <image id="layout-mark" href="../images/kyobo-mark.png" x="1152" y="24" width="88" height="44" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-placeholder-bounds="40 24 1080 56">
+    <text id="title-carrier" data-pptx-placeholder-carrier="true" x="40" y="64" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" letter-spacing="-1" fill="#141450">{{PAGE_TITLE}}</text>
+  </g>
+  <g id="key-message-slot" data-pptx-placeholder="body" data-pptx-placeholder-idx="1" data-pptx-placeholder-bounds="40 116 1200 56">
+    <text id="key-message-carrier" data-pptx-placeholder-carrier="true" x="640" y="154" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="28" font-weight="700" letter-spacing="-0.8" text-anchor="middle" fill="#141450">“ {{KEY_MESSAGE}} ”</text>
+  </g>
+  <g id="source-slot" data-pptx-placeholder="footer" data-pptx-placeholder-idx="2" data-pptx-placeholder-bounds="40 676 960 24">
+    <text id="source-carrier" data-pptx-placeholder-carrier="true" x="40" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" fill="#141450">{{SOURCE}}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-placeholder-idx="3" data-pptx-placeholder-bounds="1140 676 100 24">
+    <text id="page-number-carrier" data-pptx-placeholder-carrier="true" x="1240" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" text-anchor="end" fill="#141450">{{PAGE_NUM}}</text>
+  </g>
+  <g id="issue-col-1-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="10" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="40 196 360 452">
+    <polygon id="issue-head-1" points="40,196 376,196 400,222.0 376,248 40,248" fill="#D9D9D9"/>
+    <text x="208.0" y="230" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#141450">이슈</text>
+    <rect x="40" y="268" width="336" height="112" fill="#F2F2F2"/>
+    <text x="60" y="330" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">분류 처리량 한계</text>
+    <rect x="40" y="396" width="336" height="112" fill="#F2F2F2"/>
+    <text x="60" y="458" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">성수기 작업동선 혼잡</text>
+    <rect x="40" y="524" width="336" height="112" fill="#F2F2F2"/>
+    <text x="60" y="586" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">화재 위험 요인</text>
+  </g>
+  <g id="issue-col-2-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="11" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="420 196 360 452">
+    <polygon id="issue-head-2" points="420,196 756,196 780,222.0 756,248 420,248" fill="#D9D9D9"/>
+    <text x="588.0" y="230" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#141450">원인</text>
+    <rect x="420" y="268" width="336" height="112" fill="#F2F2F2"/>
+    <text x="440" y="330" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">분류기 노후화(15년 경과)</text>
+    <rect x="420" y="396" width="336" height="112" fill="#F2F2F2"/>
+    <text x="440" y="458" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">입하 · 출하 공간 부족</text>
+    <rect x="420" y="524" width="336" height="112" fill="#F2F2F2"/>
+    <text x="440" y="586" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">적재 보관기준 미비</text>
+  </g>
+  <g id="issue-col-3-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="12" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="800 196 440 452">
+    <polygon id="issue-head-3" points="800,196 1240,196 1240,222.0 1240,248 800,248" fill="#003975"/>
+    <text x="1020.0" y="230" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#FFFFFF">대응 방안</text>
+    <rect x="800" y="268" width="440" height="112" fill="#FFFFFF" stroke="#003975" stroke-width="2" stroke-dasharray="4,4"/>
+    <text x="820" y="330" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">PAS-α 도입, 북시티 분류기 이전 설치</text>
+    <rect x="800" y="396" width="440" height="112" fill="#FFFFFF" stroke="#003975" stroke-width="2" stroke-dasharray="4,4"/>
+    <text x="820" y="458" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">메자닌 증설, 공간 재배치</text>
+    <rect x="800" y="524" width="440" height="112" fill="#FFFFFF" stroke="#003975" stroke-width="2" stroke-dasharray="4,4"/>
+    <text x="820" y="586" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">통합컨설팅 기반 위험 사전 차단</text>
+  </g>
+</svg>

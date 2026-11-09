@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="kyobo-master" data-pptx-master-name="KYOBO Report" data-pptx-layout="03e_content_table" data-pptx-layout-name="Table">
+  <!-- KYOBO — 03e Table (navy header row, gray first column) + takeaway strip -->
+
+  <rect id="master-bg" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+  <line id="layout-rule-navy" x1="320" y1="92" x2="1236" y2="92" stroke="#003975" stroke-width="8" stroke-linecap="round" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <line id="layout-rule-green" x1="0" y1="92" x2="332" y2="92" stroke="#4DB848" stroke-width="8" stroke-linecap="butt" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <image id="layout-mark" href="../images/kyobo-mark.png" x="1152" y="24" width="88" height="44" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-placeholder-bounds="40 24 1080 56">
+    <text id="title-carrier" data-pptx-placeholder-carrier="true" x="40" y="64" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" letter-spacing="-1" fill="#141450">{{PAGE_TITLE}}</text>
+  </g>
+  <g id="key-message-slot" data-pptx-placeholder="body" data-pptx-placeholder-idx="1" data-pptx-placeholder-bounds="40 116 1200 56">
+    <text id="key-message-carrier" data-pptx-placeholder-carrier="true" x="640" y="154" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="28" font-weight="700" letter-spacing="-0.8" text-anchor="middle" fill="#141450">“ {{KEY_MESSAGE}} ”</text>
+  </g>
+  <g id="source-slot" data-pptx-placeholder="footer" data-pptx-placeholder-idx="2" data-pptx-placeholder-bounds="40 676 960 24">
+    <text id="source-carrier" data-pptx-placeholder-carrier="true" x="40" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" fill="#141450">{{SOURCE}}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-placeholder-idx="3" data-pptx-placeholder-bounds="1140 676 100 24">
+    <text id="page-number-carrier" data-pptx-placeholder-carrier="true" x="1240" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" text-anchor="end" fill="#141450">{{PAGE_NUM}}</text>
+  </g>
+  <g id="table-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="10" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="40 196 1200 304">
+    <rect x="40" y="196" width="1200" height="48" fill="#003975"/>
+    <text x="140.0" y="227" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#FFFFFF">구분</text>
+    <text x="410.0" y="227" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#FFFFFF">현황 (’26년)</text>
+    <text x="750.0" y="227" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#FFFFFF">’27년 계획</text>
+    <text x="1000.0" y="227" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#FFFFFF">담당</text>
+    <text x="1160.0" y="227" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#FFFFFF">일정</text>
+    <rect x="40" y="244" width="200" height="64" fill="#F2F2F2"/>
+    <text x="140.0" y="283" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" letter-spacing="-0.5" text-anchor="middle" fill="#141450">운영</text>
+    <text x="260" y="283" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" fill="#141450">북시티·부곡리 이원 운영</text>
+    <text x="600" y="283" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" fill="#141450">부곡리 단일 거점 운영</text>
+    <text x="1000.0" y="283" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" text-anchor="middle" fill="#141450">운영팀</text>
+    <text x="1160.0" y="283" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" text-anchor="middle" fill="#141450">’27.03</text>
+    <line x1="40" y1="308" x2="1240" y2="308" stroke="#C8C8C8" stroke-width="1"/>
+    <rect x="40" y="308" width="200" height="64" fill="#F2F2F2"/>
+    <text x="140.0" y="347" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" letter-spacing="-0.5" text-anchor="middle" fill="#141450">설비</text>
+    <text x="260" y="347" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" fill="#141450">분류기 노후화(15년)</text>
+    <text x="600" y="347" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" fill="#141450">PAS-α 도입 · 분류기 이전</text>
+    <text x="1000.0" y="347" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" text-anchor="middle" fill="#141450">설비팀</text>
+    <text x="1160.0" y="347" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" text-anchor="middle" fill="#141450">’27.06</text>
+    <line x1="40" y1="372" x2="1240" y2="372" stroke="#C8C8C8" stroke-width="1"/>
+    <rect x="40" y="372" width="200" height="64" fill="#F2F2F2"/>
+    <text x="140.0" y="411" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" letter-spacing="-0.5" text-anchor="middle" fill="#141450">데이터</text>
+    <text x="260" y="411" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" fill="#141450">수기 물류비 집계</text>
+    <text x="600" y="411" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" fill="#141450">활동기준원가 모니터링</text>
+    <text x="1000.0" y="411" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" text-anchor="middle" fill="#141450">기획팀</text>
+    <text x="1160.0" y="411" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" text-anchor="middle" fill="#141450">’27.09</text>
+    <line x1="40" y1="436" x2="1240" y2="436" stroke="#C8C8C8" stroke-width="1"/>
+    <rect x="40" y="436" width="200" height="64" fill="#F2F2F2"/>
+    <text x="140.0" y="475" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" font-weight="700" letter-spacing="-0.5" text-anchor="middle" fill="#141450">안전</text>
+    <text x="260" y="475" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" fill="#141450">개별 점검 체계</text>
+    <text x="600" y="475" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" fill="#141450">소방 · 산업안전 통합 관리</text>
+    <text x="1000.0" y="475" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" text-anchor="middle" fill="#141450">안전팀</text>
+    <text x="1160.0" y="475" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="16" letter-spacing="-0.5" text-anchor="middle" fill="#141450">’27.12</text>
+    <line x1="40" y1="500" x2="1240" y2="500" stroke="#C8C8C8" stroke-width="1"/>
+  </g>
+  <g id="takeaway-slot" data-pptx-placeholder="body" data-pptx-placeholder-idx="11" data-pptx-placeholder-bounds="40 540 1200 108">
+    <text id="takeaway-carrier" data-pptx-placeholder-carrier="true" x="40" y="572" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">▪ {{TAKEAWAY}}</text>
+  </g>
+</svg>

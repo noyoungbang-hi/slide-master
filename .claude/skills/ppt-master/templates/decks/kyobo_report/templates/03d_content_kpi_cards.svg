@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="kyobo-master" data-pptx-master-name="KYOBO Report" data-pptx-layout="03d_content_kpi_cards" data-pptx-layout-name="KPI Cards">
+  <!-- KYOBO — 03d Four KPI cards (one navy focus) + comment rows -->
+
+  <rect id="master-bg" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false"/>
+  <line id="layout-rule-navy" x1="320" y1="92" x2="1236" y2="92" stroke="#003975" stroke-width="8" stroke-linecap="round" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <line id="layout-rule-green" x1="0" y1="92" x2="332" y2="92" stroke="#4DB848" stroke-width="8" stroke-linecap="butt" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <image id="layout-mark" href="../images/kyobo-mark.png" x="1152" y="24" width="88" height="44" data-pptx-layer="layout" data-pptx-editable="false"/>
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-placeholder-bounds="40 24 1080 56">
+    <text id="title-carrier" data-pptx-placeholder-carrier="true" x="40" y="64" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" letter-spacing="-1" fill="#141450">{{PAGE_TITLE}}</text>
+  </g>
+  <g id="key-message-slot" data-pptx-placeholder="body" data-pptx-placeholder-idx="1" data-pptx-placeholder-bounds="40 116 1200 56">
+    <text id="key-message-carrier" data-pptx-placeholder-carrier="true" x="640" y="154" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="28" font-weight="700" letter-spacing="-0.8" text-anchor="middle" fill="#141450">“ {{KEY_MESSAGE}} ”</text>
+  </g>
+  <g id="source-slot" data-pptx-placeholder="footer" data-pptx-placeholder-idx="2" data-pptx-placeholder-bounds="40 676 960 24">
+    <text id="source-carrier" data-pptx-placeholder-carrier="true" x="40" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" fill="#141450">{{SOURCE}}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-placeholder-idx="3" data-pptx-placeholder-bounds="1140 676 100 24">
+    <text id="page-number-carrier" data-pptx-placeholder-carrier="true" x="1240" y="693" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="12" text-anchor="end" fill="#141450">{{PAGE_NUM}}</text>
+  </g>
+  <g id="kpi-1-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="10" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="40 196 288 196">
+    <rect x="40" y="196" width="288" height="196" fill="#F2F2F2"/>
+    <text x="64" y="236" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#141450">물동량</text>
+    <text x="64" y="318" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="56" font-weight="800" letter-spacing="-1.5" fill="#141450">1,284<tspan font-size="20" font-weight="700" dx="6">만 권</tspan></text>
+    <text x="64" y="360" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" fill="#141450">계획 대비 +4.2%</text>
+  </g>
+  <g id="kpi-2-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="11" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="344 196 288 196">
+    <rect x="344" y="196" width="288" height="196" fill="#003975"/>
+    <text x="368" y="236" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">출고 리드타임</text>
+    <text x="368" y="318" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="56" font-weight="800" letter-spacing="-1.5" fill="#FFFFFF">18.5<tspan font-size="20" font-weight="700" dx="6">시간</tspan></text>
+    <text x="368" y="360" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" fill="#FFFFFF">전년 대비 -2.1시간</text>
+  </g>
+  <g id="kpi-3-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="12" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="648 196 288 196">
+    <rect x="648" y="196" width="288" height="196" fill="#F2F2F2"/>
+    <text x="672" y="236" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#141450">물류비율</text>
+    <text x="672" y="318" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="56" font-weight="800" letter-spacing="-1.5" fill="#141450">6.8<tspan font-size="20" font-weight="700" dx="6">%</tspan></text>
+    <text x="672" y="360" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" fill="#141450">계획 대비 -0.3%p</text>
+  </g>
+  <g id="kpi-4-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="13" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="952 196 288 196">
+    <rect x="952" y="196" width="288" height="196" fill="#F2F2F2"/>
+    <text x="976" y="236" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#141450">안전사고</text>
+    <text x="976" y="318" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="56" font-weight="800" letter-spacing="-1.5" fill="#141450">0<tspan font-size="20" font-weight="700" dx="6">건</tspan></text>
+    <text x="976" y="360" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="15" fill="#141450">’26년 누적</text>
+  </g>
+  <g id="kpi-comment-slot" data-pptx-placeholder="object" data-pptx-placeholder-idx="14" data-pptx-placeholder-binding="proxy" data-pptx-placeholder-bounds="40 416 1200 232">
+    <text x="40" y="444" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#003975">주요 코멘트</text>
+    <line x1="40" y1="460" x2="1240" y2="460" stroke="#C8C8C8" stroke-width="1"/>
+    <rect x="56" y="491" width="6" height="6" fill="#141450"/>
+    <text x="72" y="500" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">[물동량] 온라인 채널 성장으로 계획 초과 달성</text>
+    <rect x="56" y="531" width="6" height="6" fill="#141450"/>
+    <text x="72" y="540" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">[리드타임] 새벽배송 공정 개선 효과 반영</text>
+    <rect x="56" y="571" width="6" height="6" fill="#141450"/>
+    <text x="72" y="580" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" letter-spacing="-0.5" fill="#141450">[물류비율] 운송 통합 단가 인하로 목표 하회</text>
+  </g>
+</svg>
