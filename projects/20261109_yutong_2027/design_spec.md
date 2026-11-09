@@ -6,8 +6,8 @@
 | ---- | ----- |
 | **Project Name** | 2027년 유통지원단 운영방향 (yutong_2027) |
 | **Canvas Format** | PPT 16:9 (1280x720) |
-| **Page Count** | 10 |
-| **Design Style** | swiss-minimal — flat sharp-edged grid, no illustrations, structure carries the page |
+| **Page Count** | 11 |
+| **Design Style** | swiss-minimal — flat sharp-edged grid, no illustrations, structure carries the page; selective circular line icons on task pages |
 | **Target Audience** | 팀장·임원·대표 앞에서 임원이 보고하는 발표 (쉬운 말, 결론 먼저) |
 | **Use Case** | 발표용 (2026.10, 유통지원단) |
 | **Delivery Purpose** | `presentation` (body 32px, one message per page) |
@@ -121,7 +121,28 @@ Ledger rows (summary), timeline, staircase chart, before/after flow, numbered ro
 
 ## VI. Icon Usage Specification
 
-No icons. Numerals and hairlines carry structure.
+### Source
+
+- **Built-in icon library**: `templates/icons/tabler-outline` (stroke 2). Icons sit in navy circles (white glyph); on a navy block the circle is white with a navy glyph. Used selectively on P06–P10 only.
+
+### Recommended Icon List
+
+| Purpose | Icon Path | Page |
+| ------- | --------- | ---- |
+| 운영모델 | `tabler-outline/settings` | P06, P07 |
+| 인프라 | `tabler-outline/building-warehouse` | P06 |
+| 영업지원·지표 | `tabler-outline/chart-line` | P06, P09 |
+| 안전 | `tabler-outline/shield-check` | P06, P10 |
+| 프로세스 | `tabler-outline/route` | P07 |
+| 매뉴얼 | `tabler-outline/file-text` | P07 |
+| 정책 | `tabler-outline/gavel` | P07 |
+| 입하·출하 | `tabler-outline/truck` | P08 |
+| 보관 | `tabler-outline/package` | P08 |
+| 분류 | `tabler-outline/arrows-join` | P08 |
+| 데이터 | `tabler-outline/database` | P09 |
+| 영업채널 지원 | `tabler-outline/target-arrow` | P09 |
+| 화재 | `tabler-outline/flame` | P10 |
+| 로드맵 | `tabler-outline/clipboard-check` | P10 |
 
 ---
 
@@ -133,7 +154,7 @@ None — all diagrams (timeline, staircase, flow) are hand-authored native shape
 
 ## VIII. Image Resource List
 
-No image rows. No illustrations.
+No image rows. No illustrations (icons only, see §VI).
 
 ---
 
@@ -211,6 +232,12 @@ No image rows. No illustrations.
 - **Title**: 소방·산업안전과 중대재해 대응을 강화합니다
 - **Core message**: 위험을 사전에 차단하고 안전·방재 로드맵으로 상시 무재해 사업장을 구축한다.
 - **Content**: 소방·산업안전 통합컨설팅 기반 화재 취약요인·위험 사전 차단 · 중대재해처벌법 필수요건 충족 안전·방재 로드맵 수립·시행 · 법규 준수 체계 확립을 통한 상시 무재해 사업장 구축
+
+#### Slide 11 - Closing
+
+- **Layout**: Mirrors the cover: large "감사합니다" left, navy plane with year at right.
+- **Title**: 감사합니다
+- **Info**: 2027년 유통지원단 운영방향 · 2026.10 · 유통지원단
 
 ---
 

@@ -16,31 +16,35 @@
   </g>
   <g id="task-01">
     <line x1="432" y1="250" x2="1208" y2="250" stroke="#D9DEE7" stroke-width="2"/>
-    <text x="432" y="310" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#1F8A3E">01</text>
-    <text x="512" y="298" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">운영모델</text>
-    <text x="512" y="332" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">운영 · 프로세스 · 매뉴얼 · 정책 정비</text>
+    <circle cx="468" cy="298" r="28" fill="#0B1F4B"/>
+    <use data-icon="tabler-outline/settings" x="452" y="282" width="32" height="32" fill="#FFFFFF"/>
+    <text x="520" y="298" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">운영모델</text>
+    <text x="520" y="332" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">운영 · 프로세스 · 매뉴얼 · 정책 정비</text>
   </g>
   <g id="task-02">
     <line x1="432" y1="346" x2="1208" y2="346" stroke="#D9DEE7" stroke-width="2"/>
-    <text x="432" y="406" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#1F8A3E">02</text>
-    <text x="512" y="394" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">인프라 최적화 · Capa 확충</text>
-    <text x="512" y="428" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">분류설비 보강 · 보관공간 확충 · 입하·출하 재배치</text>
+    <circle cx="468" cy="394" r="28" fill="#0B1F4B"/>
+    <use data-icon="tabler-outline/building-warehouse" x="452" y="378" width="32" height="32" fill="#FFFFFF"/>
+    <text x="520" y="394" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">인프라 최적화 · Capa 확충</text>
+    <text x="520" y="428" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">분류설비 보강 · 보관공간 확충 · 입하·출하 재배치</text>
   </g>
   <g id="task-03">
     <line x1="432" y1="442" x2="1208" y2="442" stroke="#D9DEE7" stroke-width="2"/>
-    <text x="432" y="502" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#1F8A3E">03</text>
-    <text x="512" y="490" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">영업채널 지원 · 데이터 지표</text>
-    <text x="512" y="524" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">지원체계 로드맵 · 물류비 모니터링 · 데이터 체계</text>
+    <circle cx="468" cy="490" r="28" fill="#0B1F4B"/>
+    <use data-icon="tabler-outline/chart-line" x="452" y="474" width="32" height="32" fill="#FFFFFF"/>
+    <text x="520" y="490" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">영업채널 지원 · 데이터 지표</text>
+    <text x="520" y="524" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">지원체계 로드맵 · 물류비 모니터링 · 데이터 체계</text>
   </g>
   <g id="task-04">
     <line x1="432" y1="538" x2="1208" y2="538" stroke="#D9DEE7" stroke-width="2"/>
-    <text x="432" y="598" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#1F8A3E">04</text>
-    <text x="512" y="586" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">리스크 방어 · 안전규제 대응</text>
-    <text x="512" y="620" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">소방·산업안전 컨설팅 · 안전·방재 로드맵</text>
+    <circle cx="468" cy="586" r="28" fill="#0B1F4B"/>
+    <use data-icon="tabler-outline/shield-check" x="452" y="570" width="32" height="32" fill="#FFFFFF"/>
+    <text x="520" y="586" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">리스크 방어 · 안전규제 대응</text>
+    <text x="520" y="620" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">소방·산업안전 컨설팅 · 안전·방재 로드맵</text>
     <line x1="432" y1="638" x2="1208" y2="638" stroke="#D9DEE7" stroke-width="2"/>
   </g>
   <g id="footer">
     <text x="72" y="700" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">출처: 2027년 유통지원단 운영방향 (2026.10)</text>
-    <text x="1208" y="700" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">06 / 10</text>
+    <text x="1208" y="700" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">06 / 11</text>
   </g>
 </svg>

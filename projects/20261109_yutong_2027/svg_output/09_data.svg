@@ -8,32 +8,38 @@
   </g>
   <g id="step-data">
     <rect x="72" y="250" width="330" height="380" fill="#F2F5FA"/>
-    <text x="96" y="294" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">STEP 1</text>
-    <text x="96" y="340" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">데이터 체계</text>
-    <text x="96" y="394" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">판매·재고·수요</text>
-    <text x="96" y="430" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">데이터 기반</text>
-    <text x="96" y="466" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">유통 운영 체계</text>
-    <text x="96" y="502" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">수립 시도</text>
+    <circle cx="124" cy="306" r="28" fill="#0B1F4B"/>
+    <use data-icon="tabler-outline/database" x="108" y="290" width="32" height="32" fill="#FFFFFF"/>
+    <text x="168" y="314" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">STEP 1</text>
+    <text x="96" y="388" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">데이터 체계</text>
+    <text x="96" y="438" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">판매·재고·수요</text>
+    <text x="96" y="474" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">데이터 기반</text>
+    <text x="96" y="510" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">유통 운영 체계</text>
+    <text x="96" y="546" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">수립 시도</text>
   </g>
   <g id="step-index">
     <rect x="475" y="250" width="330" height="380" fill="#F2F5FA"/>
-    <text x="499" y="294" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">STEP 2</text>
-    <text x="499" y="340" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">물류비 지표</text>
-    <text x="499" y="394" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">활동기준원가</text>
-    <text x="499" y="430" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">모델 적용으로</text>
-    <text x="499" y="466" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">채널·공정별</text>
-    <text x="499" y="502" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">물류비 모니터링</text>
-    <text x="499" y="538" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">지표 개발</text>
+    <circle cx="527" cy="306" r="28" fill="#0B1F4B"/>
+    <use data-icon="tabler-outline/chart-line" x="511" y="290" width="32" height="32" fill="#FFFFFF"/>
+    <text x="571" y="314" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">STEP 2</text>
+    <text x="499" y="388" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">물류비 지표</text>
+    <text x="499" y="438" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">활동기준원가</text>
+    <text x="499" y="474" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">모델 적용으로</text>
+    <text x="499" y="510" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">채널·공정별</text>
+    <text x="499" y="546" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">물류비 모니터링</text>
+    <text x="499" y="582" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">지표 개발</text>
   </g>
   <g id="step-support">
     <rect x="878" y="250" width="330" height="380" fill="#0B1F4B"/>
-    <text x="902" y="294" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#DCE4F2">STEP 3</text>
-    <text x="902" y="340" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">영업채널 지원</text>
-    <text x="902" y="394" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">영업채널 니즈</text>
-    <text x="902" y="430" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">반영 지원체계</text>
-    <text x="902" y="466" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">로드맵 수립·시행</text>
-    <text x="902" y="502" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">중장기 전략,</text>
-    <text x="902" y="538" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">신규사업 연계</text>
+    <circle cx="930" cy="306" r="28" fill="#FFFFFF"/>
+    <use data-icon="tabler-outline/target-arrow" x="914" y="290" width="32" height="32" fill="#0B1F4B"/>
+    <text x="974" y="314" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#DCE4F2">STEP 3</text>
+    <text x="902" y="388" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">영업채널 지원</text>
+    <text x="902" y="438" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">영업채널 니즈</text>
+    <text x="902" y="474" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">반영 지원체계</text>
+    <text x="902" y="510" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">로드맵 수립·시행</text>
+    <text x="902" y="546" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">중장기 전략,</text>
+    <text x="902" y="582" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">신규사업 연계</text>
   </g>
   <g id="flow-arrows">
     <polygon points="420,418 456,440 420,462" fill="#6C86B8"/>
@@ -41,6 +47,6 @@
   </g>
   <g id="footer">
     <text x="72" y="700" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">출처: 2027년 유통지원단 운영방향 (2026.10)</text>
-    <text x="1208" y="700" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">09 / 10</text>
+    <text x="1208" y="700" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">09 / 11</text>
   </g>
 </svg>

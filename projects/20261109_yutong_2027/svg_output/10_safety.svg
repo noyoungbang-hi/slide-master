@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="ending">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
   <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
   <g id="header">
     <rect x="72" y="52" width="48" height="6" fill="#1F8A3E"/>
@@ -8,29 +8,35 @@
   </g>
   <g id="step-consulting">
     <rect x="72" y="250" width="330" height="380" fill="#F2F5FA"/>
-    <text x="96" y="294" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">STEP 1</text>
-    <text x="96" y="340" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">통합컨설팅</text>
-    <text x="96" y="394" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">소방·산업안전</text>
-    <text x="96" y="430" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">통합컨설팅 기반</text>
-    <text x="96" y="466" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">화재 취약요인과</text>
-    <text x="96" y="502" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">위험 사전 차단</text>
+    <circle cx="124" cy="306" r="28" fill="#0B1F4B"/>
+    <use data-icon="tabler-outline/flame" x="108" y="290" width="32" height="32" fill="#FFFFFF"/>
+    <text x="168" y="314" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">STEP 1</text>
+    <text x="96" y="388" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">통합컨설팅</text>
+    <text x="96" y="438" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">소방·산업안전</text>
+    <text x="96" y="474" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">통합컨설팅 기반</text>
+    <text x="96" y="510" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">화재 취약요인과</text>
+    <text x="96" y="546" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">위험 사전 차단</text>
   </g>
   <g id="step-roadmap">
     <rect x="475" y="250" width="330" height="380" fill="#F2F5FA"/>
-    <text x="499" y="294" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">STEP 2</text>
-    <text x="499" y="340" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">안전·방재 로드맵</text>
-    <text x="499" y="394" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">중대재해처벌법</text>
-    <text x="499" y="430" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">필수요건 충족</text>
-    <text x="499" y="466" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">로드맵 수립·시행</text>
+    <circle cx="527" cy="306" r="28" fill="#0B1F4B"/>
+    <use data-icon="tabler-outline/clipboard-check" x="511" y="290" width="32" height="32" fill="#FFFFFF"/>
+    <text x="571" y="314" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">STEP 2</text>
+    <text x="499" y="388" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">안전·방재 로드맵</text>
+    <text x="499" y="438" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">중대재해처벌법</text>
+    <text x="499" y="474" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">필수요건 충족</text>
+    <text x="499" y="510" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">로드맵 수립·시행</text>
   </g>
   <g id="step-goal">
     <rect x="878" y="250" width="330" height="380" fill="#0B1F4B"/>
-    <text x="902" y="294" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#DCE4F2">GOAL</text>
-    <text x="902" y="340" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">무재해 사업장</text>
-    <text x="902" y="394" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">법규 준수 체계</text>
-    <text x="902" y="430" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">확립을 통한</text>
-    <text x="902" y="466" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">상시 무재해</text>
-    <text x="902" y="502" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">사업장 구축</text>
+    <circle cx="930" cy="306" r="28" fill="#FFFFFF"/>
+    <use data-icon="tabler-outline/shield-check" x="914" y="290" width="32" height="32" fill="#0B1F4B"/>
+    <text x="974" y="314" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#DCE4F2">GOAL</text>
+    <text x="902" y="388" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">무재해 사업장</text>
+    <text x="902" y="438" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">법규 준수 체계</text>
+    <text x="902" y="474" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">확립을 통한</text>
+    <text x="902" y="510" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">상시 무재해</text>
+    <text x="902" y="546" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">사업장 구축</text>
   </g>
   <g id="flow-arrows">
     <polygon points="420,418 456,440 420,462" fill="#6C86B8"/>
@@ -38,6 +44,6 @@
   </g>
   <g id="footer">
     <text x="72" y="700" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">출처: 2027년 유통지원단 운영방향 (2026.10)</text>
-    <text x="1208" y="700" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">10 / 10</text>
+    <text x="1208" y="700" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">10 / 11</text>
   </g>
 </svg>

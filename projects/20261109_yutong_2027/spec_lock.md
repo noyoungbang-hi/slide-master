@@ -39,7 +39,7 @@
 ## icons
 - library: tabler-outline
 - stroke_width: 2
-- inventory:
+- inventory: settings, building-warehouse, chart-line, shield-check, route, file-text, gavel, truck, package, arrows-join, database, target-arrow, flame, clipboard-check
 
 ## page_rhythm
 - P01: anchor
@@ -52,6 +52,7 @@
 - P08: dense
 - P09: dense
 - P10: dense
+- P11: anchor
 
 ## pptx_structure
 - mode: flat
