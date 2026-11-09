@@ -5,10 +5,10 @@
 - format: PPT 16:9
 
 ## mode
-- mode: narrative
+- mode: pyramid
 
 ## visual_style
-- visual_style: soft-rounded
+- visual_style: swiss-minimal
 
 ## colors
 - bg: #FFFFFF
@@ -39,19 +39,19 @@
 ## icons
 - library: tabler-outline
 - stroke_width: 2
-- inventory: settings, route, file-text, gavel, building-warehouse, truck, database, chart-line, shield-check, flame, robot, flag, map-pin, package, arrows-join
+- inventory:
 
 ## page_rhythm
 - P01: anchor
-- P02: breathing
+- P02: dense
 - P03: breathing
-- P04: dense
-- P05: breathing
-- P06: anchor
+- P04: breathing
+- P05: dense
+- P06: dense
 - P07: dense
 - P08: dense
 - P09: dense
-- P10: anchor
+- P10: dense
 
 ## pptx_structure
 - mode: flat

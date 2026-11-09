@@ -6,12 +6,12 @@
 | ---- | ----- |
 | **Project Name** | 2027년 유통지원단 운영방향 (yutong_2027) |
 | **Canvas Format** | PPT 16:9 (1280x720) |
-| **Page Count** | 10 (storytelling; detail carried by speaker notes) |
-| **Design Style** | soft-rounded — hand-drawn flat vector illustrations, generous whitespace |
-| **Target Audience** | 팀장·임원·대표 앞에서 임원이 발표 (쉬운 말, 스토리텔링) |
+| **Page Count** | 10 |
+| **Design Style** | swiss-minimal — flat sharp-edged grid, no illustrations, structure carries the page |
+| **Target Audience** | 팀장·임원·대표 앞에서 임원이 보고하는 발표 (쉬운 말, 결론 먼저) |
 | **Use Case** | 발표용 (2026.10, 유통지원단) |
-| **Delivery Purpose** | `presentation` (body 32px, one idea per page, minimal text) |
-| **Content Strategy** | Story arc: where we came from → where we stand → what we finish in 2027. Plain-language slide text, diagrams over bullets, detail in notes. Facts stay sourced from the source deck only; no invented numbers. |
+| **Delivery Purpose** | `presentation` (body 32px, one message per page) |
+| **Content Strategy** | Conclusion-first report (pyramid): assertion titles, one-line takeaway, structural diagrams/tables only. No storytelling, no illustrations. Facts only from the source deck; no invented numbers. Source line on every content page. |
 | **Created Date** | 2026-11-09 |
 
 > Note: source typo `‘22년 부곡리 센터 중측` is read as `증축` (flag to user).
@@ -25,7 +25,7 @@
 | **Format** | PPT 16:9 |
 | **Dimensions** | 1280x720 |
 | **viewBox** | `0 0 1280 720` |
-| **Margins** | left/right 72px, top 56px, bottom 48px |
+| **Margins** | left/right 72px, top 52px, bottom 20px (footer) |
 | **Content Area** | x 72–1208, y 80–660 |
 
 ---
@@ -34,7 +34,7 @@
 
 ### Theme Style
 
-- **Style**: soft-rounded, mode narrative. Light theme, white field, navy + green, tints for illustration fills.
+- **Style**: swiss-minimal, mode pyramid. White field, navy plane for emphasis, green accent at single points, sharp rectangles (rx 0).
 
 > Note: navy and green inherited from the source deck's palette; tints are same-hue lightenings for illustration surfaces.
 
@@ -98,68 +98,42 @@
 
 ### Page Structure
 
-- **Header area**: kicker y≈96, title y≈150, left-flush
-- **Content area**: one hero illustration per page with ample negative space
-- **Footer area**: page number only, bottom right
+- **Header area**: green bar y=52, section tag y=96, assertion title y=156 (48 bold), one-line takeaway y=206 (32)
+- **Content area**: y 250–650, left-flush on a 72px grid
+- **Footer area**: hairline y=672, source (left) and page number (right) at y=700, 18px
 
 ### Layout Pattern Library
 
-Journey path with stops, before/after merge, hub-and-satellites, illustrated rows.
+Ledger rows (summary), timeline, staircase chart, before/after flow, numbered rows, 2x2 cells, 4-column flow, 3-box process.
 
 ### Spacing Specification
 
 | Element | Recommended Range | Current Project |
 | ------- | ---------------- | --------------- |
 | Safe margin from canvas edge | 40-60px | 72 |
-| Content block gap | 24-40px | 40 |
-| Icon-text gap | 8-16px | 12 |
+| Content block gap | 24-40px | 36 |
 
 | Element | Recommended Range | Current Project |
 | ------- | ---------------- | --------------- |
-| Card border radius | 8-16px | 16 |
+| Card border radius | 0-4px | 0 |
 
 ---
 
 ## VI. Icon Usage Specification
 
-### Source
-
-- **Built-in icon library**: `templates/icons/tabler-outline` (stroke 2)
-
-### Recommended Icon List
-
-| Purpose | Icon Path | Page |
-| ------- | --------- | ---- |
-| 운영 | `tabler-outline/settings` | P07 |
-| 프로세스 | `tabler-outline/route` | P07 |
-| 매뉴얼 | `tabler-outline/file-text` | P07 |
-| 정책 | `tabler-outline/gavel` | P07 |
-| 센터 | `tabler-outline/building-warehouse` | P08 |
-| 배송 | `tabler-outline/truck` | P03 |
-| 데이터 | `tabler-outline/database` | P09 |
-| 지표 | `tabler-outline/chart-line` | P09 |
-| 안전 | `tabler-outline/shield-check` | P09 |
-| 화재 | `tabler-outline/flame` | P09 |
-| AI 물류 | `tabler-outline/robot` | P04 |
-
-------- | --------- | ---- |
-| 서비스 확대 | `tabler-outline/truck` | P03 |
-| 운영 | `tabler-outline/settings` | P04 |
-| 프로세스 | `tabler-outline/route` | P04 |
-| 매뉴얼 | `tabler-outline/file-text` | P04 |
-| 정책 | `tabler-outline/gavel` | P04 |
+No icons. Numerals and hairlines carry structure.
 
 ---
 
 ## VII. Visualization Reference List
 
-None — all diagrams and illustrations are hand-authored vector shapes in the page SVGs (no chart-library template).
+None — all diagrams (timeline, staircase, flow) are hand-authored native shapes in the page SVGs.
 
 ---
 
 ## VIII. Image Resource List
 
-No image rows. Illustrations (buildings, trucks, floor plan, robot arm, charts, shield) are drawn as native vector shapes inside each page SVG.
+No image rows. No illustrations.
 
 ---
 
@@ -169,75 +143,77 @@ No image rows. Illustrations (buildings, trucks, floor plan, robot arm, charts, 
 
 #### Slide 01 - Cover
 
-- **Cover impact**: Hook = the Hub센터 itself; typographic title left, flat vector Hub building with trucks on a road bleeding off the right edge.
+- **Cover impact**: Typographic cover; navy plane on the right with the year as a large numeral.
 - **Title**: 2027년 유통지원단 운영방향
 - **Subtitle**: 부곡리 Hub센터 안정화 기반의 통합 운영모델 완성
 - **Info**: 2026.10 · 유통지원단
 
-#### Slide 02 - 오늘의 이야기
+#### Slide 02 - 요약
 
-- **Layout**: Three stops on a short path: 걸어온 길 → 지금 우리 자리 → 내년에 끝낼 일.
-- **Title**: 오늘, 세 장면으로 말씀드리겠습니다
-- **Core message**: 과거 → 현재 → 2027 순서로 이야기한다.
+- **Layout**: Four ledger rows (경과 / 현재 / 2027 / 이후), 2027 row emphasized.
+- **Title**: 2027년은 통합 운영모델을 완성하는 해입니다
+- **Core message**: 부곡리 Hub센터 안정화를 기반으로 4대 과제를 추진해 통합 운영모델을 완성한다.
+- **Content**: 경과 — 센터 확대와 운영 최적화로 기반 구축 · 현재 — 북시티 종료, 부곡리 단일 Hub로 일원화 · 2027 — 통합 운영모델 완성, 4대 과제 추진 · 이후 — 2028~2030 데이터 기반 지능형 물류
 
-#### Slide 03 - 걸어온 길
+#### Slide 03 - 경과
 
-- **Layout**: Horizontal timeline, pins alternating above/below the line, small truck on the line.
-- **Title**: 센터를 하나씩 늘려 왔습니다
-- **Core message**: 우리는 센터를 하나씩 늘리며 물류 기반을 만들어 왔다.
-- **Content**: 2000 청진동 센터 오픈 · 2003 봉일천 이전 · 2009 북시티센터(온라인전용) · 2014 부곡리센터(오프라인전용) · 2018 택배사·운영방식 변경 · 2022 부곡리 센터 증축 · 2023 일요·새벽배송
+- **Layout**: Horizontal timeline, entries alternating above/below the line.
+- **Title**: 센터 확대와 운영 최적화로 기반을 만들었습니다
+- **Core message**: 2000년 청진동 센터 오픈 이후 2023년 서비스 확대까지의 주요 연혁.
+- **Content**: 2000 청진동 센터 오픈 · 2003 봉일천 이전 · 2009 북시티센터(온라인전용) · 2014 부곡리센터(오프라인전용) · 2015 KB+KH 운송통합 · 2018 택배사·운영방식 변경 · 2022 부곡리 센터 증축 · 2023 일요·새벽배송
 
-#### Slide 04 - 세 단계 로드맵
+#### Slide 04 - 로드맵
 
-- **Layout**: Three-step staircase chart; step 2 highlighted as "지금", step 3 with robot-arm + data nodes.
-- **Title**: 길은 세 단계입니다
-- **Core message**: 구축과 확장을 지나 지금은 완성 단계이고, 그 끝에 지능화가 있다.
+- **Layout**: Three-step staircase chart; current step highlighted.
+- **Title**: 지금은 로드맵 2단계, Hub센터 완성 단계입니다
+- **Core message**: 구축과 확장을 지나 2027년에 Hub센터를 완성하고, 2028년부터 지능화로 전환한다.
 - **Content**: Phase 1 · 2009~2022 인프라 구축과 확장 · Phase 2 · 2023~2027 경쟁력 강화 / Hub센터 완성 · Phase 3 · 2028~2030 지능화 전환
-- **Quote**: “물리적 거점을 넘어, 데이터 기반 지능형 물류로 전환”
+- **Quote**: 물리적 거점을 넘어, 데이터 기반 지능형 물류로 전환
 
-#### Slide 05 - 하나로 모은다
+#### Slide 05 - 통합 Hub
 
-- **Layout**: Merge diagram: 북시티 + 부곡리 → 부곡리 온·오프 통합 Hub센터, outcome pills.
-- **Title**: 흩어진 거점을 하나로
-- **Core message**: 북시티를 종료하고 부곡리 단일 거점으로 재고와 운영을 일원화한다.
-- **Content**: 북시티 종료 · 부곡리 단일 거점 · 재고·운영 일원화 · 비용 효율적 유통 구조화
+- **Layout**: Before/after flow (two centers → one Hub) with four outcome columns.
+- **Title**: 부곡리 단일 거점으로 일원화합니다
+- **Core message**: 북시티를 종료하고 부곡리 온·오프 통합 Hub센터로 재고와 운영을 일원화한다.
+- **Content**: 북시티센터(온라인 전용) + 부곡리센터(오프라인 전용) → 부곡리 온·오프 통합 Hub센터 · 재고·운영 일원화 · 비용 효율적 유통 구조화 · 지속가능 통합물류 강화 · 법규 준수 체계 확립
 
-#### Slide 06 - 내년의 목표
+#### Slide 06 - 2027 운영방향
 
-- **Layout**: Central Hub with four numbered satellites (hub-and-spoke).
-- **Title**: 2027, 통합 운영모델 완성
-- **Core message**: 내년의 목표는 통합 운영모델 완성이며 네 가지 과제가 이를 받친다.
-- **Content**: ① 운영모델 ② 인프라·Capa ③ 영업채널 지원·데이터 ④ 리스크 방어·안전
+- **Layout**: Navy goal block at left, four numbered rows at right.
+- **Title**: 4대 과제로 통합 운영모델을 완성합니다
+- **Core message**: 운영모델, 인프라, 영업채널 지원·데이터, 리스크 방어 4개 과제를 추진한다.
+- **Content**: 01 운영모델 · 02 인프라 최적화 / Capa 확충 · 03 영업채널 지원 / 데이터 지표 · 04 리스크 방어 / 안전규제 대응
 
-#### Slide 07 - 과제 ① 운영모델
+#### Slide 07 - 과제 1
 
-- **Layout**: Four icon nodes in a loop around a center "통합 운영모델".
-- **Title**: 운영모델을 네 가지로 완성합니다
-- **Core message**: 운영·프로세스·매뉴얼·정책을 함께 다듬어 운영모델을 완성한다.
-- **Content**: 운영 — 현장 이슈 적기 대응 · 프로세스 — 채널별 고효율(온라인 발송 개선 外) · 매뉴얼 — 전 공정 단일 표준작업지침 · 정책 — Hub센터 중심 개편(ASRS 적재 보관기준 外)
+- **Layout**: 2x2 cells (운영 / 프로세스 / 매뉴얼 / 정책).
+- **Title**: 운영·프로세스·매뉴얼·정책을 함께 정비합니다
+- **Core message**: 현장 이슈 적기 대응체계 구축으로 운영모델 완성도를 높인다.
+- **Content**: 운영 — 현장 이슈 적기 대응체계 · 프로세스 — 채널별 고효율 구현(온라인 발송 개선 外) · 매뉴얼 — 전 공정 단일 표준작업지침 · 정책 — Hub센터 중심 개편(ASRS 적재 보관기준 外)
 
-#### Slide 08 - 과제 ② 인프라·Capa
+#### Slide 08 - 과제 2
 
-- **Layout**: Simplified floor-plan flow 입하 → 보관 → 분류 → 출하 with three upgrade markers.
-- **Title**: 더 많이, 더 막힘없이
-- **Core message**: 설비와 공간을 보강해 물량이 막힘없이 흐르게 한다.
-- **Content**: 분류설비 보강(PAS-α, 북시티 분류기 이전 설치) · 보관공간 확충(메자닌 등)·채널별 작업동선 · 입하·출하 공간 재배치
+- **Layout**: Four-stage flow strip (입하 / 보관 / 분류 / 출하) with a text column under each.
+- **Title**: 설비와 공간을 보강해 처리 능력을 확충합니다
+- **Core message**: 분류설비 보강, 보관공간 확충, 입하·출하 재배치를 추진한다.
+- **Content**: 분류설비 노후화 대응·Capa 향상(PAS-α, 북시티 분류기 이전 설치) · 메자닌 등 보관공간 확충·채널별 작업동선 확보 · 입하·출하 공간 확보 및 재배치로 활용도 향상
 
-#### Slide 09 - 과제 ③④ 데이터와 안전
+#### Slide 09 - 과제 3
 
-- **Layout**: Two halves: left data-flow (판매·재고·수요 → 지표 → 영업채널 지원), right shield (안전·소방).
-- **Title**: 숫자로 지원하고, 사고를 먼저 막습니다
-- **Core message**: 데이터로 영업채널을 지원하고 안전 위험은 사전에 차단한다.
-- **Content**: 영업채널 지원체계 로드맵 · 활동기준원가 기반 물류비 모니터링 · 판매·재고·수요 데이터 운영체계 / 소방·산업안전 통합컨설팅 · 중대재해처벌법 안전·방재 로드맵 · 상시 무재해 사업장
+- **Layout**: Three-box process (데이터 → 지표 → 영업채널 지원), last box navy.
+- **Title**: 데이터 기반으로 영업채널을 지원합니다
+- **Core message**: 판매·재고·수요 데이터와 물류비 지표를 기반으로 영업채널 지원체계를 시행한다.
+- **Content**: 판매·재고·수요 데이터 기반 유통 운영 체계 수립 시도 · 활동기준원가 모델 적용, 채널·공정별 물류비 모니터링 지표 개발 · 영업채널 니즈 반영 지원체계 로드맵 수립·시행
 
-#### Slide 10 - Closing
+#### Slide 10 - 과제 4
 
-- **Closing impact**: Staircase revisited with a flag on step 2 ("2027, 완성의 해") and the path continuing to 지능형 물류.
-- **Title**: 2027, 완성의 해
-- **Content**: 부곡리 Hub센터 안정화 기반의 통합 운영모델 완성 → 2028 지능화로
+- **Layout**: Three-box process (통합컨설팅 → 로드맵 → 무재해 사업장), last box navy.
+- **Title**: 소방·산업안전과 중대재해 대응을 강화합니다
+- **Core message**: 위험을 사전에 차단하고 안전·방재 로드맵으로 상시 무재해 사업장을 구축한다.
+- **Content**: 소방·산업안전 통합컨설팅 기반 화재 취약요인·위험 사전 차단 · 중대재해처벌법 필수요건 충족 안전·방재 로드맵 수립·시행 · 법규 준수 체계 확립을 통한 상시 무재해 사업장 구축
 
 ---
 
 ## X. Speaker Notes Requirements
 
-Requested. One conversational narration per page in `notes/total.md` (Korean, plain spoken register, narrative arc); source details live in the notes where they would crowd the slide.
+Requested. Notes per page in `notes/total.md` (Korean, 합니다체, conclusion-first: first sentence is the takeaway, then 2-3 supporting facts). No storytelling or rhetorical questions.

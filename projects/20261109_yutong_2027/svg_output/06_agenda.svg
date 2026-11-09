@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="header">
+    <rect x="72" y="52" width="48" height="6" fill="#1F8A3E"/>
+    <text x="72" y="96" letter-spacing="2" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">05 · 2027 운영방향</text>
+    <text x="72" y="156" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="48" font-weight="700" fill="#0B1F4B">4대 과제로 통합 운영모델을 완성합니다</text>
+    <text x="72" y="206" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" fill="#5B6577">부곡리 Hub센터 안정화 기반의 통합 운영모델 완성</text>
+  </g>
+  <g id="goal-block">
+    <rect x="72" y="250" width="320" height="388" fill="#0B1F4B"/>
+    <rect x="104" y="296" width="48" height="6" fill="#1F8A3E"/>
+    <text x="104" y="350" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">2027 목표</text>
+    <text x="104" y="410" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">통합</text>
+    <text x="104" y="452" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">운영모델</text>
+    <text x="104" y="494" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">완성</text>
+  </g>
+  <g id="task-01">
+    <line x1="432" y1="250" x2="1208" y2="250" stroke="#D9DEE7" stroke-width="2"/>
+    <text x="432" y="310" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#1F8A3E">01</text>
+    <text x="512" y="298" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">운영모델</text>
+    <text x="512" y="332" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">운영 · 프로세스 · 매뉴얼 · 정책 정비</text>
+  </g>
+  <g id="task-02">
+    <line x1="432" y1="346" x2="1208" y2="346" stroke="#D9DEE7" stroke-width="2"/>
+    <text x="432" y="406" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#1F8A3E">02</text>
+    <text x="512" y="394" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">인프라 최적화 · Capa 확충</text>
+    <text x="512" y="428" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">분류설비 보강 · 보관공간 확충 · 입하·출하 재배치</text>
+  </g>
+  <g id="task-03">
+    <line x1="432" y1="442" x2="1208" y2="442" stroke="#D9DEE7" stroke-width="2"/>
+    <text x="432" y="502" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#1F8A3E">03</text>
+    <text x="512" y="490" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">영업채널 지원 · 데이터 지표</text>
+    <text x="512" y="524" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">지원체계 로드맵 · 물류비 모니터링 · 데이터 체계</text>
+  </g>
+  <g id="task-04">
+    <line x1="432" y1="538" x2="1208" y2="538" stroke="#D9DEE7" stroke-width="2"/>
+    <text x="432" y="598" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#1F8A3E">04</text>
+    <text x="512" y="586" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">리스크 방어 · 안전규제 대응</text>
+    <text x="512" y="620" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">소방·산업안전 컨설팅 · 안전·방재 로드맵</text>
+    <line x1="432" y1="638" x2="1208" y2="638" stroke="#D9DEE7" stroke-width="2"/>
+  </g>
+  <g id="footer">
+    <text x="72" y="700" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">출처: 2027년 유통지원단 운영방향 (2026.10)</text>
+    <text x="1208" y="700" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">06 / 10</text>
+  </g>
+</svg>
