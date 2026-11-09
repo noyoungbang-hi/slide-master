@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFF8EC"/>
+  <g id="story-text">
+    <text x="72" y="130" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="40" font-weight="600" fill="#7A4B2E">작았던 나도, 커진 나도</text>
+    <text x="72" y="196" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="48" font-weight="700" fill="#7A4B2E">모두 소중한 나예요.</text>
+  </g>
+  <g id="warm-disc">
+    <circle cx="640" cy="440" r="230" fill="#FDEBC8"/>
+  </g>
+  <g id="ground">
+    <rect x="0" y="640" width="1280" height="80" fill="#8FC37A"/>
+  </g>
+  <g id="heart" transform="translate(640 270)">
+    <path d="M0 34 C-38 0 -54 -32 -32 -48 C-16 -58 0 -48 0 -32 C0 -48 16 -58 32 -48 C54 -32 38 0 0 34 Z" fill="#F08C8C"/>
+  </g>
+  <g id="small-bear" transform="translate(450 656) scale(0.85)">
+    <ellipse cx="-34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+    <ellipse cx="34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+    <ellipse cx="-72" cy="-90" rx="18" ry="38" fill="#A8714B"/>
+    <ellipse cx="72" cy="-90" rx="18" ry="38" fill="#A8714B"/>
+    <ellipse cx="0" cy="-70" rx="70" ry="80" fill="#A8714B"/>
+    <ellipse cx="0" cy="-62" rx="44" ry="54" fill="#F3D9B5"/>
+    <circle cx="-48" cy="-222" r="22" fill="#A8714B"/>
+    <circle cx="48" cy="-222" r="22" fill="#A8714B"/>
+    <circle cx="-48" cy="-222" r="12" fill="#F3D9B5"/>
+    <circle cx="48" cy="-222" r="12" fill="#F3D9B5"/>
+    <circle cx="0" cy="-175" r="62" fill="#A8714B"/>
+    <ellipse cx="0" cy="-155" rx="28" ry="22" fill="#F3D9B5"/>
+    <ellipse cx="0" cy="-165" rx="9" ry="6" fill="#3B2A20"/>
+    <circle cx="-24" cy="-182" r="6.5" fill="#3B2A20"/>
+    <circle cx="24" cy="-182" r="6.5" fill="#3B2A20"/>
+    <circle cx="-42" cy="-160" r="8" fill="#F5B5A8"/>
+    <circle cx="42" cy="-160" r="8" fill="#F5B5A8"/>
+    <path d="M-14 -150 Q0 -124 14 -150 Z" fill="#8C3B35"/>
+  </g>
+  <g id="big-bear" transform="translate(830 656) scale(1.3)">
+    <ellipse cx="-34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+    <ellipse cx="34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+    <ellipse cx="-72" cy="-90" rx="18" ry="38" fill="#A8714B"/>
+    <ellipse cx="72" cy="-90" rx="18" ry="38" fill="#A8714B"/>
+    <ellipse cx="0" cy="-70" rx="70" ry="80" fill="#A8714B"/>
+    <ellipse cx="0" cy="-62" rx="44" ry="54" fill="#F3D9B5"/>
+    <circle cx="-48" cy="-222" r="22" fill="#A8714B"/>
+    <circle cx="48" cy="-222" r="22" fill="#A8714B"/>
+    <circle cx="-48" cy="-222" r="12" fill="#F3D9B5"/>
+    <circle cx="48" cy="-222" r="12" fill="#F3D9B5"/>
+    <circle cx="0" cy="-175" r="62" fill="#A8714B"/>
+    <ellipse cx="0" cy="-155" rx="28" ry="22" fill="#F3D9B5"/>
+    <ellipse cx="0" cy="-165" rx="9" ry="6" fill="#3B2A20"/>
+    <circle cx="-24" cy="-182" r="6.5" fill="#3B2A20"/>
+    <circle cx="24" cy="-182" r="6.5" fill="#3B2A20"/>
+    <circle cx="-42" cy="-160" r="8" fill="#F5B5A8"/>
+    <circle cx="42" cy="-160" r="8" fill="#F5B5A8"/>
+    <path d="M-14 -150 Q0 -124 14 -150 Z" fill="#8C3B35"/>
+  </g>
+  <g id="stars">
+    <g transform="translate(300 360)"><polygon points="0,-20 4.9,-6.8 19,-6.2 7.9,2.6 11.8,16.2 0,8.3 -11.8,16.2 -7.9,2.6 -19,-6.2 -4.9,-6.8" fill="#F2A93B"/></g>
+    <g transform="translate(1040 330)"><polygon points="0,-24 5.9,-8.1 22.8,-7.4 9.5,3.1 14.1,19.4 0,10 -14.1,19.4 -9.5,3.1 -22.8,-7.4 -5.9,-8.1" fill="#F2A93B"/></g>
+  </g>
+  <g id="page-no">
+    <text x="1208" y="690" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#A8978A">11 / 12</text>
+  </g>
+</svg>

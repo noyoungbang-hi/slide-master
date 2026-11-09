@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFF8EC"/>
+  <g id="story-text">
+    <text x="72" y="130" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="40" font-weight="600" fill="#7A4B2E">숲속의 아침이 밝았어요.</text>
+    <text x="72" y="184" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" fill="#7A6455">아기곰 몽이가 기지개를 켭니다.</text>
+  </g>
+  <g id="sun">
+    <circle cx="1010" cy="330" r="112" fill="#FDEBC8"/>
+    <circle cx="1010" cy="330" r="76" fill="#F2A93B"/>
+    <line x1="1128" y1="330" x2="1160" y2="330" stroke="#F2A93B" stroke-width="8" stroke-linecap="round"/>
+    <line x1="1093" y1="413" x2="1116" y2="436" stroke="#F2A93B" stroke-width="8" stroke-linecap="round"/>
+    <line x1="1010" y1="448" x2="1010" y2="480" stroke="#F2A93B" stroke-width="8" stroke-linecap="round"/>
+    <line x1="927" y1="413" x2="904" y2="436" stroke="#F2A93B" stroke-width="8" stroke-linecap="round"/>
+    <line x1="892" y1="330" x2="860" y2="330" stroke="#F2A93B" stroke-width="8" stroke-linecap="round"/>
+    <line x1="927" y1="247" x2="904" y2="224" stroke="#F2A93B" stroke-width="8" stroke-linecap="round"/>
+    <line x1="1010" y1="212" x2="1010" y2="180" stroke="#F2A93B" stroke-width="8" stroke-linecap="round"/>
+    <line x1="1093" y1="247" x2="1116" y2="224" stroke="#F2A93B" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <g id="birds">
+    <path d="M700 250 q12 -14 24 0 q12 -14 24 0" fill="none" stroke="#7A6455" stroke-width="4" stroke-linecap="round"/>
+    <path d="M780 300 q10 -12 20 0 q10 -12 20 0" fill="none" stroke="#7A6455" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g id="hills">
+    <path d="M0 600 Q300 500 620 580 T1280 560 L1280 720 L0 720 Z" fill="#6DB36B"/>
+    <path d="M0 660 Q320 590 640 640 T1280 630 L1280 720 L0 720 Z" fill="#8FC37A"/>
+  </g>
+  <g id="tree">
+    <rect x="150" y="380" width="44" height="270" rx="8" fill="#8E5C3B"/>
+    <circle cx="172" cy="360" r="90" fill="#6DB36B"/>
+    <circle cx="106" cy="410" r="62" fill="#6DB36B"/>
+    <circle cx="238" cy="410" r="62" fill="#6DB36B"/>
+  </g>
+  <g id="bear" transform="translate(540 676) scale(1.2)">
+    <ellipse cx="-34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+    <ellipse cx="34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+    <ellipse cx="0" cy="-70" rx="70" ry="80" fill="#A8714B"/>
+    <ellipse cx="0" cy="-62" rx="44" ry="54" fill="#F3D9B5"/>
+    <ellipse cx="-86" cy="-150" rx="18" ry="44" transform="rotate(-35 -86 -150)" fill="#A8714B"/>
+    <ellipse cx="86" cy="-150" rx="18" ry="44" transform="rotate(35 86 -150)" fill="#A8714B"/>
+    <circle cx="-48" cy="-222" r="22" fill="#A8714B"/>
+    <circle cx="48" cy="-222" r="22" fill="#A8714B"/>
+    <circle cx="-48" cy="-222" r="12" fill="#F3D9B5"/>
+    <circle cx="48" cy="-222" r="12" fill="#F3D9B5"/>
+    <circle cx="0" cy="-175" r="62" fill="#A8714B"/>
+    <ellipse cx="0" cy="-155" rx="28" ry="22" fill="#F3D9B5"/>
+    <ellipse cx="0" cy="-165" rx="9" ry="6" fill="#3B2A20"/>
+    <path d="M-31 -181 Q-24 -190 -17 -181" fill="none" stroke="#3B2A20" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M17 -181 Q24 -190 31 -181" fill="none" stroke="#3B2A20" stroke-width="3.5" stroke-linecap="round"/>
+    <circle cx="-42" cy="-160" r="8" fill="#F5B5A8"/>
+    <circle cx="42" cy="-160" r="8" fill="#F5B5A8"/>
+    <path d="M-14 -150 Q0 -126 14 -150 Z" fill="#8C3B35"/>
+  </g>
+  <g id="page-no">
+    <text x="1208" y="690" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#A8978A">2 / 12</text>
+  </g>
+</svg>

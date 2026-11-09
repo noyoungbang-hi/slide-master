@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFF8EC"/>
+  <g id="story-text">
+    <text x="72" y="130" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="40" font-weight="600" fill="#7A4B2E">높은 가지의 열매를 따 보려 했어요.</text>
+    <text x="72" y="184" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" fill="#7A6455">하지만 손이 닿지 않아요.</text>
+  </g>
+  <g id="ground">
+    <rect x="0" y="640" width="1280" height="80" fill="#8FC37A"/>
+  </g>
+  <g id="fruit-tree">
+    <rect x="880" y="300" width="56" height="350" rx="10" fill="#8E5C3B"/>
+    <circle cx="908" cy="290" r="120" fill="#6DB36B"/>
+    <circle cx="810" cy="350" r="84" fill="#6DB36B"/>
+    <circle cx="1006" cy="350" r="84" fill="#6DB36B"/>
+    <circle cx="752" cy="392" r="20" fill="#E8684A"/>
+    <circle cx="820" cy="326" r="20" fill="#E8684A"/>
+    <circle cx="900" cy="360" r="20" fill="#E8684A"/>
+    <circle cx="968" cy="318" r="20" fill="#E8684A"/>
+    <circle cx="1034" cy="388" r="20" fill="#E8684A"/>
+  </g>
+  <g id="reach-hint">
+    <line x1="682" y1="436" x2="736" y2="402" stroke="#7A6455" stroke-width="3" stroke-dasharray="6 8" stroke-linecap="round"/>
+  </g>
+  <g id="bear" transform="translate(560 656)">
+    <ellipse cx="-34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+    <ellipse cx="34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+    <ellipse cx="-72" cy="-90" rx="18" ry="38" fill="#A8714B"/>
+    <ellipse cx="0" cy="-70" rx="70" ry="80" fill="#A8714B"/>
+    <ellipse cx="0" cy="-62" rx="44" ry="54" fill="#F3D9B5"/>
+    <ellipse cx="86" cy="-160" rx="18" ry="44" transform="rotate(40 86 -160)" fill="#A8714B"/>
+    <circle cx="-48" cy="-222" r="22" fill="#A8714B"/>
+    <circle cx="48" cy="-222" r="22" fill="#A8714B"/>
+    <circle cx="-48" cy="-222" r="12" fill="#F3D9B5"/>
+    <circle cx="48" cy="-222" r="12" fill="#F3D9B5"/>
+    <circle cx="0" cy="-175" r="62" fill="#A8714B"/>
+    <ellipse cx="0" cy="-155" rx="28" ry="22" fill="#F3D9B5"/>
+    <ellipse cx="0" cy="-165" rx="9" ry="6" fill="#3B2A20"/>
+    <circle cx="-24" cy="-182" r="6.5" fill="#3B2A20"/>
+    <circle cx="24" cy="-182" r="6.5" fill="#3B2A20"/>
+    <circle cx="-42" cy="-160" r="8" fill="#F5B5A8"/>
+    <circle cx="42" cy="-160" r="8" fill="#F5B5A8"/>
+    <path d="M-8 -146 Q0 -140 8 -146" fill="none" stroke="#3B2A20" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g id="page-no">
+    <text x="1208" y="690" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#A8978A">6 / 12</text>
+  </g>
+</svg>

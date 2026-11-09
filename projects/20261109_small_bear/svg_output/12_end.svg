@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="ending">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFF8EC"/>
+  <g id="sun">
+    <circle cx="1140" cy="120" r="48" fill="#F2A93B"/>
+  </g>
+  <g id="end-text">
+    <text x="640" y="190" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#7A4B2E">끝</text>
+    <text x="640" y="250" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" fill="#7A6455">함께 읽어 주셔서 감사합니다.</text>
+  </g>
+  <g id="ground">
+    <rect x="0" y="640" width="1280" height="80" fill="#8FC37A"/>
+  </g>
+  <g id="rabbit" transform="translate(180 656)">
+    <ellipse cx="-30" cy="-12" rx="30" ry="16" fill="#F4EBDD" stroke="#EBDCC6" stroke-width="3"/>
+    <ellipse cx="30" cy="-12" rx="30" ry="16" fill="#F4EBDD" stroke="#EBDCC6" stroke-width="3"/>
+    <ellipse cx="-24" cy="-300" rx="16" ry="52" fill="#F4EBDD" stroke="#EBDCC6" stroke-width="3"/>
+    <ellipse cx="24" cy="-300" rx="16" ry="52" fill="#F4EBDD" stroke="#EBDCC6" stroke-width="3"/>
+    <ellipse cx="-24" cy="-296" rx="7" ry="36" fill="#F5B5A8"/>
+    <ellipse cx="24" cy="-296" rx="7" ry="36" fill="#F5B5A8"/>
+    <ellipse cx="0" cy="-100" rx="62" ry="92" fill="#F4EBDD" stroke="#EBDCC6" stroke-width="3"/>
+    <circle cx="0" cy="-222" r="50" fill="#F4EBDD" stroke="#EBDCC6" stroke-width="3"/>
+    <circle cx="-18" cy="-230" r="6" fill="#3B2A20"/>
+    <circle cx="18" cy="-230" r="6" fill="#3B2A20"/>
+    <circle cx="-32" cy="-212" r="7" fill="#F5B5A8"/>
+    <circle cx="32" cy="-212" r="7" fill="#F5B5A8"/>
+    <ellipse cx="0" cy="-214" rx="6" ry="4.5" fill="#F08C8C"/>
+    <path d="M-10 -204 Q0 -192 10 -204 Z" fill="#8C3B35"/>
+  </g>
+  <g id="mama-bear" transform="translate(420 656)">
+    <ellipse cx="-51" cy="-12" rx="45" ry="27" fill="#8E5C3B"/>
+    <ellipse cx="51" cy="-12" rx="45" ry="27" fill="#8E5C3B"/>
+    <ellipse cx="-108" cy="-135" rx="27" ry="57" fill="#96623F"/>
+    <ellipse cx="108" cy="-135" rx="27" ry="57" fill="#96623F"/>
+    <ellipse cx="0" cy="-105" rx="105" ry="120" fill="#96623F"/>
+    <ellipse cx="0" cy="-93" rx="66" ry="81" fill="#F3D9B5"/>
+    <circle cx="-72" cy="-333" r="33" fill="#96623F"/>
+    <circle cx="72" cy="-333" r="33" fill="#96623F"/>
+    <circle cx="-72" cy="-333" r="18" fill="#F3D9B5"/>
+    <circle cx="72" cy="-333" r="18" fill="#F3D9B5"/>
+    <circle cx="0" cy="-262" r="93" fill="#96623F"/>
+    <ellipse cx="0" cy="-232" rx="42" ry="33" fill="#F3D9B5"/>
+    <ellipse cx="0" cy="-247" rx="13" ry="9" fill="#3B2A20"/>
+    <circle cx="-36" cy="-273" r="9" fill="#3B2A20"/>
+    <circle cx="36" cy="-273" r="9" fill="#3B2A20"/>
+    <circle cx="-63" cy="-240" r="12" fill="#F5B5A8"/>
+    <circle cx="63" cy="-240" r="12" fill="#F5B5A8"/>
+    <path d="M-18 -222 Q0 -202 18 -222" fill="none" stroke="#3B2A20" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g id="bear-waving" transform="translate(700 656)">
+    <ellipse cx="-34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+    <ellipse cx="34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+    <ellipse cx="-72" cy="-90" rx="18" ry="38" fill="#A8714B"/>
+    <ellipse cx="0" cy="-70" rx="70" ry="80" fill="#A8714B"/>
+    <ellipse cx="0" cy="-62" rx="44" ry="54" fill="#F3D9B5"/>
+    <ellipse cx="86" cy="-160" rx="18" ry="44" transform="rotate(40 86 -160)" fill="#A8714B"/>
+    <circle cx="-48" cy="-222" r="22" fill="#A8714B"/>
+    <circle cx="48" cy="-222" r="22" fill="#A8714B"/>
+    <circle cx="-48" cy="-222" r="12" fill="#F3D9B5"/>
+    <circle cx="48" cy="-222" r="12" fill="#F3D9B5"/>
+    <circle cx="0" cy="-175" r="62" fill="#A8714B"/>
+    <ellipse cx="0" cy="-155" rx="28" ry="22" fill="#F3D9B5"/>
+    <ellipse cx="0" cy="-165" rx="9" ry="6" fill="#3B2A20"/>
+    <circle cx="-24" cy="-182" r="6.5" fill="#3B2A20"/>
+    <circle cx="24" cy="-182" r="6.5" fill="#3B2A20"/>
+    <circle cx="-42" cy="-160" r="8" fill="#F5B5A8"/>
+    <circle cx="42" cy="-160" r="8" fill="#F5B5A8"/>
+    <path d="M-14 -150 Q0 -124 14 -150 Z" fill="#8C3B35"/>
+  </g>
+  <g id="deer" transform="translate(980 656)">
+    <rect x="-34" y="-130" width="16" height="130" rx="6" fill="#D9A066"/>
+    <rect x="18" y="-130" width="16" height="130" rx="6" fill="#D9A066"/>
+    <rect x="-16" y="-300" width="32" height="150" rx="14" fill="#D9A066"/>
+    <ellipse cx="0" cy="-170" rx="80" ry="52" fill="#D9A066"/>
+    <circle cx="-30" cy="-176" r="8" fill="#FFF8EC"/>
+    <circle cx="12" cy="-196" r="8" fill="#FFF8EC"/>
+    <circle cx="40" cy="-160" r="8" fill="#FFF8EC"/>
+    <path d="M-14 -348 L-24 -392 M-20 -372 L-42 -380 M14 -348 L24 -392 M20 -372 L42 -380" fill="none" stroke="#8E5C3B" stroke-width="6" stroke-linecap="round"/>
+    <ellipse cx="-40" cy="-332" rx="16" ry="9" fill="#D9A066"/>
+    <ellipse cx="40" cy="-332" rx="16" ry="9" fill="#D9A066"/>
+    <circle cx="0" cy="-318" r="36" fill="#D9A066"/>
+    <circle cx="-13" cy="-324" r="5" fill="#3B2A20"/>
+    <circle cx="13" cy="-324" r="5" fill="#3B2A20"/>
+    <ellipse cx="0" cy="-304" rx="9" ry="6" fill="#3B2A20"/>
+  </g>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="cover">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFF8EC"/>
+  <g id="sun">
+    <circle cx="1130" cy="110" r="48" fill="#F2A93B"/>
+  </g>
+  <g id="tree-left">
+    <rect x="860" y="200" width="56" height="450" rx="10" fill="#8E5C3B"/>
+    <circle cx="888" cy="190" r="105" fill="#6DB36B"/>
+    <circle cx="806" cy="262" r="78" fill="#6DB36B"/>
+    <circle cx="970" cy="262" r="78" fill="#6DB36B"/>
+  </g>
+  <g id="tree-right">
+    <rect x="1112" y="280" width="46" height="370" rx="10" fill="#8E5C3B"/>
+    <circle cx="1135" cy="270" r="88" fill="#6DB36B"/>
+    <circle cx="1070" cy="324" r="62" fill="#6DB36B"/>
+    <circle cx="1200" cy="324" r="62" fill="#6DB36B"/>
+  </g>
+  <g id="hill">
+    <path d="M520 720 L520 650 Q740 590 980 632 Q1140 660 1280 618 L1280 720 Z" fill="#8FC37A"/>
+  </g>
+  <g id="bear" transform="translate(1010 668)">
+    <ellipse cx="-34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+    <ellipse cx="34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+    <ellipse cx="-72" cy="-90" rx="18" ry="38" fill="#A8714B"/>
+    <ellipse cx="72" cy="-90" rx="18" ry="38" fill="#A8714B"/>
+    <ellipse cx="0" cy="-70" rx="70" ry="80" fill="#A8714B"/>
+    <ellipse cx="0" cy="-62" rx="44" ry="54" fill="#F3D9B5"/>
+    <circle cx="-48" cy="-222" r="22" fill="#A8714B"/>
+    <circle cx="48" cy="-222" r="22" fill="#A8714B"/>
+    <circle cx="-48" cy="-222" r="12" fill="#F3D9B5"/>
+    <circle cx="48" cy="-222" r="12" fill="#F3D9B5"/>
+    <circle cx="0" cy="-175" r="62" fill="#A8714B"/>
+    <ellipse cx="0" cy="-155" rx="28" ry="22" fill="#F3D9B5"/>
+    <ellipse cx="0" cy="-165" rx="9" ry="6" fill="#3B2A20"/>
+    <circle cx="-24" cy="-182" r="6.5" fill="#3B2A20"/>
+    <circle cx="24" cy="-182" r="6.5" fill="#3B2A20"/>
+    <circle cx="-42" cy="-160" r="8" fill="#F5B5A8"/>
+    <circle cx="42" cy="-160" r="8" fill="#F5B5A8"/>
+    <path d="M-10 -148 Q0 -138 10 -148" fill="none" stroke="#3B2A20" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g id="title-block">
+    <rect x="72" y="170" width="64" height="8" rx="4" fill="#F2A93B"/>
+    <text x="72" y="270" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#7A4B2E">내가 제일</text>
+    <text x="72" y="362" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#7A4B2E">작아</text>
+  </g>
+  <g id="subtitle">
+    <text x="72" y="450" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" fill="#7A6455">아기곰 몽이의 성장 이야기</text>
+  </g>
+</svg>

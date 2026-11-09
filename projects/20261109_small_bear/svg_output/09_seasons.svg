@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFF8EC"/>
+  <g id="story-text">
+    <text x="72" y="130" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="40" font-weight="600" fill="#7A4B2E">봄, 여름, 가을, 겨울…</text>
+    <text x="72" y="184" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" fill="#7A6455">몽이는 조금씩 자랐어요.</text>
+  </g>
+  <g id="season-spring">
+    <rect x="72" y="240" width="272" height="410" rx="28" fill="#F7C6D0"/>
+    <text x="208" y="296" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#7A4B2E">봄</text>
+    <circle cx="120" cy="352" r="12" fill="#FFFFFF"/>
+    <circle cx="120" cy="352" r="5" fill="#F2A93B"/>
+    <circle cx="296" cy="388" r="12" fill="#FFFFFF"/>
+    <circle cx="296" cy="388" r="5" fill="#F2A93B"/>
+    <circle cx="150" cy="430" r="10" fill="#FFFFFF"/>
+    <circle cx="150" cy="430" r="4" fill="#F2A93B"/>
+    <ellipse cx="208" cy="632" rx="110" ry="20" fill="#8FC37A"/>
+    <g id="bear-spring" transform="translate(208 634) scale(0.55)">
+      <ellipse cx="-34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+      <ellipse cx="34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+      <ellipse cx="-72" cy="-90" rx="18" ry="38" fill="#A8714B"/>
+      <ellipse cx="72" cy="-90" rx="18" ry="38" fill="#A8714B"/>
+      <ellipse cx="0" cy="-70" rx="70" ry="80" fill="#A8714B"/>
+      <ellipse cx="0" cy="-62" rx="44" ry="54" fill="#F3D9B5"/>
+      <circle cx="-48" cy="-222" r="22" fill="#A8714B"/>
+      <circle cx="48" cy="-222" r="22" fill="#A8714B"/>
+      <circle cx="-48" cy="-222" r="12" fill="#F3D9B5"/>
+      <circle cx="48" cy="-222" r="12" fill="#F3D9B5"/>
+      <circle cx="0" cy="-175" r="62" fill="#A8714B"/>
+      <ellipse cx="0" cy="-155" rx="28" ry="22" fill="#F3D9B5"/>
+      <ellipse cx="0" cy="-165" rx="9" ry="6" fill="#3B2A20"/>
+      <circle cx="-24" cy="-182" r="6.5" fill="#3B2A20"/>
+      <circle cx="24" cy="-182" r="6.5" fill="#3B2A20"/>
+      <circle cx="-42" cy="-160" r="8" fill="#F5B5A8"/>
+      <circle cx="42" cy="-160" r="8" fill="#F5B5A8"/>
+      <path d="M-10 -148 Q0 -138 10 -148" fill="none" stroke="#3B2A20" stroke-width="3" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g id="season-summer">
+    <rect x="360" y="240" width="272" height="410" rx="28" fill="#CFE8F5"/>
+    <text x="496" y="296" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#7A4B2E">여름</text>
+    <circle cx="570" cy="360" r="30" fill="#F2A93B"/>
+    <ellipse cx="496" cy="632" rx="110" ry="20" fill="#8FC37A"/>
+    <g id="bear-summer" transform="translate(496 634) scale(0.7)">
+      <ellipse cx="-34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+      <ellipse cx="34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+      <ellipse cx="-72" cy="-90" rx="18" ry="38" fill="#A8714B"/>
+      <ellipse cx="72" cy="-90" rx="18" ry="38" fill="#A8714B"/>
+      <ellipse cx="0" cy="-70" rx="70" ry="80" fill="#A8714B"/>
+      <ellipse cx="0" cy="-62" rx="44" ry="54" fill="#F3D9B5"/>
+      <circle cx="-48" cy="-222" r="22" fill="#A8714B"/>
+      <circle cx="48" cy="-222" r="22" fill="#A8714B"/>
+      <circle cx="-48" cy="-222" r="12" fill="#F3D9B5"/>
+      <circle cx="48" cy="-222" r="12" fill="#F3D9B5"/>
+      <circle cx="0" cy="-175" r="62" fill="#A8714B"/>
+      <ellipse cx="0" cy="-155" rx="28" ry="22" fill="#F3D9B5"/>
+      <ellipse cx="0" cy="-165" rx="9" ry="6" fill="#3B2A20"/>
+      <circle cx="-24" cy="-182" r="6.5" fill="#3B2A20"/>
+      <circle cx="24" cy="-182" r="6.5" fill="#3B2A20"/>
+      <circle cx="-42" cy="-160" r="8" fill="#F5B5A8"/>
+      <circle cx="42" cy="-160" r="8" fill="#F5B5A8"/>
+      <path d="M-10 -148 Q0 -138 10 -148" fill="none" stroke="#3B2A20" stroke-width="3" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g id="season-autumn">
+    <rect x="648" y="240" width="272" height="410" rx="28" fill="#FDEBC8"/>
+    <text x="784" y="296" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#7A4B2E">가을</text>
+    <ellipse cx="710" cy="372" rx="14" ry="9" fill="#E58A3A"/>
+    <ellipse cx="868" cy="352" rx="14" ry="9" fill="#E58A3A"/>
+    <ellipse cx="838" cy="430" rx="14" ry="9" fill="#E58A3A"/>
+    <ellipse cx="784" cy="632" rx="110" ry="20" fill="#8FC37A"/>
+    <g id="bear-autumn" transform="translate(784 634) scale(0.85)">
+      <ellipse cx="-34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+      <ellipse cx="34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+      <ellipse cx="-72" cy="-90" rx="18" ry="38" fill="#A8714B"/>
+      <ellipse cx="72" cy="-90" rx="18" ry="38" fill="#A8714B"/>
+      <ellipse cx="0" cy="-70" rx="70" ry="80" fill="#A8714B"/>
+      <ellipse cx="0" cy="-62" rx="44" ry="54" fill="#F3D9B5"/>
+      <circle cx="-48" cy="-222" r="22" fill="#A8714B"/>
+      <circle cx="48" cy="-222" r="22" fill="#A8714B"/>
+      <circle cx="-48" cy="-222" r="12" fill="#F3D9B5"/>
+      <circle cx="48" cy="-222" r="12" fill="#F3D9B5"/>
+      <circle cx="0" cy="-175" r="62" fill="#A8714B"/>
+      <ellipse cx="0" cy="-155" rx="28" ry="22" fill="#F3D9B5"/>
+      <ellipse cx="0" cy="-165" rx="9" ry="6" fill="#3B2A20"/>
+      <circle cx="-24" cy="-182" r="6.5" fill="#3B2A20"/>
+      <circle cx="24" cy="-182" r="6.5" fill="#3B2A20"/>
+      <circle cx="-42" cy="-160" r="8" fill="#F5B5A8"/>
+      <circle cx="42" cy="-160" r="8" fill="#F5B5A8"/>
+      <path d="M-10 -148 Q0 -138 10 -148" fill="none" stroke="#3B2A20" stroke-width="3" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g id="season-winter">
+    <rect x="936" y="240" width="272" height="410" rx="28" fill="#FFFFFF" stroke="#EBDCC6" stroke-width="3"/>
+    <text x="1072" y="296" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#7A4B2E">겨울</text>
+    <circle cx="990" cy="360" r="8" fill="#CFE8F5"/>
+    <circle cx="1150" cy="338" r="8" fill="#CFE8F5"/>
+    <circle cx="1120" cy="420" r="8" fill="#CFE8F5"/>
+    <circle cx="1030" cy="400" r="6" fill="#CFE8F5"/>
+    <ellipse cx="1072" cy="632" rx="110" ry="20" fill="#CFE8F5"/>
+    <g id="bear-winter" transform="translate(1072 634)">
+      <ellipse cx="-34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+      <ellipse cx="34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+      <ellipse cx="-72" cy="-90" rx="18" ry="38" fill="#A8714B"/>
+      <ellipse cx="72" cy="-90" rx="18" ry="38" fill="#A8714B"/>
+      <ellipse cx="0" cy="-70" rx="70" ry="80" fill="#A8714B"/>
+      <ellipse cx="0" cy="-62" rx="44" ry="54" fill="#F3D9B5"/>
+      <circle cx="-48" cy="-222" r="22" fill="#A8714B"/>
+      <circle cx="48" cy="-222" r="22" fill="#A8714B"/>
+      <circle cx="-48" cy="-222" r="12" fill="#F3D9B5"/>
+      <circle cx="48" cy="-222" r="12" fill="#F3D9B5"/>
+      <circle cx="0" cy="-175" r="62" fill="#A8714B"/>
+      <ellipse cx="0" cy="-155" rx="28" ry="22" fill="#F3D9B5"/>
+      <ellipse cx="0" cy="-165" rx="9" ry="6" fill="#3B2A20"/>
+      <circle cx="-24" cy="-182" r="6.5" fill="#3B2A20"/>
+      <circle cx="24" cy="-182" r="6.5" fill="#3B2A20"/>
+      <circle cx="-42" cy="-160" r="8" fill="#F5B5A8"/>
+      <circle cx="42" cy="-160" r="8" fill="#F5B5A8"/>
+      <path d="M-10 -148 Q0 -138 10 -148" fill="none" stroke="#3B2A20" stroke-width="3" stroke-linecap="round"/>
+      <rect x="-58" y="-132" width="116" height="20" rx="10" fill="#F08C8C"/>
+    </g>
+  </g>
+  <g id="page-no">
+    <text x="1208" y="690" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#A8978A">9 / 12</text>
+  </g>
+</svg>

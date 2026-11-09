@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFF8EC"/>
+  <g id="story-text">
+    <text x="72" y="130" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="40" font-weight="600" fill="#7A4B2E">도토리가 바위틈에 끼었어요.</text>
+    <text x="72" y="184" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" fill="#7A6455">큰 친구들은 손이 안 들어가요.</text>
+  </g>
+  <g id="punchline">
+    <text x="800" y="330" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="40" font-weight="700" fill="#E8684A">그런데 몽이는 쏙!</text>
+  </g>
+  <g id="rock">
+    <ellipse cx="960" cy="540" rx="210" ry="130" fill="#B8AFA6"/>
+    <rect x="750" y="528" width="210" height="24" rx="12" fill="#6E655E"/>
+    <ellipse cx="940" cy="540" rx="9" ry="11" fill="#8E5C3B"/>
+    <ellipse cx="940" cy="531" rx="10" ry="5" fill="#A8714B"/>
+  </g>
+  <g id="ground">
+    <rect x="0" y="640" width="1280" height="80" fill="#8FC37A"/>
+  </g>
+  <g id="rabbit" transform="translate(210 656)">
+    <ellipse cx="-30" cy="-12" rx="30" ry="16" fill="#F4EBDD" stroke="#EBDCC6" stroke-width="3"/>
+    <ellipse cx="30" cy="-12" rx="30" ry="16" fill="#F4EBDD" stroke="#EBDCC6" stroke-width="3"/>
+    <ellipse cx="-24" cy="-300" rx="16" ry="52" fill="#F4EBDD" stroke="#EBDCC6" stroke-width="3"/>
+    <ellipse cx="24" cy="-300" rx="16" ry="52" fill="#F4EBDD" stroke="#EBDCC6" stroke-width="3"/>
+    <ellipse cx="-24" cy="-296" rx="7" ry="36" fill="#F5B5A8"/>
+    <ellipse cx="24" cy="-296" rx="7" ry="36" fill="#F5B5A8"/>
+    <ellipse cx="0" cy="-100" rx="62" ry="92" fill="#F4EBDD" stroke="#EBDCC6" stroke-width="3"/>
+    <circle cx="0" cy="-222" r="50" fill="#F4EBDD" stroke="#EBDCC6" stroke-width="3"/>
+    <circle cx="-18" cy="-230" r="6" fill="#3B2A20"/>
+    <circle cx="18" cy="-230" r="6" fill="#3B2A20"/>
+    <circle cx="-32" cy="-212" r="7" fill="#F5B5A8"/>
+    <circle cx="32" cy="-212" r="7" fill="#F5B5A8"/>
+    <ellipse cx="0" cy="-214" rx="6" ry="4.5" fill="#F08C8C"/>
+    <path d="M-8 -199 Q0 -207 8 -199" fill="none" stroke="#3B2A20" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g id="deer" transform="translate(430 656)">
+    <rect x="-34" y="-130" width="16" height="130" rx="6" fill="#D9A066"/>
+    <rect x="18" y="-130" width="16" height="130" rx="6" fill="#D9A066"/>
+    <rect x="-16" y="-300" width="32" height="150" rx="14" fill="#D9A066"/>
+    <ellipse cx="0" cy="-170" rx="80" ry="52" fill="#D9A066"/>
+    <circle cx="-30" cy="-176" r="8" fill="#FFF8EC"/>
+    <circle cx="12" cy="-196" r="8" fill="#FFF8EC"/>
+    <circle cx="40" cy="-160" r="8" fill="#FFF8EC"/>
+    <path d="M-14 -348 L-24 -392 M-20 -372 L-42 -380 M14 -348 L24 -392 M20 -372 L42 -380" fill="none" stroke="#8E5C3B" stroke-width="6" stroke-linecap="round"/>
+    <ellipse cx="-40" cy="-332" rx="16" ry="9" fill="#D9A066"/>
+    <ellipse cx="40" cy="-332" rx="16" ry="9" fill="#D9A066"/>
+    <circle cx="0" cy="-318" r="36" fill="#D9A066"/>
+    <circle cx="-13" cy="-324" r="5" fill="#3B2A20"/>
+    <circle cx="13" cy="-324" r="5" fill="#3B2A20"/>
+    <ellipse cx="0" cy="-304" rx="9" ry="6" fill="#3B2A20"/>
+  </g>
+  <g id="bear-reaching">
+    <line x1="738" y1="536" x2="900" y2="540" stroke="#A8714B" stroke-width="18" stroke-linecap="round"/>
+    <circle cx="906" cy="540" r="11" fill="#A8714B"/>
+    <g id="bear-body" transform="translate(670 656)">
+      <ellipse cx="-34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+      <ellipse cx="34" cy="-8" rx="30" ry="18" fill="#8E5C3B"/>
+      <ellipse cx="-72" cy="-90" rx="18" ry="38" fill="#A8714B"/>
+      <ellipse cx="0" cy="-70" rx="70" ry="80" fill="#A8714B"/>
+      <ellipse cx="0" cy="-62" rx="44" ry="54" fill="#F3D9B5"/>
+      <circle cx="-48" cy="-222" r="22" fill="#A8714B"/>
+      <circle cx="48" cy="-222" r="22" fill="#A8714B"/>
+      <circle cx="-48" cy="-222" r="12" fill="#F3D9B5"/>
+      <circle cx="48" cy="-222" r="12" fill="#F3D9B5"/>
+      <circle cx="0" cy="-175" r="62" fill="#A8714B"/>
+      <ellipse cx="0" cy="-155" rx="28" ry="22" fill="#F3D9B5"/>
+      <ellipse cx="0" cy="-165" rx="9" ry="6" fill="#3B2A20"/>
+      <circle cx="-24" cy="-182" r="6.5" fill="#3B2A20"/>
+      <circle cx="24" cy="-182" r="6.5" fill="#3B2A20"/>
+      <circle cx="-42" cy="-160" r="8" fill="#F5B5A8"/>
+      <circle cx="42" cy="-160" r="8" fill="#F5B5A8"/>
+      <path d="M-14 -150 Q0 -126 14 -150 Z" fill="#8C3B35"/>
+    </g>
+  </g>
+  <g id="page-no">
+    <text x="1208" y="690" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#A8978A">7 / 12</text>
+  </g>
+</svg>
