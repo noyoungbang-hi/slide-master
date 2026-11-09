@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="header">
+    <text x="72" y="96" letter-spacing="2" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">진행 로드맵</text>
+    <text x="72" y="156" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="48" font-weight="700" fill="#0B1F4B">길은 세 단계입니다</text>
+    <text x="72" y="206" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">“ 물리적 거점을 넘어, 데이터 기반 지능형 물류로 전환 ”</text>
+  </g>
+  <g id="ground">
+    <line x1="72" y1="640" x2="1208" y2="640" stroke="#D9DEE7" stroke-width="3"/>
+  </g>
+  <g id="step-1">
+    <rect x="96" y="490" width="340" height="150" rx="14" fill="#DCE4F2"/>
+    <text x="124" y="534" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">Phase 1 · 2009~2022</text>
+    <text x="124" y="580" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">인프라 구축과</text>
+    <text x="124" y="620" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">확장</text>
+    <use data-icon="tabler-outline/building-warehouse" x="340" y="410" width="64" height="64" fill="#6C86B8"/>
+  </g>
+  <g id="step-2">
+    <rect x="470" y="400" width="340" height="240" rx="14" fill="#0B1F4B"/>
+    <text x="498" y="444" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">Phase 2 · 2023~2027</text>
+    <text x="498" y="490" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">경쟁력 강화 /</text>
+    <text x="498" y="530" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">Hub센터 완성</text>
+    <rect x="560" y="320" width="160" height="44" rx="22" fill="#1F8A3E"/>
+    <text x="640" y="351" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">지금 여기</text>
+    <polygon points="628,364 652,364 640,382" fill="#1F8A3E"/>
+  </g>
+  <g id="step-3">
+    <rect x="844" y="310" width="340" height="330" rx="14" fill="#F2F5FA" stroke="#6C86B8" stroke-width="3" stroke-dasharray="10 8"/>
+    <text x="872" y="354" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">Phase 3 · 2028~2030</text>
+    <text x="872" y="400" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">지능화 전환</text>
+    <use data-icon="tabler-outline/robot" x="872" y="236" width="64" height="64" fill="#1F8A3E"/>
+    <use data-icon="tabler-outline/database" x="952" y="236" width="64" height="64" fill="#6C86B8"/>
+  </g>
+  <g id="step-arrows">
+    <path d="M436 500 C452 500 452 470 470 470" fill="none" stroke="#6C86B8" stroke-width="4" stroke-linecap="round"/>
+    <path d="M810 410 C826 410 826 380 844 380" fill="none" stroke="#6C86B8" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g id="page-no">
+    <text x="1208" y="690" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">04 / 10</text>
+  </g>
+</svg>

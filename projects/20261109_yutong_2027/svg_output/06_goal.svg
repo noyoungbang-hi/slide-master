@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="section">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="header">
+    <text x="72" y="96" letter-spacing="2" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">2027 운영방향</text>
+    <text x="72" y="156" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="48" font-weight="700" fill="#0B1F4B">내년의 목표는 하나, 네 갈래의 길</text>
+  </g>
+  <g id="spokes">
+    <line x1="300" y1="288" x2="560" y2="372" stroke="#6C86B8" stroke-width="4" stroke-dasharray="4 10" stroke-linecap="round"/>
+    <line x1="948" y1="278" x2="720" y2="372" stroke="#6C86B8" stroke-width="4" stroke-dasharray="4 10" stroke-linecap="round"/>
+    <line x1="234" y1="520" x2="560" y2="440" stroke="#6C86B8" stroke-width="4" stroke-dasharray="4 10" stroke-linecap="round"/>
+    <line x1="1046" y1="520" x2="720" y2="440" stroke="#6C86B8" stroke-width="4" stroke-dasharray="4 10" stroke-linecap="round"/>
+  </g>
+  <g id="hub-core">
+    <circle cx="640" cy="405" r="110" fill="#0B1F4B"/>
+    <circle cx="640" cy="405" r="128" fill="none" stroke="#DCE4F2" stroke-width="6"/>
+    <text x="640" y="392" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">통합</text>
+    <text x="640" y="432" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">운영모델</text>
+    <text x="640" y="472" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#1F8A3E">완성</text>
+  </g>
+  <g id="task-1">
+    <circle cx="190" cy="260" r="44" fill="#1F8A3E"/>
+    <text x="190" y="272" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">1</text>
+    <text x="190" y="338" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">운영모델</text>
+    <text x="190" y="374" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">현장 대응·표준화</text>
+  </g>
+  <g id="task-2">
+    <circle cx="190" cy="510" r="44" fill="#DCE4F2"/>
+    <text x="190" y="522" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">2</text>
+    <text x="190" y="588" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">설비와 공간</text>
+    <text x="190" y="624" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">인프라·Capa 확충</text>
+  </g>
+  <g id="task-3">
+    <circle cx="1090" cy="260" r="44" fill="#DCE4F2"/>
+    <text x="1090" y="272" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">3</text>
+    <text x="1090" y="338" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">영업 지원·데이터</text>
+    <text x="1090" y="374" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">지표·지원 로드맵</text>
+  </g>
+  <g id="task-4">
+    <circle cx="1090" cy="510" r="44" fill="#DCE4F2"/>
+    <text x="1090" y="522" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">4</text>
+    <text x="1090" y="588" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">리스크·안전</text>
+    <text x="1090" y="624" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">화재·중대재해 예방</text>
+  </g>
+  <g id="page-no">
+    <text x="1208" y="690" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">06 / 10</text>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="ending">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="stage-disc">
+    <circle cx="930" cy="400" r="290" fill="#F2F5FA"/>
+  </g>
+  <g id="headline">
+    <rect x="72" y="150" width="64" height="8" rx="4" fill="#1F8A3E"/>
+    <text x="72" y="250" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="64" font-weight="700" fill="#0B1F4B">2027,</text>
+    <text x="72" y="330" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="64" font-weight="700" fill="#1F8A3E">완성의 해</text>
+  </g>
+  <g id="message">
+    <text x="72" y="408" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="500" fill="#1A2233">
+      <tspan x="72" dy="0">부곡리 Hub센터 안정화 기반의</tspan>
+      <tspan x="72" dy="44">통합 운영모델 완성</tspan>
+    </text>
+    <text x="72" y="600" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="40" font-weight="600" fill="#0B1F4B">감사합니다</text>
+  </g>
+  <g id="ground">
+    <line x1="620" y1="640" x2="1208" y2="640" stroke="#D9DEE7" stroke-width="3"/>
+  </g>
+  <g id="stair-1">
+    <rect x="640" y="500" width="160" height="140" rx="12" fill="#DCE4F2"/>
+    <text x="720" y="590" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="40" font-weight="700" fill="#0B1F4B">1</text>
+  </g>
+  <g id="stair-2">
+    <rect x="820" y="420" width="160" height="220" rx="12" fill="#0B1F4B"/>
+    <text x="900" y="590" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="40" font-weight="700" fill="#FFFFFF">2</text>
+    <line x1="900" y1="420" x2="900" y2="344" stroke="#0B1F4B" stroke-width="5" stroke-linecap="round"/>
+    <polygon points="902,346 956,362 902,378" fill="#1F8A3E"/>
+  </g>
+  <g id="stair-3">
+    <rect x="1000" y="340" width="160" height="300" rx="12" fill="#F2F5FA" stroke="#6C86B8" stroke-width="3" stroke-dasharray="10 8"/>
+    <text x="1080" y="590" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="40" font-weight="700" fill="#6C86B8">3</text>
+    <use data-icon="tabler-outline/robot" x="1048" y="256" width="64" height="64" fill="#1F8A3E"/>
+  </g>
+</svg>

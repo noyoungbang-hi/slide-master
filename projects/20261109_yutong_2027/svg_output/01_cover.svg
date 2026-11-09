@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="cover">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="stage-disc">
+    <circle cx="930" cy="360" r="300" fill="#F2F5FA"/>
+  </g>
+  <g id="title-block">
+    <rect x="72" y="150" width="64" height="8" rx="4" fill="#1F8A3E"/>
+    <text x="72" y="250" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#0B1F4B">2027년</text>
+    <text x="72" y="340" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#0B1F4B">유통지원단</text>
+    <text x="72" y="430" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#1F8A3E">운영방향</text>
+  </g>
+  <g id="subtitle">
+    <text x="72" y="508" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="500" fill="#1A2233">
+      <tspan x="72" dy="0">부곡리 Hub센터 안정화 기반의</tspan>
+      <tspan x="72" dy="44">통합 운영모델 완성</tspan>
+    </text>
+    <text x="72" y="640" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">2026.10 · 유통지원단</text>
+  </g>
+  <g id="hub-building">
+    <rect x="730" y="300" width="380" height="256" rx="12" fill="#0B1F4B"/>
+    <rect x="716" y="268" width="408" height="42" rx="12" fill="#1F8A3E"/>
+    <text x="920" y="298" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">HUB</text>
+    <rect x="756" y="416" width="66" height="140" rx="6" fill="#F2F5FA"/>
+    <rect x="846" y="416" width="66" height="140" rx="6" fill="#F2F5FA"/>
+    <rect x="936" y="416" width="66" height="140" rx="6" fill="#F2F5FA"/>
+    <rect x="1026" y="416" width="66" height="140" rx="6" fill="#F2F5FA"/>
+    <rect x="756" y="340" width="336" height="42" rx="8" fill="#6C86B8"/>
+    <line x1="1060" y1="268" x2="1060" y2="214" stroke="#0B1F4B" stroke-width="5" stroke-linecap="round"/>
+    <polygon points="1062,216 1110,230 1062,244" fill="#1F8A3E"/>
+  </g>
+  <g id="road">
+    <rect x="600" y="556" width="680" height="44" fill="#DCE4F2"/>
+    <line x1="600" y1="578" x2="1280" y2="578" stroke="#FFFFFF" stroke-width="3" stroke-dasharray="16 14"/>
+  </g>
+  <g id="truck-left">
+    <rect x="620" y="532" width="100" height="48" rx="6" fill="#0B1F4B"/>
+    <rect x="722" y="546" width="42" height="34" rx="6" fill="#1F8A3E"/>
+    <circle cx="652" cy="582" r="10" fill="#1A2233"/>
+    <circle cx="652" cy="582" r="4" fill="#F2F5FA"/>
+    <circle cx="742" cy="582" r="10" fill="#1A2233"/>
+    <circle cx="742" cy="582" r="4" fill="#F2F5FA"/>
+  </g>
+  <g id="truck-right">
+    <rect x="1000" y="532" width="100" height="48" rx="6" fill="#6C86B8"/>
+    <rect x="1102" y="546" width="42" height="34" rx="6" fill="#0B1F4B"/>
+    <circle cx="1032" cy="582" r="10" fill="#1A2233"/>
+    <circle cx="1032" cy="582" r="4" fill="#F2F5FA"/>
+    <circle cx="1122" cy="582" r="10" fill="#1A2233"/>
+    <circle cx="1122" cy="582" r="4" fill="#F2F5FA"/>
+  </g>
+</svg>

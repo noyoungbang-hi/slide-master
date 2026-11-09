@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="header">
+    <text x="72" y="96" letter-spacing="2" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">지금 우리 자리</text>
+    <text x="72" y="156" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="48" font-weight="700" fill="#0B1F4B">흩어진 거점을 하나로</text>
+  </g>
+  <g id="center-booksity">
+    <rect x="72" y="250" width="320" height="130" rx="16" fill="#F2F5FA"/>
+    <rect x="96" y="278" width="70" height="52" rx="6" fill="#6C86B8"/>
+    <polygon points="90,280 131,254 172,280" fill="#0B1F4B"/>
+    <text x="190" y="306" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">북시티센터</text>
+    <text x="190" y="346" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">온라인 전용</text>
+    <rect x="298" y="226" width="80" height="36" rx="18" fill="#0B1F4B"/>
+    <text x="338" y="252" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">종료</text>
+  </g>
+  <g id="center-bugokri">
+    <rect x="72" y="420" width="320" height="130" rx="16" fill="#F2F5FA"/>
+    <rect x="96" y="448" width="70" height="52" rx="6" fill="#0B1F4B"/>
+    <polygon points="90,450 131,424 172,450" fill="#6C86B8"/>
+    <text x="190" y="476" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">부곡리센터</text>
+    <text x="190" y="516" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">오프라인 전용</text>
+  </g>
+  <g id="merge-arrows">
+    <path d="M400 315 C470 315 500 380 556 420" fill="none" stroke="#6C86B8" stroke-width="5" stroke-linecap="round"/>
+    <path d="M400 485 C470 485 500 450 556 440" fill="none" stroke="#6C86B8" stroke-width="5" stroke-linecap="round"/>
+    <polygon points="548,408 580,430 546,448" fill="#6C86B8"/>
+  </g>
+  <g id="hub-label">
+    <text x="710" y="236" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">부곡리 온·오프</text>
+    <text x="710" y="278" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#1F8A3E">통합 Hub센터</text>
+  </g>
+  <g id="hub-building">
+    <rect x="590" y="360" width="240" height="190" rx="12" fill="#0B1F4B"/>
+    <rect x="578" y="326" width="264" height="38" rx="12" fill="#1F8A3E"/>
+    <text x="710" y="353" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">HUB</text>
+    <rect x="610" y="430" width="56" height="120" rx="6" fill="#F2F5FA"/>
+    <rect x="682" y="430" width="56" height="120" rx="6" fill="#F2F5FA"/>
+    <rect x="754" y="430" width="56" height="120" rx="6" fill="#F2F5FA"/>
+  </g>
+  <g id="outcome-1">
+    <rect x="868" y="330" width="340" height="56" rx="28" fill="#DDF1E3"/>
+    <text x="896" y="368" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">재고 일원화</text>
+  </g>
+  <g id="outcome-2">
+    <rect x="868" y="408" width="340" height="56" rx="28" fill="#DDF1E3"/>
+    <text x="896" y="446" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">운영 일원화</text>
+  </g>
+  <g id="outcome-3">
+    <rect x="868" y="486" width="340" height="56" rx="28" fill="#DDF1E3"/>
+    <text x="896" y="524" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">비용 효율적 유통 구조화</text>
+  </g>
+  <g id="page-no">
+    <text x="1208" y="690" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">05 / 10</text>
+  </g>
+</svg>
