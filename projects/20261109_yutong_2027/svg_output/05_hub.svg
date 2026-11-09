@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="header">
+    <rect x="72" y="52" width="48" height="6" fill="#1F8A3E"/>
+    <text x="72" y="96" letter-spacing="2" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">04 · 통합 Hub센터</text>
+    <text x="72" y="156" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="48" font-weight="700" fill="#0B1F4B">부곡리 단일 거점으로 일원화합니다</text>
+    <text x="72" y="206" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" fill="#5B6577">북시티 종료 · 온·오프 통합 Hub센터 출범</text>
+  </g>
+  <g id="before-booksity">
+    <rect x="72" y="250" width="420" height="88" fill="#F2F5FA"/>
+    <text x="96" y="292" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">북시티센터</text>
+    <text x="96" y="324" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">온라인 전용 · 종료</text>
+  </g>
+  <g id="before-bugokri">
+    <rect x="72" y="362" width="420" height="88" fill="#F2F5FA"/>
+    <text x="96" y="404" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">부곡리센터</text>
+    <text x="96" y="436" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">오프라인 전용</text>
+  </g>
+  <g id="merge-arrow">
+    <polygon points="528,326 600,326 600,306 640,350 600,394 600,374 528,374" fill="#1F8A3E"/>
+  </g>
+  <g id="after-hub">
+    <rect x="672" y="250" width="536" height="200" fill="#0B1F4B"/>
+    <text x="704" y="330" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">부곡리</text>
+    <text x="704" y="376" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">온·오프 통합 Hub센터</text>
+    <rect x="704" y="400" width="48" height="6" fill="#1F8A3E"/>
+  </g>
+  <g id="outcome-1">
+    <line x1="72" y1="500" x2="320" y2="500" stroke="#0B1F4B" stroke-width="3"/>
+    <text x="72" y="540" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">01</text>
+    <text x="72" y="578" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">재고·운영 일원화</text>
+  </g>
+  <g id="outcome-2">
+    <line x1="356" y1="500" x2="604" y2="500" stroke="#0B1F4B" stroke-width="3"/>
+    <text x="356" y="540" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">02</text>
+    <text x="356" y="578" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">비용 효율적</text>
+    <text x="356" y="608" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">유통 구조화</text>
+  </g>
+  <g id="outcome-3">
+    <line x1="640" y1="500" x2="888" y2="500" stroke="#0B1F4B" stroke-width="3"/>
+    <text x="640" y="540" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">03</text>
+    <text x="640" y="578" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">지속가능</text>
+    <text x="640" y="608" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">통합물류 강화</text>
+  </g>
+  <g id="outcome-4">
+    <line x1="924" y1="500" x2="1208" y2="500" stroke="#0B1F4B" stroke-width="3"/>
+    <text x="924" y="540" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">04</text>
+    <text x="924" y="578" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">법규 준수 체계 확립</text>
+    <text x="924" y="608" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">무재해 사업장 구축</text>
+  </g>
+  <g id="footer">
+    <text x="72" y="700" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">출처: 2027년 유통지원단 운영방향 (2026.10)</text>
+    <text x="1208" y="700" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">05 / 11</text>
+  </g>
+</svg>
