@@ -56,6 +56,14 @@ re-architectable source. Do not load either full owner before that answer.
 - **Repo-wide style rules** — when editing prompt files under [`.claude/skills/ppt-master/references/`](.claude/skills/ppt-master/references/), Python under [`.claude/skills/ppt-master/scripts/`](.claude/skills/ppt-master/scripts/), or any other code/prose in the repo, follow the matching style rule in [`docs/rules/`](docs/rules/).
 - **Markdown language consistency** — Markdown files under `.claude/skills/ppt-master/workflows/`, `.claude/skills/ppt-master/references/`, and `docs/` are currently single-language per directory. New files mirror the language of their siblings; do not mix English scaffolding with Chinese paragraphs (or vice versa) inside one file. Chat replies are unaffected.
 
+## Deliverable Storage (Google Drive, standing preference)
+
+- Save every finished deliverable (the exported `.pptx`) to the user's Google Drive folder named **`Claude 완성본`** (already exists in My Drive; find it with the Google Drive connector's `search_files`). Do not create it elsewhere.
+- For each new job, create a **new subfolder** inside `Claude 완성본`. **Ask the user for the subfolder name** before creating it; never choose the name on the user's behalf.
+- Put the deliverable(s) in that subfolder.
+- Versioning: every time the user asks for a revision, save the new file next to the old one with a numeric suffix on the file name — `파일명-1`, `파일명-2`, `파일명-3`, … Keep earlier versions; do not overwrite them.
+- If the Google Drive connector is unavailable, say so and keep the file in `projects/<name>/exports/` instead of guessing another destination.
+
 ## Compatibility Boundary
 
 - This repository is a workflow/skill package, not an app or service scaffold.
