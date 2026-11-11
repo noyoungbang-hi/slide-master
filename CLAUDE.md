@@ -62,6 +62,7 @@ re-architectable source. Do not load either full owner before that answer.
 - For each new job, create a **new subfolder** inside `Claude 완성본`. **Ask the user for the subfolder name** before creating it; never choose the name on the user's behalf.
 - Put the deliverable(s) in that subfolder.
 - Versioning: every time the user asks for a revision, save the new file next to the old one with a numeric suffix on the file name — `파일명-1`, `파일명-2`, `파일명-3`, … Keep earlier versions; do not overwrite them.
+- **Fonts**: if a deliverable needs a specific font (e.g. Pretendard for PPTX, Noto Sans KR for HTML decks), put the font files in the same Drive subfolder, in a `fonts/` folder, together with the license text when one exists (SIL OFL). For HTML decks, also declare local `@font-face` rules pointing to `fonts/` so the deck renders correctly offline.
 - If the Google Drive connector is unavailable, say so and keep the file in `projects/<name>/exports/` instead of guessing another destination.
 
 ## Compatibility Boundary
