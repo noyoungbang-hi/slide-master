@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <defs><linearGradient id="fade" x1="640" y1="0" x2="860" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0B1F4B" stop-opacity="1"/><stop offset="1" stop-color="#0B1F4B" stop-opacity="0"/></linearGradient></defs>
+  <rect x="0" y="0" width="1280" height="720" fill="#0B1F4B"/>
+  <image href="../images/hero_d.jpg" xlink:href="../images/hero_d.jpg" x="640" y="0" width="640" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="640" y="0" width="220" height="720" fill="url(#fade)"/>
+  <rect x="1224" y="56" width="2" height="608" fill="#FFB547" fill-opacity="0.8"/>
+  <g id="kicker"><rect x="72" y="72" width="48" height="4" fill="#FFB547"/>
+    <text x="72" y="114" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="600" fill="#DCE4F2">2027 유통지원단 슬로건</text></g>
+  <g id="slogan">
+    <text x="72" y="270" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="120" font-weight="200" fill="#FFFFFF" fill-opacity="0.38">Build</text>
+    <text x="72" y="400" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="120" font-weight="200" fill="#FFFFFF" fill-opacity="0.38">Up</text>
+    <text x="68" y="540" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="120" font-weight="800" fill="#FFB547">Beyond</text></g>
+  <g id="years">
+    <text x="600" y="270" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="600" fill="#8A93A3">2009</text>
+    <text x="600" y="400" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="600" fill="#8A93A3">2027</text>
+    <text x="600" y="540" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="600" fill="#FFB547">2028~</text></g>
+  <g id="subtitle"><rect x="72" y="610" width="48" height="4" fill="#FFB547"/>
+    <text x="72" y="660" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="28" font-weight="300" fill="#DCE4F2">우리는 지어 왔고, 올려 왔고, 이제 넘어섭니다.</text></g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <defs><linearGradient id="t" x1="0" y1="0" x2="0" y2="360" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#050D24" stop-opacity="0.6"/><stop offset="1" stop-color="#050D24" stop-opacity="0"/></linearGradient><linearGradient id="b" x1="0" y1="420" x2="0" y2="720" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#050D24" stop-opacity="0"/><stop offset="1" stop-color="#050D24" stop-opacity="0.85"/></linearGradient></defs>
+  <rect x="0" y="0" width="1280" height="720" fill="#050D24"/>
+  <image href="../images/dawn_b.jpg" xlink:href="../images/dawn_b.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="0" y="0" width="1280" height="360" fill="url(#t)"/>
+  <rect x="0" y="420" width="1280" height="300" fill="url(#b)"/>
+  <g id="slogan">
+    <text x="640" y="190" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="120" font-weight="800" fill="#FFFFFF">Build Up <tspan fill="#FFB547">Beyond</tspan></text>
+    <text x="640" y="262" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="300" fill="#FFFFFF">우리는 지어 왔고, 올려 왔고, 이제 넘어섭니다.</text></g>
+  <g id="horizon">
+    <line x1="72" y1="540" x2="1208" y2="540" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.75"/>
+    <line x1="250" y1="528" x2="250" y2="552" stroke="#FFFFFF" stroke-width="2"/>
+    <line x1="704" y1="528" x2="704" y2="552" stroke="#FFFFFF" stroke-width="2"/>
+    <line x1="1160" y1="528" x2="1160" y2="552" stroke="#FFB547" stroke-width="3"/></g>
+  <g id="ticks">
+    <text x="250" y="600" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">Build</text>
+    <text x="250" y="632" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="300" fill="#DCE4F2">2009~</text>
+    <text x="704" y="600" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">Up</text>
+    <text x="704" y="632" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="300" fill="#DCE4F2">2027</text>
+    <text x="1160" y="600" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#FFB547">Beyond</text>
+    <text x="1160" y="632" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="300" fill="#DCE4F2">2028~</text></g>
+</svg>

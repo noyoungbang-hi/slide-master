@@ -130,8 +130,86 @@
       "height": 1542,
       "attribution_text": "dawn_b.jpg — \"Sunrise over the Himalayan Mountains.\" by Rashed Hossain via Openverse — license: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)",
       "status": "sourced"
+    },
+    {
+      "filename": "hero_a.jpg",
+      "slide": "11_build_up_beyond",
+      "purpose": "background",
+      "search_query": "sunrise above clouds",
+      "orientation": "landscape",
+      "provider": "openverse",
+      "stage": "no-attribution-only",
+      "title": "Pink sky sunrise",
+      "author": "",
+      "source_page_url": "https://www.rawpixel.com/image/3290162/free-photo-image-above-clouds-cc0-colorful",
+      "download_url": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdXB3azYxOTEyODg0LXdpa2ltZWRpYS1pbWFnZS1rb3dqbnN1cC5qcGc.jpg",
+      "license_name": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 1024,
+      "height": 683,
+      "attribution_text": "hero_a.jpg — \"Pink sky sunrise\" via Openverse — license: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)",
+      "status": "sourced",
+      "metadata_dimensions": {
+        "width": 5915,
+        "height": 3943,
+        "note": "upstream-reported size; actual downloaded file is smaller (likely a preview)"
+      }
+    },
+    {
+      "filename": "hero_b.jpg",
+      "slide": "11_build_up_beyond",
+      "purpose": "background",
+      "search_query": "sun rays mountains silhouette",
+      "orientation": "landscape",
+      "provider": "openverse",
+      "stage": "no-attribution-only",
+      "title": "Sun rays clouds mountains cast",
+      "author": "",
+      "source_page_url": "https://www.rawpixel.com/image/3300230/free-photo-image-cc0-creative-commons",
+      "download_url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3Vwd2s2MTg4OTAwOC13aWtpbWVkaWEtaW1hZ2Uta293cDdiYWQuanBn.jpg",
+      "license_name": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 1024,
+      "height": 683,
+      "attribution_text": "hero_b.jpg — \"Sun rays clouds mountains cast\" via Openverse — license: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)",
+      "status": "sourced",
+      "metadata_dimensions": {
+        "width": 5616,
+        "height": 3744,
+        "note": "upstream-reported size; actual downloaded file is smaller (likely a preview)"
+      }
+    },
+    {
+      "filename": "hero_d.jpg",
+      "slide": "11_build_up_beyond",
+      "purpose": "background",
+      "search_query": "blue hour mountain layers",
+      "orientation": "landscape",
+      "provider": "openverse",
+      "stage": "no-attribution-only",
+      "title": "Yellow blue clouds engulf mountain",
+      "author": "",
+      "source_page_url": "https://www.rawpixel.com/image/3294914/free-photo-image-nature-aerial-view-azure-sky",
+      "download_url": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdXB3azYxMzYxMzc4LXdpa2ltZWRpYS1pbWFnZS1rb3dtYW8xdi5qcGc.jpg",
+      "license_name": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 1024,
+      "height": 683,
+      "attribution_text": "hero_d.jpg — \"Yellow blue clouds engulf mountain\" via Openverse — license: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)",
+      "status": "sourced",
+      "metadata_dimensions": {
+        "width": 5760,
+        "height": 3840,
+        "note": "upstream-reported size; actual downloaded file is smaller (likely a preview)"
+      }
     }
   ],
-  "generated_at": "2026-11-12T01:50:05.058824Z",
+  "generated_at": "2026-11-12T01:58:40.881284Z",
   "license_verification": "provider metadata used; manual review recommended for external delivery"
 }

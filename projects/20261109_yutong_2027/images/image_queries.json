@@ -115,6 +115,53 @@
       "min_width": 1920,
       "status": "Needs-Manual",
       "last_error": "no acceptable candidate across all providers/stages"
+    },
+    {
+      "filename": "hero_a.jpg",
+      "query": "sunrise above clouds",
+      "slide": "11_build_up_beyond",
+      "purpose": "background",
+      "orientation": "landscape",
+      "strict_no_attribution": true,
+      "min_width": 1920,
+      "status": "Sourced",
+      "provider": "openverse",
+      "license_tier": "no-attribution"
+    },
+    {
+      "filename": "hero_b.jpg",
+      "query": "sun rays mountains silhouette",
+      "slide": "11_build_up_beyond",
+      "purpose": "background",
+      "orientation": "landscape",
+      "strict_no_attribution": true,
+      "min_width": 1920,
+      "status": "Sourced",
+      "provider": "openverse",
+      "license_tier": "no-attribution"
+    },
+    {
+      "filename": "hero_c.jpg",
+      "query": "highway light trails dawn",
+      "slide": "11_build_up_beyond",
+      "purpose": "background",
+      "orientation": "landscape",
+      "strict_no_attribution": true,
+      "min_width": 1920,
+      "status": "Needs-Manual",
+      "last_error": "no acceptable candidate across all providers/stages"
+    },
+    {
+      "filename": "hero_d.jpg",
+      "query": "blue hour mountain layers",
+      "slide": "11_build_up_beyond",
+      "purpose": "background",
+      "orientation": "landscape",
+      "strict_no_attribution": true,
+      "min_width": 1920,
+      "status": "Sourced",
+      "provider": "openverse",
+      "license_tier": "no-attribution"
     }
   ]
 }
