@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="header">
+    <rect x="72" y="52" width="48" height="6" fill="#1F8A3E"/>
+    <text x="72" y="96" letter-spacing="2" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">06 · 과제 01 운영모델</text>
+    <text x="72" y="156" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="48" font-weight="700" fill="#0B1F4B">운영·프로세스·매뉴얼·정책을 함께 정비합니다</text>
+    <text x="72" y="206" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" fill="#5B6577">현장 이슈 적기 대응체계 구축으로 운영모델 완성도 향상</text>
+  </g>
+  <g id="cell-operation">
+    <line x1="72" y1="250" x2="628" y2="250" stroke="#0B1F4B" stroke-width="3"/>
+    <circle cx="100" cy="304" r="28" fill="#0B1F4B"/>
+    <!-- icon: tabler-outline/settings -->
+  <g transform="translate(84, 288) scale(1.33333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M10.325 4.317c.426 -1.756 2.924 -1.756 3.35 0a1.724 1.724 0 0 0 2.573 1.066c1.543 -.94 3.31 .826 2.37 2.37a1.724 1.724 0 0 0 1.065 2.572c1.756 .426 1.756 2.924 0 3.35a1.724 1.724 0 0 0 -1.066 2.573c.94 1.543 -.826 3.31 -2.37 2.37a1.724 1.724 0 0 0 -2.572 1.065c-.426 1.756 -2.924 1.756 -3.35 0a1.724 1.724 0 0 0 -2.573 -1.066c-1.543 .94 -3.31 -.826 -2.37 -2.37a1.724 1.724 0 0 0 -1.065 -2.572c-1.756 -.426 -1.756 -2.924 0 -3.35a1.724 1.724 0 0 0 1.066 -2.573c-.94 -1.543 .826 -3.31 2.37 -2.37c1 .608 2.296 .07 2.572 -1.065" />
+    <path d="M9 12a3 3 0 1 0 6 0a3 3 0 0 0 -6 0" />
+  </g>
+    <text x="148" y="302" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">운영</text>
+    <text x="148" y="346" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">현장 운영이슈 적기 대응체계 구축</text>
+    <text x="148" y="380" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">운영모델 완성도 향상</text>
+  </g>
+  <g id="cell-process">
+    <line x1="652" y1="250" x2="1208" y2="250" stroke="#0B1F4B" stroke-width="3"/>
+    <circle cx="680" cy="304" r="28" fill="#0B1F4B"/>
+    <!-- icon: tabler-outline/route -->
+  <g transform="translate(664, 288) scale(1.33333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M3 19a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M19 7a2 2 0 1 0 0 -4a2 2 0 0 0 0 4" />
+    <path d="M11 19h5.5a3.5 3.5 0 0 0 0 -7h-8a3.5 3.5 0 0 1 0 -7h4.5" />
+  </g>
+    <text x="728" y="302" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">프로세스</text>
+    <text x="728" y="346" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">채널별 특화된 고효율 프로세스 구현</text>
+    <text x="728" y="380" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">온라인 발송프로세스 개선 外</text>
+  </g>
+  <g id="cell-manual">
+    <line x1="72" y1="450" x2="628" y2="450" stroke="#0B1F4B" stroke-width="3"/>
+    <circle cx="100" cy="504" r="28" fill="#0B1F4B"/>
+    <!-- icon: tabler-outline/file-text -->
+  <g transform="translate(84, 488) scale(1.33333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M14 3v4a1 1 0 0 0 1 1h4" />
+    <path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2" />
+    <path d="M9 9l1 0" />
+    <path d="M9 13l6 0" />
+    <path d="M9 17l6 0" />
+  </g>
+    <text x="148" y="502" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">매뉴얼</text>
+    <text x="148" y="546" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">전 공정 단일 표준작업지침 제정</text>
+  </g>
+  <g id="cell-policy">
+    <line x1="652" y1="450" x2="1208" y2="450" stroke="#0B1F4B" stroke-width="3"/>
+    <circle cx="680" cy="504" r="28" fill="#0B1F4B"/>
+    <!-- icon: tabler-outline/gavel -->
+  <g transform="translate(664, 488) scale(1.33333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M13 10l7.383 7.418c.823 .82 .823 2.148 0 2.967a2.11 2.11 0 0 1 -2.976 0l-7.407 -7.385" />
+    <path d="M6 9l4 4" />
+    <path d="M13 10l-4 -4" />
+    <path d="M3 21h7" />
+    <path d="M6.793 15.793l-3.586 -3.586a1 1 0 0 1 0 -1.414l2.293 -2.293l.5 .5l3 -3l-.5 -.5l2.293 -2.293a1 1 0 0 1 1.414 0l3.586 3.586a1 1 0 0 1 0 1.414l-2.293 2.293l-.5 -.5l-3 3l.5 .5l-2.293 2.293a1 1 0 0 1 -1.414 0" />
+  </g>
+    <text x="728" y="502" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">정책</text>
+    <text x="728" y="546" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">Hub센터 중심 정책 개편</text>
+    <text x="728" y="580" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">ASRS 적재 보관기준 外</text>
+  </g>
+  <g id="footer">
+    <text x="72" y="700" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">출처: 2027년 유통지원단 운영방향 (2026.10)</text>
+    <text x="1208" y="700" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">07 / 12</text>
+  </g>
+</svg>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="header">
+    <rect x="72" y="52" width="48" height="6" fill="#1F8A3E"/>
+    <text x="72" y="96" letter-spacing="2" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">08 · 과제 03 영업채널 지원·데이터</text>
+    <text x="72" y="156" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="48" font-weight="700" fill="#0B1F4B">데이터 기반으로 영업채널을 지원합니다</text>
+    <text x="72" y="206" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" fill="#5B6577">데이터 체계 → 물류비 지표 → 지원체계 로드맵</text>
+  </g>
+  <g id="step-data">
+    <rect x="72" y="250" width="330" height="380" fill="#F2F5FA"/>
+    <circle cx="124" cy="306" r="28" fill="#0B1F4B"/>
+    <!-- icon: tabler-outline/database -->
+  <g transform="translate(108, 290) scale(1.33333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M4 6a8 3 0 1 0 16 0a8 3 0 1 0 -16 0" />
+    <path d="M4 6v6a8 3 0 0 0 16 0v-6" />
+    <path d="M4 12v6a8 3 0 0 0 16 0v-6" />
+  </g>
+    <text x="168" y="314" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">STEP 1</text>
+    <text x="96" y="388" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">데이터 체계</text>
+    <text x="96" y="438" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">판매·재고·수요</text>
+    <text x="96" y="474" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">데이터 기반</text>
+    <text x="96" y="510" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">유통 운영 체계</text>
+    <text x="96" y="546" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">수립 시도</text>
+  </g>
+  <g id="step-index">
+    <rect x="475" y="250" width="330" height="380" fill="#F2F5FA"/>
+    <circle cx="527" cy="306" r="28" fill="#0B1F4B"/>
+    <!-- icon: tabler-outline/chart-line -->
+  <g transform="translate(511, 290) scale(1.33333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M4 19l16 0" />
+    <path d="M4 15l4 -6l4 2l4 -5l4 4" />
+  </g>
+    <text x="571" y="314" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">STEP 2</text>
+    <text x="499" y="388" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">물류비 지표</text>
+    <text x="499" y="438" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">활동기준원가</text>
+    <text x="499" y="474" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">모델 적용으로</text>
+    <text x="499" y="510" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">채널·공정별</text>
+    <text x="499" y="546" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">물류비 모니터링</text>
+    <text x="499" y="582" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">지표 개발</text>
+  </g>
+  <g id="step-support">
+    <rect x="878" y="250" width="330" height="380" fill="#0B1F4B"/>
+    <circle cx="930" cy="306" r="28" fill="#FFFFFF"/>
+    <!-- icon: tabler-outline/target-arrow -->
+  <g transform="translate(914, 290) scale(1.33333)" fill="none" stroke="#0B1F4B" stroke-width="2">
+    <path d="M11 12a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+    <path d="M12 7a5 5 0 1 0 5 5" />
+    <path d="M13 3.055a9 9 0 1 0 7.941 7.945" />
+    <path d="M15 6v3h3l3 -3h-3v-3l-3 3" />
+    <path d="M15 9l-3 3" />
+  </g>
+    <text x="974" y="314" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#DCE4F2">STEP 3</text>
+    <text x="902" y="388" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">영업채널 지원</text>
+    <text x="902" y="438" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">영업채널 니즈</text>
+    <text x="902" y="474" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">반영 지원체계</text>
+    <text x="902" y="510" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">로드맵 수립·시행</text>
+    <text x="902" y="546" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">중장기 전략,</text>
+    <text x="902" y="582" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">신규사업 연계</text>
+  </g>
+  <g id="flow-arrows">
+    <polygon points="420,418 456,440 420,462" fill="#6C86B8"/>
+    <polygon points="823,418 859,440 823,462" fill="#6C86B8"/>
+  </g>
+  <g id="footer">
+    <text x="72" y="700" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">출처: 2027년 유통지원단 운영방향 (2026.10)</text>
+    <text x="1208" y="700" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">09 / 12</text>
+  </g>
+</svg>

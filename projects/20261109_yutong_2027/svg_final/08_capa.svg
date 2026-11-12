@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="header">
+    <rect x="72" y="52" width="48" height="6" fill="#1F8A3E"/>
+    <text x="72" y="96" letter-spacing="2" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">07 · 과제 02 인프라·Capa</text>
+    <text x="72" y="156" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="48" font-weight="700" fill="#0B1F4B">설비와 공간을 보강해 처리 능력을 확충합니다</text>
+    <text x="72" y="206" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" fill="#5B6577">분류설비 · 보관공간 · 입하/출하, 3개 영역을 보강</text>
+  </g>
+  <g id="flow-inbound">
+    <rect x="72" y="250" width="256" height="96" fill="#F2F5FA"/>
+    <circle cx="120" cy="298" r="28" fill="#0B1F4B"/>
+    <!-- icon: tabler-outline/truck -->
+  <g transform="translate(104, 282) scale(1.33333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M5 17a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+    <path d="M15 17a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+    <path d="M5 17h-2v-11a1 1 0 0 1 1 -1h9v12m-4 0h6m4 0h2v-6h-8m0 -5h5l3 5" />
+  </g>
+    <text x="168" y="310" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">입하</text>
+  </g>
+  <g id="flow-storage">
+    <rect x="364" y="250" width="256" height="96" fill="#F2F5FA"/>
+    <circle cx="412" cy="298" r="28" fill="#0B1F4B"/>
+    <!-- icon: tabler-outline/package -->
+  <g transform="translate(396, 282) scale(1.33333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M12 3l8 4.5l0 9l-8 4.5l-8 -4.5l0 -9l8 -4.5" />
+    <path d="M12 12l8 -4.5" />
+    <path d="M12 12l0 9" />
+    <path d="M12 12l-8 -4.5" />
+    <path d="M16 5.25l-8 4.5" />
+  </g>
+    <text x="460" y="310" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">보관</text>
+  </g>
+  <g id="flow-sorting">
+    <rect x="656" y="250" width="256" height="96" fill="#0B1F4B"/>
+    <circle cx="704" cy="298" r="28" fill="#FFFFFF"/>
+    <!-- icon: tabler-outline/arrows-join -->
+  <g transform="translate(688, 282) scale(1.33333)" fill="none" stroke="#0B1F4B" stroke-width="2">
+    <path d="M3 7h5l3.5 5h9.5" />
+    <path d="M3 17h5l3.495 -5" />
+    <path d="M18 15l3 -3l-3 -3" />
+  </g>
+    <text x="752" y="310" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">분류</text>
+  </g>
+  <g id="flow-outbound">
+    <rect x="948" y="250" width="260" height="96" fill="#F2F5FA"/>
+    <circle cx="996" cy="298" r="28" fill="#0B1F4B"/>
+    <!-- icon: tabler-outline/truck -->
+  <g transform="translate(980, 282) scale(1.33333)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M5 17a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+    <path d="M15 17a2 2 0 1 0 4 0a2 2 0 1 0 -4 0" />
+    <path d="M5 17h-2v-11a1 1 0 0 1 1 -1h9v12m-4 0h6m4 0h2v-6h-8m0 -5h5l3 5" />
+  </g>
+    <text x="1044" y="310" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">출하</text>
+  </g>
+  <g id="flow-arrows">
+    <polygon points="334,312 358,298 334,284" fill="#6C86B8"/>
+    <polygon points="626,312 650,298 626,284" fill="#6C86B8"/>
+    <polygon points="918,312 942,298 918,284" fill="#6C86B8"/>
+  </g>
+  <g id="col-inbound">
+    <rect x="72" y="370" width="256" height="4" fill="#1F8A3E"/>
+    <text x="72" y="422" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">공간 확보와</text>
+    <text x="72" y="458" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">재배치</text>
+  </g>
+  <g id="col-storage">
+    <rect x="364" y="370" width="256" height="4" fill="#1F8A3E"/>
+    <text x="364" y="422" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">메자닌 등</text>
+    <text x="364" y="458" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">보관공간 확충</text>
+    <text x="364" y="494" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">채널별 작업동선</text>
+    <text x="364" y="530" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">확보</text>
+  </g>
+  <g id="col-sorting">
+    <rect x="656" y="370" width="256" height="4" fill="#1F8A3E"/>
+    <text x="656" y="422" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">노후설비 대응</text>
+    <text x="656" y="458" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">Capa 향상</text>
+    <text x="656" y="494" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">PAS-α 보강</text>
+    <text x="656" y="530" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">북시티 분류기</text>
+    <text x="656" y="566" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">이전 설치</text>
+  </g>
+  <g id="col-outbound">
+    <rect x="948" y="370" width="260" height="4" fill="#1F8A3E"/>
+    <text x="948" y="422" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">공간 확보와</text>
+    <text x="948" y="458" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">재배치</text>
+  </g>
+  <g id="footer">
+    <text x="72" y="700" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">출처: 2027년 유통지원단 운영방향 (2026.10)</text>
+    <text x="1208" y="700" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">08 / 12</text>
+  </g>
+</svg>

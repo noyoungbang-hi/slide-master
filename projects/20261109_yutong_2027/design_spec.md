@@ -61,7 +61,7 @@
 
 ### Font Plan
 
-**Typography direction**: Pretendard single family (install-local lock); weight and size carry hierarchy. Viewing machine needs Pretendard installed.
+**Typography direction**: Pretendard single family (slide 11 slogan only: Montserrat ExtraBold, user-requested exception) (install-local lock); weight and size carry hierarchy. Viewing machine needs Pretendard installed.
 
 | Role | Chinese | English | Fallback tail |
 | ---- | ------- | ------- | ------------- |
@@ -154,7 +154,11 @@ None — all diagrams (timeline, staircase, flow) are hand-authored native shape
 
 ## VIII. Image Resource List
 
-No image rows. No illustrations (icons only, see §VI).
+| Slide | File | Use | Source / License |
+| ----- | ---- | --- | ---------------- |
+| 11 | `images/dawn_b_16x9.jpg` (16:9 center crop of dawn_b.jpg) | Full-bleed background (sunrise on horizon) | Rashed Hossain, WordPress Photos, CC0 — https://wordpress.org/photos/photo/769667bb22/ |
+
+No other images; icons only elsewhere (see §VI).
 
 ---
 
@@ -235,7 +239,7 @@ No image rows. No illustrations (icons only, see §VI).
 
 #### Slide 11 - Build Up Beyond
 
-- **Layout**: Slogan only (two lines, left) + vector image (right): three rising steps, solid → solid → dashed with a green dot and a dashed path leaving the frame.
+- **Layout**: Full-bleed sunrise photo; centered kicker, slogan "Build Up Beyond" (Montserrat ExtraBold 84, "Beyond" in accent_bright #35C46A), subtitle "우리는 지어 왔고, 올려 왔고, 이제 넘어섭니다." (Pretendard Light 32), bottom three-column Build / Up / Beyond captions over a navy gradient. Display font exception to the Pretendard lock was explicitly requested by the user in this conversation (slide 11 slogan only).
 - **Title**: Build Up Beyond
 - **Core message**: 기반을 쌓아 올리고(인프라 구축·Hub센터 완성), 그 위에서 물리적 거점을 넘어 데이터 기반 지능형 물류로 나아간다.
 - **Content**: Build Up = 2009~2022 인프라 구축과 확장 → 2023~2027 Hub센터 완성 · Beyond = 2028~2030 지능화 전환 ("물리적 거점을 넘어")

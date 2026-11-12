@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="header">
+    <rect x="72" y="52" width="48" height="6" fill="#1F8A3E"/>
+    <text x="72" y="96" letter-spacing="2" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">02 · 경과</text>
+    <text x="72" y="156" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="48" font-weight="700" fill="#0B1F4B">센터 확대와 운영 최적화로 기반을 만들었습니다</text>
+    <text x="72" y="206" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" fill="#5B6577">2000~2023년 주요 연혁</text>
+  </g>
+  <g id="timeline-line">
+    <line x1="72" y1="440" x2="1208" y2="440" stroke="#DCE4F2" stroke-width="8"/>
+  </g>
+  <g id="pin-2000">
+    <line x1="130" y1="386" x2="130" y2="440" stroke="#6C86B8" stroke-width="2"/>
+    <text x="130" y="300" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">2000</text>
+    <text x="130" y="338" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">청진동 센터</text>
+    <text x="130" y="368" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">오픈</text>
+    <rect x="120" y="430" width="20" height="20" fill="#0B1F4B"/>
+  </g>
+  <g id="pin-2003">
+    <line x1="272" y1="440" x2="272" y2="494" stroke="#6C86B8" stroke-width="2"/>
+    <text x="272" y="544" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">2003</text>
+    <text x="272" y="582" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">봉일천 이전</text>
+    <rect x="262" y="430" width="20" height="20" fill="#0B1F4B"/>
+  </g>
+  <g id="pin-2009">
+    <line x1="414" y1="386" x2="414" y2="440" stroke="#6C86B8" stroke-width="2"/>
+    <text x="414" y="300" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">2009</text>
+    <text x="414" y="338" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">북시티센터</text>
+    <text x="414" y="368" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">온라인 전용</text>
+    <rect x="404" y="430" width="20" height="20" fill="#0B1F4B"/>
+  </g>
+  <g id="pin-2014">
+    <line x1="556" y1="440" x2="556" y2="494" stroke="#6C86B8" stroke-width="2"/>
+    <text x="556" y="544" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#1F8A3E">2014</text>
+    <text x="556" y="582" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">부곡리센터</text>
+    <text x="556" y="612" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">오프라인 전용</text>
+    <rect x="546" y="430" width="20" height="20" fill="#1F8A3E"/>
+  </g>
+  <g id="pin-2015">
+    <line x1="698" y1="386" x2="698" y2="440" stroke="#6C86B8" stroke-width="2"/>
+    <text x="698" y="300" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">2015</text>
+    <text x="698" y="338" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">KB+KH</text>
+    <text x="698" y="368" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">운송통합</text>
+    <rect x="688" y="430" width="20" height="20" fill="#0B1F4B"/>
+  </g>
+  <g id="pin-2018">
+    <line x1="840" y1="440" x2="840" y2="494" stroke="#6C86B8" stroke-width="2"/>
+    <text x="840" y="544" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">2018</text>
+    <text x="840" y="582" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">택배사·운영방식</text>
+    <text x="840" y="612" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">변경</text>
+    <rect x="830" y="430" width="20" height="20" fill="#0B1F4B"/>
+  </g>
+  <g id="pin-2022">
+    <line x1="982" y1="386" x2="982" y2="440" stroke="#6C86B8" stroke-width="2"/>
+    <text x="982" y="300" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">2022</text>
+    <text x="982" y="338" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">부곡리 센터</text>
+    <text x="982" y="368" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">증축</text>
+    <rect x="972" y="430" width="20" height="20" fill="#0B1F4B"/>
+  </g>
+  <g id="pin-2023">
+    <line x1="1124" y1="440" x2="1124" y2="494" stroke="#6C86B8" stroke-width="2"/>
+    <text x="1124" y="544" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#1F8A3E">2023</text>
+    <text x="1124" y="582" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">일요·새벽배송</text>
+    <rect x="1114" y="430" width="20" height="20" fill="#1F8A3E"/>
+  </g>
+  <g id="footer">
+    <text x="72" y="700" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">출처: 2027년 유통지원단 운영방향 (2026.10)</text>
+    <text x="1208" y="700" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">03 / 12</text>
+  </g>
+</svg>

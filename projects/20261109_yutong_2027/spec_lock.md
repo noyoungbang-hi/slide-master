@@ -23,9 +23,12 @@
 - text_secondary: #5B6577
 - text_tertiary: #8A93A3
 - border: #D9DEE7
+- accent_bright: #35C46A
+- scrim_navy: #0B1F4B
 
 ## typography
 - font_family: Pretendard, "Malgun Gothic", sans-serif
+- display_family: Montserrat, Pretendard, sans-serif
 - code_family: Consolas, "Courier New", monospace
 - body: 32
 - title: 48
@@ -62,3 +65,6 @@
 - Mixing icon libraries
 - `mask`, `<style>`, `class`, external CSS, `<foreignObject>`, `textPath`, `@font-face`, `<animate*>`, `<set>`, `<script>` / event attributes, `<iframe>`
 - HTML named entities in text; write typography as raw Unicode and escape XML reserved characters
+
+## images
+- 11_build_up_beyond: images/dawn_b_16x9.jpg (16:9 crop of dawn_b.jpg; full-bleed background, CC0, Rashed Hossain / WordPress Photos https://wordpress.org/photos/photo/769667bb22/)

@@ -1,27 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
-  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
-  <g id="image-panel">
-    <rect x="560" y="0" width="720" height="720" fill="#F2F5FA"/>
-    <line x1="600" y1="600" x2="1280" y2="600" stroke="#D9DEE7" stroke-width="2"/>
-  </g>
-  <g id="step-build">
-    <rect x="620" y="480" width="150" height="120" fill="#DCE4F2"/>
-  </g>
-  <g id="step-up">
-    <rect x="790" y="380" width="150" height="220" fill="#0B1F4B"/>
-    <path d="M845 356 L865 336 L885 356" fill="none" stroke="#0B1F4B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
-  <g id="step-beyond">
-    <rect x="960" y="280" width="150" height="320" fill="#FFFFFF" stroke="#6C86B8" stroke-width="2" stroke-dasharray="10 8"/>
-    <circle cx="1035" cy="266" r="14" fill="#1F8A3E"/>
-    <path d="M1049 258 L1280 140" fill="none" stroke="#1F8A3E" stroke-width="3" stroke-dasharray="8 10" stroke-linecap="round"/>
-  </g>
-  <g id="slogan">
-    <rect x="72" y="250" width="64" height="8" fill="#1F8A3E"/>
-    <text x="72" y="360" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#0B1F4B">Build Up</text>
-    <text x="72" y="450" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#1F8A3E">Beyond</text>
-  </g>
-  <g id="page-no">
-    <text x="1208" y="700" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">11 / 12</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <defs><linearGradient id="t" x1="0" y1="0" x2="0" y2="440" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0B1F4B" stop-opacity="0.55"/><stop offset="1" stop-color="#0B1F4B" stop-opacity="0"/></linearGradient><linearGradient id="b" x1="0" y1="500" x2="0" y2="720" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0B1F4B" stop-opacity="0"/><stop offset="1" stop-color="#0B1F4B" stop-opacity="0.78"/></linearGradient></defs>
+  <rect x="0" y="0" width="1280" height="720" fill="#0B1F4B"/>
+  <image href="../images/dawn_b_16x9.jpg" xlink:href="../images/dawn_b_16x9.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="0" y="0" width="1280" height="440" fill="url(#t)"/>
+  <rect x="0" y="500" width="1280" height="220" fill="url(#b)"/>
+  <g id="kicker"><rect x="616" y="70" width="48" height="6" fill="#1F8A3E"/>
+    <text x="640" y="116" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#DDF1E3">2027 유통지원단 슬로건</text></g>
+    <g id="slogan"><text x="640" y="214" text-anchor="middle" font-family="Montserrat, Pretendard, sans-serif" font-size="84" font-weight="800" fill="#FFFFFF">Build Up <tspan fill="#35C46A">Beyond</tspan></text>
+    <text x="640" y="290" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="300" fill="#FFFFFF">우리는 지어 왔고, 올려 왔고, 이제 넘어섭니다.</text></g>
+  <g id="beats">
+    <text x="213" y="628" text-anchor="middle" font-family="Montserrat, Pretendard, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">Build</text>
+    <text x="213" y="664" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">2009년부터 인프라 구축·확장</text>
+    <text x="640" y="628" text-anchor="middle" font-family="Montserrat, Pretendard, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">Up</text>
+    <text x="640" y="664" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">Hub센터 안정화·통합 운영모델</text>
+    <text x="1067" y="628" text-anchor="middle" font-family="Montserrat, Pretendard, sans-serif" font-size="24" font-weight="700" fill="#35C46A">Beyond</text>
+    <text x="1067" y="664" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">데이터 기반 지능형 물류로</text></g>
 </svg>
