@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#0B1F4B"/>
+  <g id="case-line">
+    <rect x="72" y="120" width="64" height="8" fill="#1F8A3E"/>
+    <text x="72" y="196" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="500" fill="#DCE4F2">
+      <tspan x="72" dy="0">1985년, 인텔은 처음 만든 D램 사업을 접고</tspan>
+      <tspan x="72" dy="44">마이크로프로세서 하나에 집중했습니다.</tspan>
+    </text>
+  </g>
+  <g id="declaration">
+    <text x="72" y="400" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#FFFFFF">쉽지 않았습니다.</text>
+    <text x="72" y="510" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#FFFFFF">그래서 끝까지 갑니다.</text>
+    <rect x="72" y="550" width="96" height="8" fill="#1F8A3E"/>
+  </g>
+  <g id="page-no">
+    <text x="1208" y="700" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#6C86B8">11 / 12</text>
+  </g>
+</svg>

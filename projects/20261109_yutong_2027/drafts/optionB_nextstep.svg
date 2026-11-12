@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="header">
+    <rect x="72" y="52" width="48" height="6" fill="#1F8A3E"/>
+    <text x="72" y="96" letter-spacing="2" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">10 · 다짐</text>
+    <text x="72" y="156" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="48" font-weight="700" fill="#0B1F4B">Hub센터를 완성하고, 다음 단계로 나아가겠습니다</text>
+    <text x="72" y="206" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" fill="#5B6577">2027년은 로드맵 2단계를 마무리하는 해입니다</text>
+  </g>
+  <g id="ground">
+    <line x1="72" y1="640" x2="1208" y2="640" stroke="#D9DEE7" stroke-width="2"/>
+  </g>
+  <g id="step-now">
+    <rect x="72" y="470" width="360" height="170" fill="#DCE4F2"/>
+    <text x="96" y="512" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">지금</text>
+    <text x="96" y="558" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="40" font-weight="700" fill="#0B1F4B">2026</text>
+    <text x="96" y="596" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">북시티 종료</text>
+    <text x="96" y="626" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">부곡리 단일 Hub로 일원화</text>
+  </g>
+  <g id="step-2027">
+    <rect x="460" y="360" width="360" height="280" fill="#0B1F4B"/>
+    <rect x="460" y="316" width="140" height="36" fill="#1F8A3E"/>
+    <text x="530" y="342" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">완성의 해</text>
+    <text x="484" y="430" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="64" font-weight="700" fill="#FFFFFF">2027</text>
+    <text x="484" y="488" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">통합 운영모델 완성</text>
+    <text x="484" y="530" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">4대 과제를 끝까지 추진</text>
+  </g>
+  <g id="step-next">
+    <rect x="848" y="250" width="360" height="390" fill="#FFFFFF" stroke="#6C86B8" stroke-width="2" stroke-dasharray="10 8"/>
+    <text x="872" y="292" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">다음 단계</text>
+    <text x="872" y="338" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="40" font-weight="700" fill="#0B1F4B">2028~2030</text>
+    <text x="872" y="380" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">데이터 기반</text>
+    <text x="872" y="410" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#1A2233">지능형 물류로 전환</text>
+  </g>
+  <g id="step-arrows">
+    <polygon points="436,540 456,552 436,564" fill="#6C86B8"/>
+    <polygon points="824,520 844,532 824,544" fill="#6C86B8"/>
+  </g>
+  <g id="footer">
+    <text x="72" y="700" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">출처: 2027년 유통지원단 운영방향 (2026.10)</text>
+    <text x="1208" y="700" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">11 / 12</text>
+  </g>
+</svg>

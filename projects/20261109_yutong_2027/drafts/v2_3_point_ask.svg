@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="header">
+    <rect x="72" y="52" width="48" height="6" fill="#1F8A3E"/>
+    <text x="72" y="96" letter-spacing="2" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">10 · 다짐</text>
+    <text x="72" y="156" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="48" font-weight="700" fill="#0B1F4B">2027년의 약속, 그리고 부탁드립니다</text>
+    <text x="72" y="206" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" fill="#5B6577">결론 → 다음 단계 → 요청</text>
+  </g>
+  <g id="col-conclusion">
+    <rect x="72" y="250" width="360" height="380" fill="#F2F5FA"/>
+    <text x="96" y="296" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">결론</text>
+    <text x="96" y="372" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">2027년,</text>
+    <text x="96" y="418" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">통합 운영모델을</text>
+    <text x="96" y="464" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">완성하겠습니다.</text>
+  </g>
+  <g id="col-next">
+    <rect x="460" y="250" width="360" height="380" fill="#FFFFFF" stroke="#6C86B8" stroke-width="2" stroke-dasharray="10 8"/>
+    <text x="484" y="296" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">그 다음</text>
+    <text x="484" y="372" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">2028~2030,</text>
+    <text x="484" y="418" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">데이터 기반</text>
+    <text x="484" y="464" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">지능형 물류로</text>
+    <text x="484" y="510" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">나아가겠습니다.</text>
+  </g>
+  <g id="col-ask">
+    <rect x="848" y="250" width="360" height="380" fill="#0B1F4B"/>
+    <text x="872" y="296" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#DCE4F2">요청</text>
+    <text x="872" y="372" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">끝까지</text>
+    <text x="872" y="418" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">함께해 주십시오.</text>
+  </g>
+  <g id="flow-arrows">
+    <polygon points="436,424 456,440 436,456" fill="#6C86B8"/>
+    <polygon points="824,424 844,440 824,456" fill="#6C86B8"/>
+  </g>
+  <g id="footer">
+    <text x="72" y="700" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">출처: 2027년 유통지원단 운영방향 (2026.10)</text>
+    <text x="1208" y="700" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">11 / 12</text>
+  </g>
+</svg>

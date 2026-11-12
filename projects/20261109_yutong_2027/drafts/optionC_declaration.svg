@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#0B1F4B"/>
+  <g id="kicker">
+    <rect x="72" y="120" width="64" height="8" fill="#1F8A3E"/>
+    <text x="72" y="190" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="500" fill="#DCE4F2">2027 유통지원단 운영방향</text>
+  </g>
+  <g id="declaration">
+    <text x="72" y="320" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="40" font-weight="600" fill="#DCE4F2">부곡리 Hub센터 안정화를 기반으로,</text>
+    <text x="72" y="430" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#FFFFFF">통합 운영모델을</text>
+    <text x="72" y="530" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#FFFFFF">반드시 완성하겠습니다.</text>
+    <rect x="72" y="570" width="96" height="8" fill="#1F8A3E"/>
+  </g>
+  <g id="pledge-line">
+    <text x="72" y="650" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">운영 · 설비와 공간 · 데이터 · 안전, 4대 과제를 끝까지 책임지겠습니다.</text>
+  </g>
+  <g id="page-no">
+    <text x="1208" y="700" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#6C86B8">11 / 12</text>
+  </g>
+</svg>

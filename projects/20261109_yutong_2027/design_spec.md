@@ -6,7 +6,7 @@
 | ---- | ----- |
 | **Project Name** | 2027년 유통지원단 운영방향 (yutong_2027) |
 | **Canvas Format** | PPT 16:9 (1280x720) |
-| **Page Count** | 11 |
+| **Page Count** | 12 |
 | **Design Style** | swiss-minimal — flat sharp-edged grid, no illustrations, structure carries the page; selective circular line icons on task pages |
 | **Target Audience** | 팀장·임원·대표 앞에서 임원이 보고하는 발표 (쉬운 말, 결론 먼저) |
 | **Use Case** | 발표용 (2026.10, 유통지원단) |
@@ -233,7 +233,14 @@ No image rows. No illustrations (icons only, see §VI).
 - **Core message**: 위험을 사전에 차단하고 안전·방재 로드맵으로 상시 무재해 사업장을 구축한다.
 - **Content**: 소방·산업안전 통합컨설팅 기반 화재 취약요인·위험 사전 차단 · 중대재해처벌법 필수요건 충족 안전·방재 로드맵 수립·시행 · 법규 준수 체계 확립을 통한 상시 무재해 사업장 구축
 
-#### Slide 11 - Closing
+#### Slide 11 - Build Up Beyond
+
+- **Layout**: Slogan only (two lines, left) + vector image (right): three rising steps, solid → solid → dashed with a green dot and a dashed path leaving the frame.
+- **Title**: Build Up Beyond
+- **Core message**: 기반을 쌓아 올리고(인프라 구축·Hub센터 완성), 그 위에서 물리적 거점을 넘어 데이터 기반 지능형 물류로 나아간다.
+- **Content**: Build Up = 2009~2022 인프라 구축과 확장 → 2023~2027 Hub센터 완성 · Beyond = 2028~2030 지능화 전환 ("물리적 거점을 넘어")
+
+#### Slide 12 - Closing
 
 - **Layout**: Mirrors the cover: large "감사합니다" left, navy plane with year at right.
 - **Title**: 감사합니다

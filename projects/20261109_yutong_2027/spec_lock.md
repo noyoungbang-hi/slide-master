@@ -53,6 +53,7 @@
 - P09: dense
 - P10: dense
 - P11: anchor
+- P12: anchor
 
 ## pptx_structure
 - mode: flat

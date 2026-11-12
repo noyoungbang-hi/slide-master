@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="header">
+    <rect x="72" y="52" width="48" height="6" fill="#1F8A3E"/>
+    <text x="72" y="96" letter-spacing="2" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">10 · 다짐</text>
+    <text x="72" y="156" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="48" font-weight="700" fill="#0B1F4B">2027년, 통합 운영모델을 완성하겠습니다</text>
+    <text x="72" y="206" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" fill="#5B6577">네 가지를 약속드립니다</text>
+  </g>
+  <g id="pledge-1">
+    <line x1="72" y1="250" x2="1208" y2="250" stroke="#D9DEE7" stroke-width="2"/>
+    <text x="72" y="306" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="40" font-weight="700" fill="#1F8A3E">01</text>
+    <text x="172" y="294" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">운영모델을 완성하겠습니다</text>
+    <text x="172" y="328" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">운영 · 프로세스 · 매뉴얼 · 정책 정비</text>
+  </g>
+  <g id="pledge-2">
+    <line x1="72" y1="346" x2="1208" y2="346" stroke="#D9DEE7" stroke-width="2"/>
+    <text x="72" y="402" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="40" font-weight="700" fill="#1F8A3E">02</text>
+    <text x="172" y="390" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">처리 능력을 확충하겠습니다</text>
+    <text x="172" y="424" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">분류설비 보강 · 보관공간 확충 · 입하·출하 재배치</text>
+  </g>
+  <g id="pledge-3">
+    <line x1="72" y1="442" x2="1208" y2="442" stroke="#D9DEE7" stroke-width="2"/>
+    <text x="72" y="498" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="40" font-weight="700" fill="#1F8A3E">03</text>
+    <text x="172" y="486" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">데이터로 영업채널을 지원하겠습니다</text>
+    <text x="172" y="520" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">지원체계 로드맵 · 물류비 모니터링 지표</text>
+  </g>
+  <g id="pledge-4">
+    <line x1="72" y1="538" x2="1208" y2="538" stroke="#D9DEE7" stroke-width="2"/>
+    <text x="72" y="594" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="40" font-weight="700" fill="#1F8A3E">04</text>
+    <text x="172" y="582" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">위험을 먼저 막고, 무재해 사업장을 지키겠습니다</text>
+    <text x="172" y="616" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">소방·산업안전 컨설팅 · 안전·방재 로드맵</text>
+    <line x1="72" y1="634" x2="1208" y2="634" stroke="#D9DEE7" stroke-width="2"/>
+  </g>
+  <g id="footer">
+    <text x="72" y="700" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">출처: 2027년 유통지원단 운영방향 (2026.10)</text>
+    <text x="1208" y="700" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">11 / 12</text>
+  </g>
+</svg>
