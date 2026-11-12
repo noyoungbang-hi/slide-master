@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="kicker">
+    <rect x="72" y="60" width="48" height="6" fill="#1F8A3E"/>
+    <text x="72" y="104" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">2027 유통지원단 슬로건</text>
+  </g>
+  <g id="slogan">
+    <text x="72" y="196" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#0B1F4B">Build Up <tspan fill="#1F8A3E">Beyond</tspan></text>
+  </g>
+  <g id="ground">
+    <line x1="72" y1="540" x2="1208" y2="540" stroke="#D9DEE7" stroke-width="2"/>
+  </g>
+  <g id="zone-build">
+    <rect x="72" y="490" width="96" height="50" fill="#DCE4F2"/>
+    <rect x="180" y="460" width="96" height="80" fill="#DCE4F2"/>
+    <rect x="288" y="430" width="96" height="110" fill="#6C86B8"/>
+  </g>
+  <g id="zone-up">
+    <rect x="470" y="340" width="130" height="200" fill="#0B1F4B"/>
+    <rect x="486" y="360" width="20" height="16" fill="#DCE4F2"/>
+    <rect x="526" y="360" width="20" height="16" fill="#DCE4F2"/>
+    <rect x="566" y="360" width="20" height="16" fill="#DCE4F2"/>
+    <rect x="486" y="392" width="20" height="16" fill="#DCE4F2"/>
+    <rect x="526" y="392" width="20" height="16" fill="#DCE4F2"/>
+    <rect x="566" y="392" width="20" height="16" fill="#DCE4F2"/>
+    <rect x="486" y="424" width="20" height="16" fill="#DCE4F2"/>
+    <rect x="526" y="424" width="20" height="16" fill="#DCE4F2"/>
+    <rect x="566" y="424" width="20" height="16" fill="#DCE4F2"/>
+    <rect x="486" y="456" width="20" height="16" fill="#DCE4F2"/>
+    <rect x="526" y="456" width="20" height="16" fill="#DCE4F2"/>
+    <rect x="566" y="456" width="20" height="16" fill="#DCE4F2"/>
+    <rect x="620" y="410" width="100" height="130" fill="#0B1F4B"/>
+    <rect x="636" y="430" width="20" height="16" fill="#DCE4F2"/>
+    <rect x="676" y="430" width="20" height="16" fill="#DCE4F2"/>
+    <rect x="636" y="462" width="20" height="16" fill="#DCE4F2"/>
+    <rect x="676" y="462" width="20" height="16" fill="#DCE4F2"/>
+    <rect x="732" y="460" width="86" height="80" fill="#6C86B8"/>
+  </g>
+  <g id="crane">
+    <line x1="535" y1="340" x2="535" y2="250" stroke="#1F8A3E" stroke-width="6"/>
+    <line x1="500" y1="250" x2="700" y2="250" stroke="#1F8A3E" stroke-width="6"/>
+    <rect x="488" y="244" width="24" height="14" fill="#1F8A3E"/>
+    <line x1="680" y1="250" x2="680" y2="300" stroke="#1F8A3E" stroke-width="2"/>
+    <rect x="672" y="300" width="16" height="10" fill="#1F8A3E"/>
+  </g>
+  <g id="network-links">
+    <line x1="700" y1="250" x2="800" y2="300" stroke="#6C86B8" stroke-width="2" stroke-dasharray="6 6"/>
+    <line x1="800" y1="300" x2="880" y2="360" stroke="#6C86B8" stroke-width="2"/>
+    <line x1="800" y1="300" x2="950" y2="290" stroke="#6C86B8" stroke-width="2"/>
+    <line x1="880" y1="360" x2="1010" y2="380" stroke="#6C86B8" stroke-width="2"/>
+    <line x1="950" y1="290" x2="1010" y2="380" stroke="#6C86B8" stroke-width="2"/>
+    <line x1="950" y1="290" x2="1070" y2="300" stroke="#6C86B8" stroke-width="2"/>
+    <line x1="1010" y1="380" x2="1070" y2="300" stroke="#6C86B8" stroke-width="2"/>
+    <line x1="1010" y1="380" x2="1130" y2="380" stroke="#6C86B8" stroke-width="2"/>
+    <line x1="1070" y1="300" x2="1150" y2="260" stroke="#6C86B8" stroke-width="2"/>
+    <line x1="1070" y1="300" x2="1130" y2="380" stroke="#6C86B8" stroke-width="2"/>
+    <line x1="1130" y1="380" x2="1220" y2="330" stroke="#6C86B8" stroke-width="2"/>
+    <line x1="1150" y1="260" x2="1220" y2="330" stroke="#6C86B8" stroke-width="2"/>
+  </g>
+  <g id="network-nodes">
+    <circle cx="800" cy="300" r="8" fill="#2F6FC5"/>
+    <circle cx="880" cy="360" r="10" fill="#6C86B8"/>
+    <circle cx="950" cy="290" r="8" fill="#2F6FC5"/>
+    <circle cx="1010" cy="380" r="12" fill="#1F8A3E"/>
+    <circle cx="1070" cy="300" r="8" fill="#6C86B8"/>
+    <circle cx="1130" cy="380" r="10" fill="#2F6FC5"/>
+    <circle cx="1150" cy="260" r="8" fill="#1F8A3E"/>
+    <circle cx="1220" cy="330" r="8" fill="#6C86B8"/>
+  </g>
+  <g id="zone-beyond-plan">
+    <rect x="880" y="490" width="90" height="50" fill="none" stroke="#6C86B8" stroke-width="2" stroke-dasharray="8 6"/>
+    <rect x="990" y="460" width="90" height="80" fill="none" stroke="#6C86B8" stroke-width="2" stroke-dasharray="8 6"/>
+    <rect x="1100" y="430" width="90" height="110" fill="none" stroke="#6C86B8" stroke-width="2" stroke-dasharray="8 6"/>
+  </g>
+  <g id="caption-build">
+    <text x="72" y="592" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">Build</text>
+    <text x="72" y="632" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">2009년부터 인프라를 만들고</text>
+    <text x="72" y="664" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">넓혀 왔습니다</text>
+  </g>
+  <g id="caption-up">
+    <text x="470" y="592" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#0B1F4B">Up</text>
+    <text x="470" y="632" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">2027년 Hub센터를 안정시키고</text>
+    <text x="470" y="664" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">통합 운영모델을 완성합니다</text>
+  </g>
+  <g id="caption-beyond">
+    <text x="880" y="592" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#1F8A3E">Beyond</text>
+    <text x="880" y="632" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">물리적 거점을 넘어</text>
+    <text x="880" y="664" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">데이터 기반 지능형 물류로</text>
+  </g>
+  <g id="page-no">
+    <text x="1208" y="700" text-anchor="end" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="18" fill="#8A93A3">11 / 12</text>
+  </g>
+</svg>

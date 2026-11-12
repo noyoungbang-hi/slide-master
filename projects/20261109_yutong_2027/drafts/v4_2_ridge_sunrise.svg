@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#F2F5FA"/>
+  <g id="sun">
+    <circle cx="1000" cy="340" r="130" fill="#DDF1E3"/>
+    <circle cx="1000" cy="340" r="78" fill="#1F8A3E"/>
+  </g>
+  <g id="ridge-far">
+    <path d="M0 470 L180 420 L330 455 L520 380 L700 440 L900 372 L1100 430 L1280 392 L1280 720 L0 720 Z" fill="#DCE4F2"/>
+  </g>
+  <g id="ridge-mid">
+    <path d="M0 540 L160 500 L320 530 L520 470 L720 525 L940 470 L1120 520 L1280 485 L1280 720 L0 720 Z" fill="#6C86B8"/>
+  </g>
+  <g id="ridge-near">
+    <path d="M0 590 L200 560 L420 585 L640 550 L860 580 L1080 554 L1280 576 L1280 720 L0 720 Z" fill="#0B1F4B"/>
+  </g>
+  <g id="hub-on-ridge">
+    <rect x="616" y="520" width="48" height="30" fill="#FFFFFF"/>
+    <polygon points="610,520 640,500 670,520" fill="#DCE4F2"/>
+    <rect x="632" y="534" width="16" height="16" fill="#0B1F4B"/>
+    <line x1="640" y1="500" x2="640" y2="466" stroke="#1F8A3E" stroke-width="3"/>
+    <polygon points="640,466 670,477 640,488" fill="#1F8A3E"/>
+  </g>
+  <g id="kicker">
+    <rect x="72" y="60" width="48" height="6" fill="#1F8A3E"/>
+    <text x="72" y="104" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">2027 유통지원단 슬로건</text>
+  </g>
+  <g id="slogan">
+    <text x="72" y="196" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#0B1F4B">Build Up <tspan fill="#1F8A3E">Beyond</tspan></text>
+  </g>
+  <g id="caption-build">
+    <text x="72" y="624" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#DDF1E3">Build</text>
+    <text x="72" y="664" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">2009년부터 인프라를 만들고</text>
+    <text x="72" y="696" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">넓혀 왔습니다</text>
+  </g>
+  <g id="caption-up">
+    <text x="470" y="624" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#DDF1E3">Up</text>
+    <text x="470" y="664" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">2027년 Hub센터를 안정시키고</text>
+    <text x="470" y="696" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">통합 운영모델을 완성합니다</text>
+  </g>
+  <g id="caption-beyond">
+    <text x="880" y="624" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="700" fill="#DDF1E3">Beyond</text>
+    <text x="880" y="664" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">물리적 거점을 넘어</text>
+    <text x="880" y="696" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">데이터 기반 지능형 물류로</text>
+  </g>
+</svg>

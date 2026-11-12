@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#0B1F4B"/>
+  <g id="rings">
+    <circle cx="1000" cy="380" r="330" fill="none" stroke="#6C86B8" stroke-width="2" stroke-dasharray="8 10"/>
+    <circle cx="1000" cy="380" r="215" fill="none" stroke="#6C86B8" stroke-width="3"/>
+    <circle cx="1000" cy="380" r="120" fill="none" stroke="#DCE4F2" stroke-width="4"/>
+  </g>
+  <g id="links">
+    <line x1="1000" y1="380" x2="887" y2="339" stroke="#DCE4F2" stroke-width="2"/>
+    <line x1="1000" y1="380" x2="1092" y2="303" stroke="#DCE4F2" stroke-width="2"/>
+    <line x1="1000" y1="380" x2="1021" y2="498" stroke="#DCE4F2" stroke-width="2"/>
+    <line x1="887" y1="339" x2="877" y2="204" stroke="#6C86B8" stroke-width="2"/>
+    <line x1="887" y1="339" x2="814" y2="488" stroke="#6C86B8" stroke-width="2"/>
+    <line x1="1092" y1="303" x2="1108" y2="194" stroke="#6C86B8" stroke-width="2"/>
+    <line x1="1092" y1="303" x2="1208" y2="436" stroke="#6C86B8" stroke-width="2"/>
+    <line x1="1021" y1="498" x2="1019" y2="594" stroke="#6C86B8" stroke-width="2"/>
+    <line x1="877" y1="204" x2="915" y2="61" stroke="#6C86B8" stroke-width="2" stroke-dasharray="6 8"/>
+    <line x1="1108" y1="194" x2="1165" y2="94" stroke="#6C86B8" stroke-width="2" stroke-dasharray="6 8"/>
+    <line x1="814" y1="488" x2="835" y2="666" stroke="#6C86B8" stroke-width="2" stroke-dasharray="6 8"/>
+    <line x1="814" y1="488" x2="675" y2="323" stroke="#6C86B8" stroke-width="2" stroke-dasharray="6 8"/>
+  </g>
+  <g id="nodes-build">
+    <circle cx="887" cy="339" r="9" fill="#FFFFFF"/>
+    <circle cx="1092" cy="303" r="9" fill="#FFFFFF"/>
+    <circle cx="1021" cy="498" r="9" fill="#FFFFFF"/>
+  </g>
+  <g id="nodes-up">
+    <circle cx="877" cy="204" r="10" fill="#DDF1E3"/>
+    <circle cx="814" cy="488" r="10" fill="#DDF1E3"/>
+    <circle cx="1108" cy="194" r="10" fill="#DDF1E3"/>
+    <circle cx="1208" cy="436" r="10" fill="#DDF1E3"/>
+    <circle cx="1019" cy="594" r="10" fill="#DDF1E3"/>
+  </g>
+  <g id="nodes-beyond">
+    <circle cx="915" cy="61" r="11" fill="#1F8A3E"/>
+    <circle cx="1165" cy="94" r="11" fill="#1F8A3E"/>
+    <circle cx="835" cy="666" r="11" fill="#1F8A3E"/>
+    <circle cx="675" cy="323" r="11" fill="#1F8A3E"/>
+  </g>
+  <g id="hub">
+    <circle cx="1000" cy="380" r="64" fill="#FFFFFF"/>
+    <polygon points="966,380 1000,350 1034,380" fill="#0B1F4B"/>
+    <rect x="974" y="380" width="52" height="30" fill="#0B1F4B"/>
+    <rect x="990" y="388" width="20" height="22" fill="#1F8A3E"/>
+  </g>
+  <g id="kicker">
+    <rect x="72" y="60" width="48" height="6" fill="#1F8A3E"/>
+    <text x="72" y="104" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#DDF1E3">2027 유통지원단 슬로건</text>
+  </g>
+  <g id="slogan">
+    <text x="72" y="210" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#FFFFFF">Build Up</text>
+    <text x="72" y="300" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#DDF1E3">Beyond</text>
+  </g>
+  <g id="beat-build">
+    <text x="72" y="400" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#DDF1E3">Build</text>
+    <text x="72" y="432" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">2009년부터 인프라를 만들고 넓혔습니다</text>
+  </g>
+  <g id="beat-up">
+    <text x="72" y="500" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#DDF1E3">Up</text>
+    <text x="72" y="532" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">2027년 Hub센터 안정화, 통합 운영모델 완성</text>
+  </g>
+  <g id="beat-beyond">
+    <text x="72" y="600" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#DDF1E3">Beyond</text>
+    <text x="72" y="632" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">거점을 넘어, 데이터 기반 지능형 물류로</text>
+  </g>
+</svg>
