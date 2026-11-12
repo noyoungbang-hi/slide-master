@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="kicker">
+    <rect x="72" y="52" width="48" height="6" fill="#1F8A3E"/>
+    <text x="72" y="92" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#1F8A3E">2027 유통지원단 슬로건</text>
+  </g>
+  <g id="slogan">
+    <text x="72" y="184" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#0B1F4B">Build Up <tspan fill="#1F8A3E">Beyond</tspan></text>
+  </g>
+  <g id="panel-build">
+    <image href="../images/build_a.jpg" xlink:href="../images/build_a.jpg" x="72" y="236" width="360" height="330" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="72" y="526" width="120" height="40" fill="#0B1F4B"/>
+    <text x="132" y="555" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">Build</text>
+  </g>
+  <g id="panel-up">
+    <image href="../images/stairs_a.jpg" xlink:href="../images/stairs_a.jpg" x="460" y="236" width="360" height="330" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="460" y="526" width="120" height="40" fill="#0B1F4B"/>
+    <text x="520" y="555" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">Up</text>
+  </g>
+  <g id="panel-beyond">
+    <image href="../images/ridge_a.jpg" xlink:href="../images/ridge_a.jpg" x="848" y="236" width="360" height="330" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="848" y="526" width="120" height="40" fill="#1F8A3E"/>
+    <text x="908" y="555" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">Beyond</text>
+  </g>
+  <g id="caption-build">
+    <text x="72" y="612" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">2009년부터 인프라를 만들고</text>
+    <text x="72" y="644" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">넓혀 왔습니다</text>
+  </g>
+  <g id="caption-up">
+    <text x="460" y="612" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">2027년 Hub센터를 안정시키고</text>
+    <text x="460" y="644" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">통합 운영모델을 완성합니다</text>
+  </g>
+  <g id="caption-beyond">
+    <text x="848" y="612" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">물리적 거점을 넘어</text>
+    <text x="848" y="644" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#5B6577">데이터 기반 지능형 물류로</text>
+  </g>
+</svg>

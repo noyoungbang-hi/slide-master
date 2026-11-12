@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect x="0" y="0" width="1280" height="720" fill="#0B1F4B"/>
+  <image href="../images/stairs_a.jpg" xlink:href="../images/stairs_a.jpg" x="560" y="0" width="720" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="560" y="0" width="6" height="720" fill="#1F8A3E"/>
+  <g id="kicker">
+    <rect x="72" y="60" width="48" height="6" fill="#1F8A3E"/>
+    <text x="72" y="104" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#DDF1E3">2027 유통지원단 슬로건</text>
+  </g>
+  <g id="slogan">
+    <text x="72" y="200" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#FFFFFF">Build Up</text>
+    <text x="72" y="290" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#DDF1E3">Beyond</text>
+  </g>
+  <g id="beat-build">
+    <text x="72" y="380" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#DDF1E3">Build</text>
+    <text x="72" y="412" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">2009년부터 인프라를</text>
+    <text x="72" y="444" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">만들고 넓혀 왔습니다</text>
+  </g>
+  <g id="beat-up">
+    <text x="72" y="500" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#DDF1E3">Up</text>
+    <text x="72" y="532" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">2027년 Hub센터 안정화,</text>
+    <text x="72" y="564" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">통합 운영모델 완성</text>
+  </g>
+  <g id="beat-beyond">
+    <text x="72" y="620" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#DDF1E3">Beyond</text>
+    <text x="72" y="652" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">거점을 넘어,</text>
+    <text x="72" y="684" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#DCE4F2">데이터 기반 지능형 물류로</text>
+  </g>
+</svg>

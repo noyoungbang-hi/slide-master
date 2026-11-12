@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "filename": "ridge_a.jpg",
+      "query": "mountain ridge sunrise",
+      "slide": "11_build_up_beyond",
+      "purpose": "background",
+      "orientation": "landscape",
+      "strict_no_attribution": true,
+      "min_width": 1600,
+      "status": "Sourced",
+      "provider": "openverse",
+      "license_tier": "no-attribution"
+    },
+    {
+      "filename": "ridge_b.jpg",
+      "query": "hills horizon sunrise mist",
+      "slide": "11_build_up_beyond",
+      "purpose": "background",
+      "orientation": "landscape",
+      "strict_no_attribution": true,
+      "min_width": 1600,
+      "status": "Sourced",
+      "provider": "openverse",
+      "license_tier": "no-attribution"
+    },
+    {
+      "filename": "stairs_a.jpg",
+      "query": "stairs upward steps",
+      "slide": "11_build_up_beyond",
+      "purpose": "side",
+      "orientation": "landscape",
+      "strict_no_attribution": true,
+      "min_width": 1600,
+      "status": "Sourced",
+      "provider": "openverse",
+      "license_tier": "no-attribution"
+    },
+    {
+      "filename": "stairs_b.jpg",
+      "query": "staircase steps outdoors",
+      "slide": "11_build_up_beyond",
+      "purpose": "side",
+      "orientation": "landscape",
+      "strict_no_attribution": true,
+      "min_width": 1600,
+      "status": "Needs-Manual",
+      "last_error": "no acceptable candidate across all providers/stages"
+    },
+    {
+      "filename": "build_a.jpg",
+      "query": "construction crane sunrise",
+      "slide": "11_build_up_beyond",
+      "purpose": "side",
+      "orientation": "landscape",
+      "strict_no_attribution": true,
+      "min_width": 1600,
+      "status": "Sourced",
+      "provider": "openverse",
+      "license_tier": "no-attribution"
+    },
+    {
+      "filename": "build_b.jpg",
+      "query": "skyscraper construction steel structure",
+      "slide": "11_build_up_beyond",
+      "purpose": "side",
+      "orientation": "landscape",
+      "strict_no_attribution": true,
+      "min_width": 1600,
+      "status": "Needs-Manual",
+      "last_error": "no acceptable candidate across all providers/stages"
+    }
+  ]
+}
