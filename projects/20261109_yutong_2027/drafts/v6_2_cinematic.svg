@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <defs><linearGradient id="b" x1="0" y1="250" x2="0" y2="720" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0B1F4B" stop-opacity="0"/><stop offset="1" stop-color="#0B1F4B" stop-opacity="0.86"/></linearGradient></defs>
+  <rect x="0" y="0" width="1280" height="720" fill="#0B1F4B"/>
+  <image href="../images/ridge_b.jpg" xlink:href="../images/ridge_b.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="0" y="250" width="1280" height="470" fill="url(#b)"/>
+  <g id="kicker"><rect x="72" y="70" width="48" height="6" fill="#1F8A3E"/>
+    <text x="72" y="116" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">2027 유통지원단 슬로건</text></g>
+  <g id="slogan"><text x="72" y="596" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="80" font-weight="700" fill="#FFFFFF">Build Up <tspan fill="#DDF1E3">Beyond</tspan></text>
+    <text x="72" y="664" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" fill="#FFFFFF">우리는 지어 왔고, 올려 왔고, 이제 넘어섭니다.</text></g>
+</svg>
