@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <defs><linearGradient id="t" x1="0" y1="0" x2="0" y2="440" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0B1F4B" stop-opacity="0.55"/><stop offset="1" stop-color="#0B1F4B" stop-opacity="0"/></linearGradient><linearGradient id="b" x1="0" y1="500" x2="0" y2="720" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0B1F4B" stop-opacity="0"/><stop offset="1" stop-color="#0B1F4B" stop-opacity="0.78"/></linearGradient></defs>
+  <rect x="0" y="0" width="1280" height="720" fill="#0B1F4B"/>
+  <image href="../images/dawn_b.jpg" xlink:href="../images/dawn_b.jpg" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="0" y="0" width="1280" height="440" fill="url(#t)"/>
+  <rect x="0" y="500" width="1280" height="220" fill="url(#b)"/>
+  <g id="kicker"><rect x="616" y="70" width="48" height="6" fill="#1F8A3E"/>
+    <text x="640" y="116" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" font-weight="700" fill="#DDF1E3">2027 유통지원단 슬로건</text></g>
+    <g id="slogan"><text x="640" y="226" text-anchor="middle" font-family="Anton, sans-serif" font-size="96" letter-spacing="6" fill="#FFFFFF">BUILD UP <tspan fill="#35C46A">BEYOND</tspan></text>
+    <text x="640" y="290" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="32" font-weight="300" fill="#FFFFFF">우리는 지어 왔고, 올려 왔고, 이제 넘어섭니다.</text></g>
+  <g id="beats">
+    <text x="213" y="628" text-anchor="middle" font-family="Anton, sans-serif" font-size="24" fill="#FFFFFF">BUILD</text>
+    <text x="213" y="664" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">2009년부터 인프라 구축·확장</text>
+    <text x="640" y="628" text-anchor="middle" font-family="Anton, sans-serif" font-size="24" fill="#FFFFFF">UP</text>
+    <text x="640" y="664" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">Hub센터 안정화·통합 운영모델</text>
+    <text x="1067" y="628" text-anchor="middle" font-family="Anton, sans-serif" font-size="24" fill="#35C46A">BEYOND</text>
+    <text x="1067" y="664" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', sans-serif" font-size="24" fill="#FFFFFF">데이터 기반 지능형 물류로</text></g>
+</svg>
