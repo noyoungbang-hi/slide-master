@@ -88,8 +88,50 @@
         "height": 2898,
         "note": "upstream-reported size; actual downloaded file is smaller (likely a preview)"
       }
+    },
+    {
+      "filename": "dawn_a.jpg",
+      "slide": "11_build_up_beyond",
+      "purpose": "background",
+      "search_query": "sunrise mountains above clouds",
+      "orientation": "landscape",
+      "provider": "openverse",
+      "stage": "no-attribution-only",
+      "title": "A tranquil landscape featuring rolling hills partially covered in soft, low-lying fog. The scene is bathed in warm hues of orange and gold, suggesting either sunrise or sunset, with a clear sky above and a silhouette of distant mountains on the horizon.",
+      "author": "Asun Adá",
+      "source_page_url": "https://wordpress.org/photos/photo/55968e7db0/",
+      "download_url": "https://pd.w.org/2025/10/55968e7db040d82f2.16448390-2048x1365.jpg",
+      "license_name": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 2048,
+      "height": 1365,
+      "attribution_text": "dawn_a.jpg — \"A tranquil landscape featuring rolling hills partially covered in soft, low-lying fog. The scene is bathed in warm hues of orange and gold, suggesting either sunrise or sunset, with a clear sky above and a silhouette of distant mountains on the horizon.\" by Asun Adá via Openverse — license: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)",
+      "status": "sourced"
+    },
+    {
+      "filename": "dawn_b.jpg",
+      "slide": "11_build_up_beyond",
+      "purpose": "background",
+      "search_query": "sunrise over mountains",
+      "orientation": "landscape",
+      "provider": "openverse",
+      "stage": "no-attribution-only",
+      "title": "Sunrise over the Himalayan Mountains.",
+      "author": "Rashed Hossain",
+      "source_page_url": "https://wordpress.org/photos/photo/769667bb22/",
+      "download_url": "https://pd.w.org/2024/06/769667bb22e8ce547.47789807-2048x1542.jpg",
+      "license_name": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_tier": "no-attribution",
+      "attribution_required": false,
+      "width": 2048,
+      "height": 1542,
+      "attribution_text": "dawn_b.jpg — \"Sunrise over the Himalayan Mountains.\" by Rashed Hossain via Openverse — license: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)",
+      "status": "sourced"
     }
   ],
-  "generated_at": "2026-11-12T01:33:56.408382Z",
+  "generated_at": "2026-11-12T01:50:05.058824Z",
   "license_verification": "provider metadata used; manual review recommended for external delivery"
 }

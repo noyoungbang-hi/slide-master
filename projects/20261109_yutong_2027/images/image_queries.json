@@ -69,6 +69,52 @@
       "min_width": 1600,
       "status": "Needs-Manual",
       "last_error": "no acceptable candidate across all providers/stages"
+    },
+    {
+      "filename": "dawn_a.jpg",
+      "query": "sunrise mountains above clouds",
+      "slide": "11_build_up_beyond",
+      "purpose": "background",
+      "orientation": "landscape",
+      "strict_no_attribution": true,
+      "min_width": 1920,
+      "status": "Sourced",
+      "provider": "openverse",
+      "license_tier": "no-attribution"
+    },
+    {
+      "filename": "dawn_b.jpg",
+      "query": "sunrise over mountains",
+      "slide": "11_build_up_beyond",
+      "purpose": "background",
+      "orientation": "landscape",
+      "strict_no_attribution": true,
+      "min_width": 1920,
+      "status": "Sourced",
+      "provider": "openverse",
+      "license_tier": "no-attribution"
+    },
+    {
+      "filename": "dawn_c.jpg",
+      "query": "mountain range dawn",
+      "slide": "11_build_up_beyond",
+      "purpose": "background",
+      "orientation": "landscape",
+      "strict_no_attribution": true,
+      "min_width": 1920,
+      "status": "Needs-Manual",
+      "last_error": "no acceptable candidate across all providers/stages"
+    },
+    {
+      "filename": "dawn_d.jpg",
+      "query": "clouds below mountain sunrise",
+      "slide": "11_build_up_beyond",
+      "purpose": "background",
+      "orientation": "landscape",
+      "strict_no_attribution": true,
+      "min_width": 1920,
+      "status": "Needs-Manual",
+      "last_error": "no acceptable candidate across all providers/stages"
     }
   ]
 }
